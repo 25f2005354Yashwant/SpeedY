@@ -1,0 +1,58 @@
+{
+ "pokemon": [
+  {
+   "species": "delibird",
+   "moves": [
+    "ice-beam",
+    "aerial-ace",
+    "signal-beam",
+    "brick-break"
+   ]
+  },
+  {
+   "species": "hippowdon",
+   "moves": [
+    "earthquake",
+    "stone-edge",
+    "ice-fang",
+    "fire-fang"
+   ]
+  },
+  {
+   "species": "slaking",
+   "moves": [
+    "earthquake",
+    "ice-punch",
+    "strength",
+    "thunder-punch"
+   ]
+  },
+  {
+   "species": "marill",
+   "moves": [
+    "ice-beam",
+    "surf",
+    "double-edge",
+    "aqua-jet"
+   ]
+  },
+  {
+   "species": "leafeon",
+   "moves": [
+    "leaf-blade",
+    "x-scissor",
+    "aerial-ace",
+    "quick-attack"
+   ]
+  },
+  {
+   "species": "diglett",
+   "moves": [
+    "earthquake",
+    "earth-power",
+    "aerial-ace",
+    "shadow-claw"
+   ]
+  }
+ ]
+}

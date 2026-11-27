@@ -1,0 +1,84 @@
+{
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "patient",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 1.2,
+ "switch_cooldown": 1,
+ "danger_threshold": 0.5,
+ "weak_offense_threshold": 0.6,
+ "aggression": 0.65,
+ "status_weight": 1.8,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.5,
+ "closer_species": "tangrowth",
+ "stall_penalty": 0.5,
+ "variant": "t_bulky",
+ "team": [
+  {
+   "species": "snorlax",
+   "moves": [
+    "double-edge",
+    "earthquake",
+    "gunk-shot",
+    "seed-bomb"
+   ]
+  },
+  {
+   "species": "blissey",
+   "moves": [
+    "fire-blast",
+    "thunderbolt",
+    "ice-beam",
+    "psychic"
+   ]
+  },
+  {
+   "species": "hippowdon",
+   "moves": [
+    "earthquake",
+    "double-edge",
+    "stone-edge",
+    "iron-head"
+   ]
+  },
+  {
+   "species": "milotic",
+   "moves": [
+    "hydro-pump",
+    "ice-beam",
+    "dragon-pulse",
+    "swift"
+   ]
+  },
+  {
+   "species": "dusknoir",
+   "moves": [
+    "earthquake",
+    "shadow-punch",
+    "strength",
+    "thunder-punch"
+   ]
+  },
+  {
+   "species": "tangrowth",
+   "moves": [
+    "power-whip",
+    "earthquake",
+    "sludge-bomb",
+    "focus-blast"
+   ]
+  }
+ ],
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}

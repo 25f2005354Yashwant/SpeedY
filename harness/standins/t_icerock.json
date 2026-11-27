@@ -1,0 +1,84 @@
+{
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "aggressive",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 9.0,
+ "switch_cooldown": 99,
+ "danger_threshold": 0.95,
+ "weak_offense_threshold": 0.1,
+ "aggression": 1.8,
+ "status_weight": 1.0,
+ "priority_weight": 1.3,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "abomasnow",
+ "stall_penalty": 0.5,
+ "variant": "t_icerock",
+ "team": [
+  {
+   "species": "mamoswine",
+   "moves": [
+    "earthquake",
+    "ice-fang",
+    "strength",
+    "stone-edge"
+   ]
+  },
+  {
+   "species": "weavile",
+   "moves": [
+    "ice-punch",
+    "night-slash",
+    "x-scissor",
+    "strength"
+   ]
+  },
+  {
+   "species": "tyranitar",
+   "moves": [
+    "stone-edge",
+    "crunch",
+    "earthquake",
+    "aqua-tail"
+   ]
+  },
+  {
+   "species": "rhyperior",
+   "moves": [
+    "earthquake",
+    "stone-edge",
+    "megahorn",
+    "aqua-tail"
+   ]
+  },
+  {
+   "species": "froslass",
+   "moves": [
+    "ice-beam",
+    "shadow-ball",
+    "thunderbolt",
+    "psychic"
+   ]
+  },
+  {
+   "species": "abomasnow",
+   "moves": [
+    "wood-hammer",
+    "ice-beam",
+    "earthquake",
+    "focus-blast"
+   ]
+  }
+ ],
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}

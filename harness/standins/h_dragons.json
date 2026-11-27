@@ -1,0 +1,84 @@
+{
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "aggressive",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 2.0,
+ "switch_cooldown": 6,
+ "danger_threshold": 0.6,
+ "weak_offense_threshold": 0.4,
+ "aggression": 1.5,
+ "status_weight": 1.0,
+ "priority_weight": 1.8,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "altaria",
+ "stall_penalty": 0.5,
+ "variant": "h_dragons",
+ "team": [
+  {
+   "species": "garchomp",
+   "moves": [
+    "earthquake",
+    "dragon-claw",
+    "aqua-tail",
+    "strength"
+   ]
+  },
+  {
+   "species": "dragonite",
+   "moves": [
+    "dragon-claw",
+    "earthquake",
+    "aerial-ace",
+    "aqua-tail"
+   ]
+  },
+  {
+   "species": "salamence",
+   "moves": [
+    "dragon-claw",
+    "double-edge",
+    "earthquake",
+    "aerial-ace"
+   ]
+  },
+  {
+   "species": "kingdra",
+   "moves": [
+    "hydro-pump",
+    "dragon-pulse",
+    "ice-beam",
+    "flash-cannon"
+   ]
+  },
+  {
+   "species": "flygon",
+   "moves": [
+    "earthquake",
+    "dragon-claw",
+    "fire-blast",
+    "strength"
+   ]
+  },
+  {
+   "species": "altaria",
+   "moves": [
+    "dragon-pulse",
+    "fire-blast",
+    "earthquake",
+    "ice-beam"
+   ]
+  }
+ ],
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}

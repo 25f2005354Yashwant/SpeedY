@@ -1,0 +1,14259 @@
+{
+ "bulbasaur": {
+  "cost": 4,
+  "sets": [
+   [
+    "power-whip",
+    "energy-ball",
+    "double-edge",
+    "rock-smash"
+   ],
+   [
+    "energy-ball",
+    "power-whip",
+    "sludge-bomb",
+    "double-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.336,
+   3.317
+  ],
+  "mean_dmg_frac_broad": [
+   0.409,
+   0.47
+  ],
+  "spe": 65,
+  "hp": 120,
+  "priority": []
+ },
+ "ivysaur": {
+  "cost": 6,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "double-edge",
+    "rock-smash"
+   ],
+   [
+    "energy-ball",
+    "sludge-bomb",
+    "seed-bomb",
+    "double-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.22,
+   4.196
+  ],
+  "mean_dmg_frac_broad": [
+   0.457,
+   0.53
+  ],
+  "spe": 80,
+  "hp": 135,
+  "priority": []
+ },
+ "venusaur": {
+  "cost": 9,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "earthquake",
+    "double-edge"
+   ],
+   [
+    "energy-ball",
+    "sludge-bomb",
+    "seed-bomb",
+    "earthquake"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.936,
+   5.848
+  ],
+  "mean_dmg_frac_broad": [
+   0.608,
+   0.687
+  ],
+  "spe": 100,
+  "hp": 155,
+  "priority": []
+ },
+ "charmander": {
+  "cost": 4,
+  "sets": [
+   [
+    "flare-blitz",
+    "dragon-rage",
+    "dragon-claw",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "dragon-rage",
+    "thunder-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.931,
+   0.931
+  ],
+  "mean_dmg_frac_broad": [
+   0.473,
+   0.5
+  ],
+  "spe": 85,
+  "hp": 114,
+  "priority": []
+ },
+ "charmeleon": {
+  "cost": 6,
+  "sets": [
+   [
+    "fire-blast",
+    "dragon-rage",
+    "dragon-claw",
+    "thunder-punch"
+   ],
+   [
+    "fire-blast",
+    "rock-slide",
+    "thunder-punch",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.362,
+   3.231
+  ],
+  "mean_dmg_frac_broad": [
+   0.549,
+   0.556
+  ],
+  "spe": 100,
+  "hp": 133,
+  "priority": []
+ },
+ "charizard": {
+  "cost": 10,
+  "sets": [
+   [
+    "fire-blast",
+    "air-slash",
+    "dragon-pulse",
+    "thunder-punch"
+   ],
+   [
+    "fire-blast",
+    "air-slash",
+    "focus-blast",
+    "earthquake"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.744,
+   7.209
+  ],
+  "mean_dmg_frac_broad": [
+   0.734,
+   0.775
+  ],
+  "spe": 120,
+  "hp": 153,
+  "priority": []
+ },
+ "squirtle": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "hydro-pump",
+    "strength"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "brick-break",
+    "zen-headbutt"
+   ],
+   [
+    "ice-beam",
+    "hydro-pump",
+    "zen-headbutt",
+    "aqua-jet"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "brick-break",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.467,
+   2.446,
+   2.437,
+   2.582
+  ],
+  "mean_dmg_frac_broad": [
+   0.382,
+   0.399,
+   0.386,
+   0.392
+  ],
+  "spe": 63,
+  "hp": 119,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "wartortle": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "hydro-pump",
+    "brick-break"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "brick-break",
+    "zen-headbutt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.418,
+   3.418
+  ],
+  "mean_dmg_frac_broad": [
+   0.475,
+   0.482
+  ],
+  "spe": 78,
+  "hp": 134,
+  "priority": []
+ },
+ "blastoise": {
+  "cost": 10,
+  "sets": [
+   [
+    "ice-beam",
+    "earthquake",
+    "ice-punch",
+    "hydro-pump"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "earthquake",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.495,
+   6.349
+  ],
+  "mean_dmg_frac_broad": [
+   0.609,
+   0.634
+  ],
+  "spe": 98,
+  "hp": 154,
+  "priority": []
+ },
+ "butterfree": {
+  "cost": 6,
+  "sets": [
+   [
+    "bug-buzz",
+    "energy-ball",
+    "psychic",
+    "shadow-ball"
+   ],
+   [
+    "bug-buzz",
+    "air-cutter",
+    "psychic",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.736,
+   3.634
+  ],
+  "mean_dmg_frac_broad": [
+   0.52,
+   0.528
+  ],
+  "spe": 90,
+  "hp": 135,
+  "priority": []
+ },
+ "beedrill": {
+  "cost": 6,
+  "sets": [
+   [
+    "x-scissor",
+    "brick-break",
+    "giga-drain",
+    "ominous-wind"
+   ],
+   [
+    "x-scissor",
+    "poison-jab",
+    "brick-break",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.751,
+   2.751
+  ],
+  "mean_dmg_frac_broad": [
+   0.427,
+   0.462
+  ],
+  "spe": 95,
+  "hp": 140,
+  "priority": []
+ },
+ "pidgey": {
+  "cost": 3,
+  "sets": [
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "wing-attack"
+   ],
+   [
+    "brave-bird",
+    "secret-power",
+    "heat-wave",
+    "steel-wing"
+   ],
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "quick-attack"
+   ],
+   [
+    "brave-bird",
+    "heat-wave",
+    "steel-wing",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.132,
+   1.132,
+   1.683,
+   1.683
+  ],
+  "mean_dmg_frac_broad": [
+   0.414,
+   0.43,
+   0.414,
+   0.428
+  ],
+  "spe": 76,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "pidgeotto": {
+  "cost": 5,
+  "sets": [
+   [
+    "aerial-ace",
+    "heat-wave",
+    "secret-power",
+    "ominous-wind"
+   ],
+   [
+    "aerial-ace",
+    "secret-power",
+    "heat-wave",
+    "u-turn"
+   ],
+   [
+    "aerial-ace",
+    "heat-wave",
+    "secret-power",
+    "quick-attack"
+   ],
+   [
+    "air-slash",
+    "secret-power",
+    "heat-wave",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.076,
+   2.056,
+   2.456,
+   2.647
+  ],
+  "mean_dmg_frac_broad": [
+   0.32,
+   0.333,
+   0.316,
+   0.318
+  ],
+  "spe": 91,
+  "hp": 138,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "pidgeot": {
+  "cost": 8,
+  "sets": [
+   [
+    "aerial-ace",
+    "air-slash",
+    "heat-wave",
+    "secret-power"
+   ],
+   [
+    "air-slash",
+    "secret-power",
+    "heat-wave",
+    "u-turn"
+   ],
+   [
+    "aerial-ace",
+    "heat-wave",
+    "secret-power",
+    "quick-attack"
+   ],
+   [
+    "air-slash",
+    "secret-power",
+    "heat-wave",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.442,
+   5.442,
+   5.555,
+   5.667
+  ],
+  "mean_dmg_frac_broad": [
+   0.413,
+   0.421,
+   0.396,
+   0.402
+  ],
+  "spe": 111,
+  "hp": 158,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "rattata": {
+  "cost": 3,
+  "sets": [
+   [
+    "double-edge",
+    "crunch",
+    "ice-beam",
+    "flame-wheel"
+   ],
+   [
+    "double-edge",
+    "crunch",
+    "ice-beam",
+    "thunderbolt"
+   ],
+   [
+    "double-edge",
+    "crunch",
+    "ice-beam",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.537,
+   0.537,
+   0.537
+  ],
+  "mean_dmg_frac_broad": [
+   0.399,
+   0.4,
+   0.393
+  ],
+  "spe": 92,
+  "hp": 105,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "raticate": {
+  "cost": 7,
+  "sets": [
+   [
+    "double-edge",
+    "ice-beam",
+    "strength",
+    "crunch"
+   ],
+   [
+    "double-edge",
+    "crunch",
+    "ice-beam",
+    "thunderbolt"
+   ],
+   [
+    "double-edge",
+    "ice-beam",
+    "crunch",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.013,
+   5.013,
+   5.013
+  ],
+  "mean_dmg_frac_broad": [
+   0.526,
+   0.54,
+   0.526
+  ],
+  "spe": 117,
+  "hp": 130,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "spearow": {
+  "cost": 3,
+  "sets": [
+   [
+    "drill-peck",
+    "aerial-ace",
+    "pluck",
+    "feint-attack"
+   ],
+   [
+    "drill-peck",
+    "secret-power",
+    "u-turn",
+    "heat-wave"
+   ],
+   [
+    "drill-peck",
+    "aerial-ace",
+    "feint-attack",
+    "quick-attack"
+   ],
+   [
+    "drill-peck",
+    "u-turn",
+    "heat-wave",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.539,
+   0.539,
+   1.376,
+   1.376
+  ],
+  "mean_dmg_frac_broad": [
+   0.346,
+   0.37,
+   0.346,
+   0.366
+  ],
+  "spe": 90,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "fearow": {
+  "cost": 7,
+  "sets": [
+   [
+    "drill-peck",
+    "aerial-ace",
+    "pluck",
+    "heat-wave"
+   ],
+   [
+    "drill-peck",
+    "secret-power",
+    "heat-wave",
+    "u-turn"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.796,
+   5.796
+  ],
+  "mean_dmg_frac_broad": [
+   0.487,
+   0.509
+  ],
+  "spe": 120,
+  "hp": 140,
+  "priority": []
+ },
+ "ekans": {
+  "cost": 3,
+  "sets": [
+   [
+    "earthquake",
+    "seed-bomb",
+    "gunk-shot",
+    "bite"
+   ],
+   [
+    "gunk-shot",
+    "earthquake",
+    "rock-slide",
+    "seed-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.821,
+   1.821
+  ],
+  "mean_dmg_frac_broad": [
+   0.4,
+   0.419
+  ],
+  "spe": 75,
+  "hp": 110,
+  "priority": []
+ },
+ "arbok": {
+  "cost": 7,
+  "sets": [
+   [
+    "earthquake",
+    "seed-bomb",
+    "ice-fang",
+    "crunch"
+   ],
+   [
+    "gunk-shot",
+    "earthquake",
+    "rock-slide",
+    "seed-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.483,
+   3.388
+  ],
+  "mean_dmg_frac_broad": [
+   0.495,
+   0.546
+  ],
+  "spe": 100,
+  "hp": 135,
+  "priority": []
+ },
+ "pichu": {
+  "cost": 1,
+  "sets": [
+   [
+    "volt-tackle",
+    "thunder-punch",
+    "headbutt",
+    "signal-beam"
+   ],
+   [
+    "volt-tackle",
+    "thunderbolt",
+    "signal-beam",
+    "iron-tail"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.418,
+   0.397
+  ],
+  "mean_dmg_frac_broad": [
+   0.396,
+   0.403
+  ],
+  "spe": 80,
+  "hp": 95,
+  "priority": []
+ },
+ "pikachu": {
+  "cost": 4,
+  "sets": [
+   [
+    "thunder-punch",
+    "thunderbolt",
+    "brick-break",
+    "strength"
+   ],
+   [
+    "thunderbolt",
+    "thunder-punch",
+    "brick-break",
+    "signal-beam"
+   ],
+   [
+    "thunder-punch",
+    "brick-break",
+    "strength",
+    "quick-attack"
+   ],
+   [
+    "thunderbolt",
+    "brick-break",
+    "signal-beam",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.175,
+   1.165,
+   1.104,
+   1.221
+  ],
+  "mean_dmg_frac_broad": [
+   0.394,
+   0.406,
+   0.343,
+   0.396
+  ],
+  "spe": 110,
+  "hp": 110,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "raichu": {
+  "cost": 8,
+  "sets": [
+   [
+    "thunderbolt",
+    "thunder-punch",
+    "focus-blast",
+    "strength"
+   ],
+   [
+    "thunderbolt",
+    "thunder-punch",
+    "focus-blast",
+    "signal-beam"
+   ],
+   [
+    "thunderbolt",
+    "focus-blast",
+    "strength",
+    "quick-attack"
+   ],
+   [
+    "thunderbolt",
+    "focus-blast",
+    "signal-beam",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.184,
+   4.929,
+   5.184,
+   4.836
+  ],
+  "mean_dmg_frac_broad": [
+   0.618,
+   0.635,
+   0.605,
+   0.622
+  ],
+  "spe": 120,
+  "hp": 135,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "sandshrew": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "aerial-ace",
+    "shadow-claw",
+    "night-slash"
+   ],
+   [
+    "earthquake",
+    "rock-slide",
+    "x-scissor",
+    "aerial-ace"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.669,
+   1.669
+  ],
+  "mean_dmg_frac_broad": [
+   0.514,
+   0.567
+  ],
+  "spe": 60,
+  "hp": 125,
+  "priority": []
+ },
+ "sandslash": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "aerial-ace",
+    "shadow-claw"
+   ],
+   [
+    "earthquake",
+    "stone-edge",
+    "x-scissor",
+    "aerial-ace"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.656,
+   3.648
+  ],
+  "mean_dmg_frac_broad": [
+   0.648,
+   0.742
+  ],
+  "spe": 85,
+  "hp": 150,
+  "priority": []
+ },
+ "nidoran-f": {
+  "cost": 3,
+  "sets": [
+   [
+    "ice-beam",
+    "crunch",
+    "poison-jab",
+    "double-kick"
+   ],
+   [
+    "poison-jab",
+    "ice-beam",
+    "thunderbolt",
+    "crunch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.804,
+   0.714
+  ],
+  "mean_dmg_frac_broad": [
+   0.315,
+   0.331
+  ],
+  "spe": 61,
+  "hp": 130,
+  "priority": []
+ },
+ "nidorina": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "crunch",
+    "poison-jab",
+    "double-kick"
+   ],
+   [
+    "poison-jab",
+    "ice-beam",
+    "thunderbolt",
+    "crunch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.845,
+   1.718
+  ],
+  "mean_dmg_frac_broad": [
+   0.386,
+   0.409
+  ],
+  "spe": 76,
+  "hp": 145,
+  "priority": []
+ },
+ "nidoqueen": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "ice-beam",
+    "ice-punch",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-beam",
+    "fire-blast",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.605,
+   4.592
+  ],
+  "mean_dmg_frac_broad": [
+   0.638,
+   0.684
+  ],
+  "spe": 96,
+  "hp": 165,
+  "priority": []
+ },
+ "nidoran-m": {
+  "cost": 3,
+  "sets": [
+   [
+    "ice-beam",
+    "head-smash",
+    "strength",
+    "double-kick"
+   ],
+   [
+    "head-smash",
+    "poison-jab",
+    "ice-beam",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.761,
+   0.583
+  ],
+  "mean_dmg_frac_broad": [
+   0.398,
+   0.424
+  ],
+  "spe": 70,
+  "hp": 121,
+  "priority": []
+ },
+ "nidorino": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "poison-jab",
+    "strength",
+    "double-kick"
+   ],
+   [
+    "poison-jab",
+    "ice-beam",
+    "thunderbolt",
+    "shadow-claw"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.486,
+   1.323
+  ],
+  "mean_dmg_frac_broad": [
+   0.396,
+   0.427
+  ],
+  "spe": 85,
+  "hp": 136,
+  "priority": []
+ },
+ "nidoking": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "ice-beam",
+    "ice-punch",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-beam",
+    "megahorn",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.82,
+   4.8
+  ],
+  "mean_dmg_frac_broad": [
+   0.698,
+   0.757
+  ],
+  "spe": 105,
+  "hp": 156,
+  "priority": []
+ },
+ "cleffa": {
+  "cost": 2,
+  "sets": [
+   [
+    "fire-blast",
+    "psychic",
+    "shadow-ball",
+    "magical-leaf"
+   ],
+   [
+    "fire-blast",
+    "psychic",
+    "signal-beam",
+    "magical-leaf"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.681,
+   0.681
+  ],
+  "mean_dmg_frac_broad": [
+   0.298,
+   0.3
+  ],
+  "spe": 35,
+  "hp": 125,
+  "priority": []
+ },
+ "clefairy": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "fire-blast",
+    "strength",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "fire-blast",
+    "thunderbolt",
+    "psychic"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.605,
+   1.564
+  ],
+  "mean_dmg_frac_broad": [
+   0.414,
+   0.419
+  ],
+  "spe": 55,
+  "hp": 145,
+  "priority": []
+ },
+ "clefable": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "fire-blast",
+    "strength",
+    "thunder-punch"
+   ],
+   [
+    "ice-beam",
+    "fire-blast",
+    "thunderbolt",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.667,
+   5.484
+  ],
+  "mean_dmg_frac_broad": [
+   0.508,
+   0.569
+  ],
+  "spe": 80,
+  "hp": 170,
+  "priority": []
+ },
+ "vulpix": {
+  "cost": 4,
+  "sets": [
+   [
+    "flare-blitz",
+    "fire-blast",
+    "energy-ball",
+    "dark-pulse"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "energy-ball",
+    "extrasensory"
+   ],
+   [
+    "flare-blitz",
+    "energy-ball",
+    "dark-pulse",
+    "quick-attack"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "energy-ball",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.847,
+   2.847,
+   3.007,
+   3.007
+  ],
+  "mean_dmg_frac_broad": [
+   0.449,
+   0.453,
+   0.424,
+   0.448
+  ],
+  "spe": 85,
+  "hp": 113,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "ninetales": {
+  "cost": 9,
+  "sets": [
+   [
+    "fire-blast",
+    "flamethrower",
+    "zen-headbutt",
+    "dark-pulse"
+   ],
+   [
+    "fire-blast",
+    "dark-pulse",
+    "zen-headbutt",
+    "iron-tail"
+   ],
+   [
+    "fire-blast",
+    "zen-headbutt",
+    "dark-pulse",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.064,
+   6.064,
+   6.249
+  ],
+  "mean_dmg_frac_broad": [
+   0.536,
+   0.54,
+   0.536
+  ],
+  "spe": 120,
+  "hp": 148,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "igglybuff": {
+  "cost": 2,
+  "sets": [
+   [
+    "fire-blast",
+    "psychic",
+    "shadow-ball",
+    "headbutt"
+   ],
+   [
+    "fire-blast",
+    "psychic",
+    "shock-wave",
+    "water-pulse"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.17,
+   0.17
+  ],
+  "mean_dmg_frac_broad": [
+   0.26,
+   0.27
+  ],
+  "spe": 35,
+  "hp": 165,
+  "priority": []
+ },
+ "jigglypuff": {
+  "cost": 3,
+  "sets": [
+   [
+    "double-edge",
+    "ice-beam",
+    "ice-punch",
+    "fire-blast"
+   ],
+   [
+    "double-edge",
+    "ice-beam",
+    "fire-blast",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.317,
+   1.317
+  ],
+  "mean_dmg_frac_broad": [
+   0.386,
+   0.404
+  ],
+  "spe": 40,
+  "hp": 190,
+  "priority": []
+ },
+ "wigglytuff": {
+  "cost": 7,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "fire-blast",
+    "strength"
+   ],
+   [
+    "ice-beam",
+    "fire-blast",
+    "thunderbolt",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.665,
+   3.369
+  ],
+  "mean_dmg_frac_broad": [
+   0.458,
+   0.515
+  ],
+  "spe": 65,
+  "hp": 215,
+  "priority": []
+ },
+ "zubat": {
+  "cost": 2,
+  "sets": [
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "wing-attack"
+   ],
+   [
+    "brave-bird",
+    "sludge-bomb",
+    "heat-wave",
+    "giga-drain"
+   ],
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "quick-attack"
+   ],
+   [
+    "brave-bird",
+    "heat-wave",
+    "giga-drain",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.643,
+   0.643,
+   0.887,
+   0.887
+  ],
+  "mean_dmg_frac_broad": [
+   0.414,
+   0.435,
+   0.414,
+   0.434
+  ],
+  "spe": 75,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "golbat": {
+  "cost": 8,
+  "sets": [
+   [
+    "aerial-ace",
+    "heat-wave",
+    "shadow-ball",
+    "giga-drain"
+   ],
+   [
+    "aerial-ace",
+    "sludge-bomb",
+    "heat-wave",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.406,
+   4.336
+  ],
+  "mean_dmg_frac_broad": [
+   0.406,
+   0.433
+  ],
+  "spe": 110,
+  "hp": 150,
+  "priority": []
+ },
+ "crobat": {
+  "cost": 10,
+  "sets": [
+   [
+    "aerial-ace",
+    "heat-wave",
+    "shadow-ball",
+    "giga-drain"
+   ],
+   [
+    "aerial-ace",
+    "cross-poison",
+    "heat-wave",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.237,
+   6.228
+  ],
+  "mean_dmg_frac_broad": [
+   0.438,
+   0.472
+  ],
+  "spe": 150,
+  "hp": 160,
+  "priority": []
+ },
+ "oddish": {
+  "cost": 4,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "giga-drain",
+    "sludge-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.029
+  ],
+  "mean_dmg_frac_broad": [
+   0.494
+  ],
+  "spe": 50,
+  "hp": 120,
+  "priority": []
+ },
+ "gloom": {
+  "cost": 6,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "sludge-bomb",
+    "drain-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.349
+  ],
+  "mean_dmg_frac_broad": [
+   0.552
+  ],
+  "spe": 60,
+  "hp": 135,
+  "priority": []
+ },
+ "vileplume": {
+  "cost": 8,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "sludge-bomb",
+    "drain-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.143
+  ],
+  "mean_dmg_frac_broad": [
+   0.633
+  ],
+  "spe": 70,
+  "hp": 150,
+  "priority": []
+ },
+ "bellossom": {
+  "cost": 8,
+  "sets": [
+   [
+    "leaf-blade",
+    "seed-bomb",
+    "drain-punch",
+    "secret-power"
+   ],
+   [
+    "leaf-blade",
+    "energy-ball",
+    "sludge-bomb",
+    "drain-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.631,
+   5.58
+  ],
+  "mean_dmg_frac_broad": [
+   0.471,
+   0.556
+  ],
+  "spe": 70,
+  "hp": 150,
+  "priority": []
+ },
+ "paras": {
+  "cost": 3,
+  "sets": [
+   [
+    "seed-bomb",
+    "x-scissor",
+    "aerial-ace",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.767
+  ],
+  "mean_dmg_frac_broad": [
+   0.475
+  ],
+  "spe": 45,
+  "hp": 110,
+  "priority": []
+ },
+ "parasect": {
+  "cost": 6,
+  "sets": [
+   [
+    "seed-bomb",
+    "x-scissor",
+    "aerial-ace",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.772
+  ],
+  "mean_dmg_frac_broad": [
+   0.601
+  ],
+  "spe": 50,
+  "hp": 135,
+  "priority": []
+ },
+ "venonat": {
+  "cost": 4,
+  "sets": [
+   [
+    "zen-headbutt",
+    "bug-bite",
+    "signal-beam",
+    "giga-drain"
+   ],
+   [
+    "sludge-bomb",
+    "bug-bite",
+    "zen-headbutt",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.528,
+   1.528
+  ],
+  "mean_dmg_frac_broad": [
+   0.291,
+   0.311
+  ],
+  "spe": 65,
+  "hp": 135,
+  "priority": []
+ },
+ "venomoth": {
+  "cost": 8,
+  "sets": [
+   [
+    "bug-buzz",
+    "energy-ball",
+    "psychic",
+    "ominous-wind"
+   ],
+   [
+    "bug-buzz",
+    "sludge-bomb",
+    "psychic",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.643,
+   4.597
+  ],
+  "mean_dmg_frac_broad": [
+   0.565,
+   0.589
+  ],
+  "spe": 110,
+  "hp": 145,
+  "priority": []
+ },
+ "diglett": {
+  "cost": 3,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "aerial-ace",
+    "shadow-claw"
+   ],
+   [
+    "earthquake",
+    "earth-power",
+    "rock-slide",
+    "aerial-ace"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.33,
+   2.328
+  ],
+  "mean_dmg_frac_broad": [
+   0.416,
+   0.444
+  ],
+  "spe": 115,
+  "hp": 85,
+  "priority": []
+ },
+ "dugtrio": {
+  "cost": 6,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "aerial-ace",
+    "shadow-claw"
+   ],
+   [
+    "earthquake",
+    "stone-edge",
+    "earth-power",
+    "aerial-ace"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.82,
+   4.815
+  ],
+  "mean_dmg_frac_broad": [
+   0.547,
+   0.609
+  ],
+  "spe": 140,
+  "hp": 110,
+  "priority": []
+ },
+ "meowth": {
+  "cost": 4,
+  "sets": [
+   [
+    "seed-bomb",
+    "slash",
+    "shadow-claw",
+    "thunderbolt"
+   ],
+   [
+    "slash",
+    "thunderbolt",
+    "seed-bomb",
+    "u-turn"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.189,
+   1.189
+  ],
+  "mean_dmg_frac_broad": [
+   0.288,
+   0.293
+  ],
+  "spe": 110,
+  "hp": 115,
+  "priority": []
+ },
+ "persian": {
+  "cost": 7,
+  "sets": [
+   [
+    "seed-bomb",
+    "slash",
+    "shadow-ball",
+    "thunderbolt"
+   ],
+   [
+    "thunderbolt",
+    "slash",
+    "seed-bomb",
+    "u-turn"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.807,
+   4.527
+  ],
+  "mean_dmg_frac_broad": [
+   0.392,
+   0.403
+  ],
+  "spe": 135,
+  "hp": 140,
+  "priority": []
+ },
+ "psyduck": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "ice-punch",
+    "cross-chop"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "psychic",
+    "cross-chop"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.845,
+   1.845
+  ],
+  "mean_dmg_frac_broad": [
+   0.472,
+   0.486
+  ],
+  "spe": 75,
+  "hp": 125,
+  "priority": []
+ },
+ "golduck": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "ice-punch",
+    "focus-blast"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "focus-blast",
+    "psychic"
+   ],
+   [
+    "ice-beam",
+    "hydro-pump",
+    "focus-blast",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.641,
+   5.622,
+   5.904
+  ],
+  "mean_dmg_frac_broad": [
+   0.653,
+   0.668,
+   0.651
+  ],
+  "spe": 105,
+  "hp": 155,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "mankey": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "seed-bomb"
+   ],
+   [
+    "ice-punch",
+    "cross-chop",
+    "seed-bomb",
+    "vacuum-wave"
+   ],
+   [
+    "cross-chop",
+    "earthquake",
+    "ice-punch",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.157,
+   1.101,
+   0.624
+  ],
+  "mean_dmg_frac_broad": [
+   0.586,
+   0.531,
+   0.56
+  ],
+  "spe": 90,
+  "hp": 115,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "primeape": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "seed-bomb"
+   ],
+   [
+    "cross-chop",
+    "stone-edge",
+    "earthquake",
+    "ice-punch"
+   ],
+   [
+    "ice-punch",
+    "cross-chop",
+    "seed-bomb",
+    "vacuum-wave"
+   ],
+   [
+    "cross-chop",
+    "earthquake",
+    "ice-punch",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   8.593,
+   6.875,
+   8.467,
+   6.875
+  ],
+  "mean_dmg_frac_broad": [
+   0.727,
+   0.743,
+   0.659,
+   0.696
+  ],
+  "spe": 115,
+  "hp": 140,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "growlithe": {
+  "cost": 5,
+  "sets": [
+   [
+    "flare-blitz",
+    "fire-blast",
+    "double-edge",
+    "crunch"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "double-edge",
+    "iron-tail"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.375,
+   3.375
+  ],
+  "mean_dmg_frac_broad": [
+   0.587,
+   0.587
+  ],
+  "spe": 80,
+  "hp": 130,
+  "priority": []
+ },
+ "arcanine": {
+  "cost": 10,
+  "sets": [
+   [
+    "fire-blast",
+    "fire-fang",
+    "dragon-pulse",
+    "thunder-fang"
+   ],
+   [
+    "fire-blast",
+    "dragon-pulse",
+    "iron-head",
+    "thunder-fang"
+   ],
+   [
+    "fire-blast",
+    "dragon-pulse",
+    "extreme-speed",
+    "thunder-fang"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.592,
+   7.07,
+   7.632
+  ],
+  "mean_dmg_frac_broad": [
+   0.67,
+   0.675,
+   0.668
+  ],
+  "spe": 115,
+  "hp": 165,
+  "priority": [
+   "extreme-speed"
+  ]
+ },
+ "poliwag": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "waterfall",
+    "hydro-pump",
+    "body-slam"
+   ],
+   [
+    "hydro-pump",
+    "waterfall",
+    "ice-beam",
+    "psychic"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.264,
+   1.163
+  ],
+  "mean_dmg_frac_broad": [
+   0.35,
+   0.353
+  ],
+  "spe": 110,
+  "hp": 115,
+  "priority": []
+ },
+ "poliwhirl": {
+  "cost": 6,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "ice-beam",
+    "waterfall"
+   ],
+   [
+    "hydro-pump",
+    "earthquake",
+    "ice-beam",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.486,
+   3.377
+  ],
+  "mean_dmg_frac_broad": [
+   0.431,
+   0.455
+  ],
+  "spe": 110,
+  "hp": 140,
+  "priority": []
+ },
+ "poliwrath": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-punch",
+    "ice-beam",
+    "brick-break",
+    "waterfall"
+   ],
+   [
+    "surf",
+    "brick-break",
+    "earthquake",
+    "ice-beam"
+   ],
+   [
+    "ice-punch",
+    "brick-break",
+    "waterfall",
+    "vacuum-wave"
+   ],
+   [
+    "surf",
+    "brick-break",
+    "ice-beam",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.067,
+   5.515,
+   6.201,
+   5.773
+  ],
+  "mean_dmg_frac_broad": [
+   0.581,
+   0.627,
+   0.564,
+   0.59
+  ],
+  "spe": 90,
+  "hp": 165,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "politoed": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "earthquake",
+    "surf"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "focus-blast",
+    "earthquake"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.558,
+   6.558
+  ],
+  "mean_dmg_frac_broad": [
+   0.616,
+   0.647
+  ],
+  "spe": 90,
+  "hp": 165,
+  "priority": []
+ },
+ "abra": {
+  "cost": 4,
+  "sets": [
+   [
+    "psychic",
+    "energy-ball",
+    "shadow-ball",
+    "signal-beam"
+   ],
+   [
+    "psychic",
+    "energy-ball",
+    "signal-beam",
+    "shock-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.586,
+   1.586
+  ],
+  "mean_dmg_frac_broad": [
+   0.627,
+   0.629
+  ],
+  "spe": 110,
+  "hp": 100,
+  "priority": []
+ },
+ "kadabra": {
+  "cost": 6,
+  "sets": [
+   [
+    "psychic",
+    "energy-ball",
+    "psybeam",
+    "shadow-ball"
+   ],
+   [
+    "psychic",
+    "energy-ball",
+    "signal-beam",
+    "shock-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.084,
+   6.029
+  ],
+  "mean_dmg_frac_broad": [
+   0.667,
+   0.702
+  ],
+  "spe": 125,
+  "hp": 115,
+  "priority": []
+ },
+ "alakazam": {
+  "cost": 8,
+  "sets": [
+   [
+    "psychic",
+    "energy-ball",
+    "shadow-ball",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.86
+  ],
+  "mean_dmg_frac_broad": [
+   0.814
+  ],
+  "spe": 140,
+  "hp": 130,
+  "priority": []
+ },
+ "machop": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.594,
+   1.529
+  ],
+  "mean_dmg_frac_broad": [
+   0.58,
+   0.56
+  ],
+  "spe": 55,
+  "hp": 145,
+  "priority": [
+   "bullet-punch",
+   "vacuum-wave"
+  ]
+ },
+ "machoke": {
+  "cost": 6,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.132,
+   5.051
+  ],
+  "mean_dmg_frac_broad": [
+   0.693,
+   0.67
+  ],
+  "spe": 65,
+  "hp": 155,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "machamp": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "thunder-punch"
+   ],
+   [
+    "cross-chop",
+    "stone-edge",
+    "earthquake",
+    "ice-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.335,
+   7.201,
+   8.202
+  ],
+  "mean_dmg_frac_broad": [
+   0.863,
+   0.89,
+   0.834
+  ],
+  "spe": 75,
+  "hp": 165,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "bellsprout": {
+  "cost": 4,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "razor-leaf",
+    "sludge-bomb"
+   ],
+   [
+    "seed-bomb",
+    "energy-ball",
+    "sludge-bomb",
+    "secret-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.323,
+   2.323
+  ],
+  "mean_dmg_frac_broad": [
+   0.494,
+   0.495
+  ],
+  "spe": 60,
+  "hp": 125,
+  "priority": []
+ },
+ "weepinbell": {
+  "cost": 6,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "razor-leaf",
+    "sludge-bomb"
+   ],
+   [
+    "energy-ball",
+    "seed-bomb",
+    "sludge-bomb",
+    "secret-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.063,
+   3.063
+  ],
+  "mean_dmg_frac_broad": [
+   0.573,
+   0.575
+  ],
+  "spe": 75,
+  "hp": 140,
+  "priority": []
+ },
+ "victreebel": {
+  "cost": 8,
+  "sets": [
+   [
+    "leaf-blade",
+    "seed-bomb",
+    "energy-ball",
+    "sludge-bomb"
+   ],
+   [
+    "leaf-blade",
+    "energy-ball",
+    "sludge-bomb",
+    "secret-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.167,
+   5.167
+  ],
+  "mean_dmg_frac_broad": [
+   0.705,
+   0.706
+  ],
+  "spe": 90,
+  "hp": 155,
+  "priority": []
+ },
+ "tentacool": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "giga-drain",
+    "poison-jab"
+   ],
+   [
+    "hydro-pump",
+    "sludge-bomb",
+    "ice-beam",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.06,
+   2.024
+  ],
+  "mean_dmg_frac_broad": [
+   0.411,
+   0.42
+  ],
+  "spe": 90,
+  "hp": 115,
+  "priority": []
+ },
+ "tentacruel": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "giga-drain",
+    "poison-jab"
+   ],
+   [
+    "hydro-pump",
+    "sludge-bomb",
+    "ice-beam",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.442,
+   6.223
+  ],
+  "mean_dmg_frac_broad": [
+   0.587,
+   0.595
+  ],
+  "spe": 120,
+  "hp": 155,
+  "priority": []
+ },
+ "geodude": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "stone-edge",
+    "fire-punch",
+    "thunder-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.0
+  ],
+  "mean_dmg_frac_broad": [
+   0.679
+  ],
+  "spe": 40,
+  "hp": 115,
+  "priority": []
+ },
+ "graveler": {
+  "cost": 6,
+  "sets": [
+   [
+    "earthquake",
+    "stone-edge",
+    "fire-punch",
+    "thunder-punch"
+   ],
+   [
+    "stone-edge",
+    "earthquake",
+    "fire-punch",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.476,
+   0.476
+  ],
+  "mean_dmg_frac_broad": [
+   0.779,
+   0.78
+  ],
+  "spe": 55,
+  "hp": 130,
+  "priority": []
+ },
+ "golem": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "stone-edge",
+    "fire-punch",
+    "thunder-punch"
+   ],
+   [
+    "stone-edge",
+    "earthquake",
+    "fire-punch",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.749,
+   2.749
+  ],
+  "mean_dmg_frac_broad": [
+   0.878,
+   0.879
+  ],
+  "spe": 65,
+  "hp": 155,
+  "priority": []
+ },
+ "ponyta": {
+  "cost": 6,
+  "sets": [
+   [
+    "flare-blitz",
+    "fire-blast",
+    "flamethrower",
+    "double-edge"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "double-edge",
+    "double-kick"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.56,
+   4.56
+  ],
+  "mean_dmg_frac_broad": [
+   0.661,
+   0.668
+  ],
+  "spe": 110,
+  "hp": 125,
+  "priority": []
+ },
+ "rapidash": {
+  "cost": 9,
+  "sets": [
+   [
+    "flare-blitz",
+    "fire-blast",
+    "flamethrower",
+    "megahorn"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "megahorn",
+    "iron-tail"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "megahorn",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.788,
+   6.788,
+   6.788
+  ],
+  "mean_dmg_frac_broad": [
+   0.763,
+   0.766,
+   0.763
+  ],
+  "spe": 125,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "slowpoke": {
+  "cost": 4,
+  "sets": [
+   [
+    "zen-headbutt",
+    "earthquake",
+    "aqua-tail",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.158
+  ],
+  "mean_dmg_frac_broad": [
+   0.441
+  ],
+  "spe": 35,
+  "hp": 165,
+  "priority": []
+ },
+ "slowbro": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "surf",
+    "fire-blast",
+    "zen-headbutt"
+   ],
+   [
+    "surf",
+    "psychic",
+    "ice-beam",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.496,
+   6.528
+  ],
+  "mean_dmg_frac_broad": [
+   0.707,
+   0.748
+  ],
+  "spe": 50,
+  "hp": 170,
+  "priority": []
+ },
+ "slowking": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "surf",
+    "fire-blast",
+    "zen-headbutt"
+   ],
+   [
+    "surf",
+    "psychic",
+    "ice-beam",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.175,
+   6.145
+  ],
+  "mean_dmg_frac_broad": [
+   0.707,
+   0.748
+  ],
+  "spe": 50,
+  "hp": 170,
+  "priority": []
+ },
+ "magnemite": {
+  "cost": 4,
+  "sets": [
+   [
+    "thunderbolt",
+    "flash-cannon",
+    "thunder",
+    "signal-beam"
+   ],
+   [
+    "thunderbolt",
+    "flash-cannon",
+    "signal-beam",
+    "spark"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.786,
+   1.786
+  ],
+  "mean_dmg_frac_broad": [
+   0.653,
+   0.654
+  ],
+  "spe": 65,
+  "hp": 100,
+  "priority": []
+ },
+ "magneton": {
+  "cost": 8,
+  "sets": [
+   [
+    "thunderbolt",
+    "flash-cannon",
+    "thunder",
+    "tri-attack"
+   ],
+   [
+    "thunderbolt",
+    "flash-cannon",
+    "signal-beam",
+    "tri-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.601,
+   3.601
+  ],
+  "mean_dmg_frac_broad": [
+   0.771,
+   0.794
+  ],
+  "spe": 90,
+  "hp": 125,
+  "priority": []
+ },
+ "magnezone": {
+  "cost": 10,
+  "sets": [
+   [
+    "thunderbolt",
+    "flash-cannon",
+    "thunder",
+    "signal-beam"
+   ],
+   [
+    "thunderbolt",
+    "flash-cannon",
+    "signal-beam",
+    "iron-head"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.412,
+   4.412
+  ],
+  "mean_dmg_frac_broad": [
+   0.848,
+   0.851
+  ],
+  "spe": 80,
+  "hp": 145,
+  "priority": []
+ },
+ "farfetchd": {
+  "cost": 5,
+  "sets": [
+   [
+    "leaf-blade",
+    "aerial-ace",
+    "heat-wave",
+    "night-slash"
+   ],
+   [
+    "air-slash",
+    "leaf-blade",
+    "slash",
+    "heat-wave"
+   ],
+   [
+    "leaf-blade",
+    "aerial-ace",
+    "heat-wave",
+    "quick-attack"
+   ],
+   [
+    "air-slash",
+    "leaf-blade",
+    "heat-wave",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.316,
+   3.054,
+   3.683,
+   4.126
+  ],
+  "mean_dmg_frac_broad": [
+   0.405,
+   0.414,
+   0.392,
+   0.397
+  ],
+  "spe": 80,
+  "hp": 127,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "doduo": {
+  "cost": 4,
+  "sets": [
+   [
+    "brave-bird",
+    "drill-peck",
+    "aerial-ace",
+    "pluck"
+   ],
+   [
+    "brave-bird",
+    "secret-power",
+    "feint-attack",
+    "steel-wing"
+   ],
+   [
+    "brave-bird",
+    "drill-peck",
+    "aerial-ace",
+    "quick-attack"
+   ],
+   [
+    "brave-bird",
+    "secret-power",
+    "steel-wing",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.804,
+   1.804,
+   2.301,
+   2.301
+  ],
+  "mean_dmg_frac_broad": [
+   0.664,
+   0.672,
+   0.664,
+   0.671
+  ],
+  "spe": 95,
+  "hp": 110,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "dodrio": {
+  "cost": 8,
+  "sets": [
+   [
+    "drill-peck",
+    "aerial-ace",
+    "pluck",
+    "secret-power"
+   ],
+   [
+    "drill-peck",
+    "secret-power",
+    "tri-attack",
+    "steel-wing"
+   ],
+   [
+    "drill-peck",
+    "aerial-ace",
+    "pluck",
+    "quick-attack"
+   ],
+   [
+    "drill-peck",
+    "secret-power",
+    "steel-wing",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.552,
+   6.552,
+   6.877,
+   6.877
+  ],
+  "mean_dmg_frac_broad": [
+   0.558,
+   0.572,
+   0.549,
+   0.569
+  ],
+  "spe": 120,
+  "hp": 135,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "seel": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "surf",
+    "take-down"
+   ],
+   [
+    "surf",
+    "aqua-tail",
+    "ice-beam",
+    "signal-beam"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "take-down",
+    "aqua-jet"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "signal-beam",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.564,
+   2.505,
+   3.028,
+   2.891
+  ],
+  "mean_dmg_frac_broad": [
+   0.353,
+   0.37,
+   0.353,
+   0.361
+  ],
+  "spe": 65,
+  "hp": 140,
+  "priority": [
+   "aqua-jet",
+   "ice-shard"
+  ]
+ },
+ "dewgong": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "surf",
+    "take-down"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "aqua-tail",
+    "signal-beam"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "take-down",
+    "aqua-jet"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "aqua-tail",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.604,
+   5.483,
+   5.604,
+   5.483
+  ],
+  "mean_dmg_frac_broad": [
+   0.56,
+   0.578,
+   0.56,
+   0.569
+  ],
+  "spe": 90,
+  "hp": 165,
+  "priority": [
+   "aqua-jet",
+   "ice-shard"
+  ]
+ },
+ "grimer": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-punch",
+    "fire-punch",
+    "thunder-punch",
+    "giga-drain"
+   ],
+   [
+    "gunk-shot",
+    "ice-punch",
+    "thunder-punch",
+    "fire-punch"
+   ],
+   [
+    "ice-punch",
+    "fire-punch",
+    "thunder-punch",
+    "shadow-sneak"
+   ],
+   [
+    "gunk-shot",
+    "ice-punch",
+    "thunder-punch",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.995,
+   1.995,
+   1.995,
+   1.74
+  ],
+  "mean_dmg_frac_broad": [
+   0.389,
+   0.448,
+   0.381,
+   0.431
+  ],
+  "spe": 45,
+  "hp": 155,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "muk": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-punch",
+    "fire-punch",
+    "thunder-punch",
+    "giga-drain"
+   ],
+   [
+    "gunk-shot",
+    "ice-punch",
+    "brick-break",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.42,
+   4.762
+  ],
+  "mean_dmg_frac_broad": [
+   0.488,
+   0.571
+  ],
+  "spe": 70,
+  "hp": 180,
+  "priority": []
+ },
+ "shellder": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "surf",
+    "take-down"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "rock-blast",
+    "take-down"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "ice-shard",
+    "take-down"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "rock-blast",
+    "ice-shard"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.621,
+   1.621,
+   1.949,
+   1.921
+  ],
+  "mean_dmg_frac_broad": [
+   0.36,
+   0.378,
+   0.36,
+   0.373
+  ],
+  "spe": 60,
+  "hp": 105,
+  "priority": [
+   "ice-shard"
+  ]
+ },
+ "cloyster": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "surf",
+    "poison-jab"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "poison-jab",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.318,
+   3.318
+  ],
+  "mean_dmg_frac_broad": [
+   0.656,
+   0.665
+  ],
+  "spe": 90,
+  "hp": 125,
+  "priority": []
+ },
+ "gastly": {
+  "cost": 4,
+  "sets": [
+   [
+    "shadow-ball",
+    "energy-ball",
+    "psychic",
+    "thunderbolt"
+   ],
+   [
+    "sludge-bomb",
+    "thunderbolt",
+    "shadow-ball",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.302,
+   1.302
+  ],
+  "mean_dmg_frac_broad": [
+   0.594,
+   0.643
+  ],
+  "spe": 100,
+  "hp": 105,
+  "priority": []
+ },
+ "haunter": {
+  "cost": 6,
+  "sets": [
+   [
+    "shadow-ball",
+    "energy-ball",
+    "psychic",
+    "thunderbolt"
+   ],
+   [
+    "sludge-bomb",
+    "thunderbolt",
+    "shadow-ball",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.313,
+   5.153
+  ],
+  "mean_dmg_frac_broad": [
+   0.668,
+   0.722
+  ],
+  "spe": 115,
+  "hp": 120,
+  "priority": []
+ },
+ "gengar": {
+  "cost": 9,
+  "sets": [
+   [
+    "shadow-ball",
+    "energy-ball",
+    "psychic",
+    "focus-blast"
+   ],
+   [
+    "sludge-bomb",
+    "thunderbolt",
+    "shadow-ball",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.428,
+   6.387
+  ],
+  "mean_dmg_frac_broad": [
+   0.75,
+   0.813
+  ],
+  "spe": 130,
+  "hp": 135,
+  "priority": []
+ },
+ "onix": {
+  "cost": 6,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "stone-edge",
+    "dragon-pulse"
+   ],
+   [
+    "stone-edge",
+    "earthquake",
+    "earth-power",
+    "double-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.815,
+   0.815
+  ],
+  "mean_dmg_frac_broad": [
+   0.443,
+   0.443
+  ],
+  "spe": 90,
+  "hp": 110,
+  "priority": []
+ },
+ "steelix": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "ice-fang",
+    "crunch"
+   ],
+   [
+    "earthquake",
+    "iron-head",
+    "stone-edge",
+    "ice-fang"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.789,
+   2.773
+  ],
+  "mean_dmg_frac_broad": [
+   0.602,
+   0.651
+  ],
+  "spe": 50,
+  "hp": 150,
+  "priority": []
+ },
+ "drowzee": {
+  "cost": 4,
+  "sets": [
+   [
+    "psycho-cut",
+    "ice-punch",
+    "fire-punch",
+    "thunder-punch"
+   ],
+   [
+    "psychic",
+    "ice-punch",
+    "thunder-punch",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.977,
+   1.756
+  ],
+  "mean_dmg_frac_broad": [
+   0.319,
+   0.34
+  ],
+  "spe": 62,
+  "hp": 135,
+  "priority": []
+ },
+ "hypno": {
+  "cost": 8,
+  "sets": [
+   [
+    "zen-headbutt",
+    "ice-punch",
+    "focus-blast",
+    "thunder-punch"
+   ],
+   [
+    "psychic",
+    "focus-blast",
+    "ice-punch",
+    "thunder-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.937,
+   5.006
+  ],
+  "mean_dmg_frac_broad": [
+   0.469,
+   0.496
+  ],
+  "spe": 87,
+  "hp": 160,
+  "priority": []
+ },
+ "krabby": {
+  "cost": 4,
+  "sets": [
+   [
+    "crabhammer",
+    "x-scissor",
+    "brick-break",
+    "ice-beam"
+   ],
+   [
+    "crabhammer",
+    "rock-slide",
+    "brick-break",
+    "x-scissor"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.026,
+   1.944
+  ],
+  "mean_dmg_frac_broad": [
+   0.573,
+   0.6
+  ],
+  "spe": 70,
+  "hp": 105,
+  "priority": []
+ },
+ "kingler": {
+  "cost": 8,
+  "sets": [
+   [
+    "crabhammer",
+    "x-scissor",
+    "brick-break",
+    "ice-beam"
+   ],
+   [
+    "crabhammer",
+    "rock-slide",
+    "brick-break",
+    "x-scissor"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.256,
+   3.979
+  ],
+  "mean_dmg_frac_broad": [
+   0.694,
+   0.719
+  ],
+  "spe": 95,
+  "hp": 130,
+  "priority": []
+ },
+ "voltorb": {
+  "cost": 4,
+  "sets": [
+   [
+    "thunderbolt",
+    "thunder",
+    "signal-beam",
+    "headbutt"
+   ],
+   [
+    "thunderbolt",
+    "signal-beam",
+    "spark",
+    "swift"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.617,
+   2.602
+  ],
+  "mean_dmg_frac_broad": [
+   0.402,
+   0.403
+  ],
+  "spe": 120,
+  "hp": 115,
+  "priority": []
+ },
+ "electrode": {
+  "cost": 8,
+  "sets": [
+   [
+    "thunderbolt",
+    "thunder",
+    "signal-beam",
+    "headbutt"
+   ],
+   [
+    "thunderbolt",
+    "spark",
+    "signal-beam",
+    "swift"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.5,
+   4.47
+  ],
+  "mean_dmg_frac_broad": [
+   0.532,
+   0.533
+  ],
+  "spe": 160,
+  "hp": 135,
+  "priority": []
+ },
+ "exeggcute": {
+  "cost": 4,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "psychic",
+    "giga-drain"
+   ],
+   [
+    "psychic",
+    "energy-ball",
+    "sludge-bomb",
+    "ancient-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.796,
+   1.796
+  ],
+  "mean_dmg_frac_broad": [
+   0.442,
+   0.463
+  ],
+  "spe": 60,
+  "hp": 135,
+  "priority": []
+ },
+ "exeggutor": {
+  "cost": 9,
+  "sets": [
+   [
+    "wood-hammer",
+    "energy-ball",
+    "seed-bomb",
+    "psychic"
+   ],
+   [
+    "wood-hammer",
+    "psychic",
+    "sludge-bomb",
+    "ancient-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.392,
+   6.392
+  ],
+  "mean_dmg_frac_broad": [
+   0.864,
+   0.867
+  ],
+  "spe": 75,
+  "hp": 170,
+  "priority": []
+ },
+ "cubone": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "bonemerang",
+    "ice-beam",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-beam",
+    "fire-blast",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.709,
+   1.709
+  ],
+  "mean_dmg_frac_broad": [
+   0.434,
+   0.454
+  ],
+  "spe": 55,
+  "hp": 125,
+  "priority": []
+ },
+ "marowak": {
+  "cost": 7,
+  "sets": [
+   [
+    "earthquake",
+    "fire-punch",
+    "ice-beam",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "stone-edge",
+    "ice-beam",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.757,
+   3.757
+  ],
+  "mean_dmg_frac_broad": [
+   0.608,
+   0.631
+  ],
+  "spe": 65,
+  "hp": 135,
+  "priority": []
+ },
+ "tyrogue": {
+  "cost": 2,
+  "sets": [
+   [
+    "earthquake",
+    "brick-break",
+    "strength",
+    "mach-punch"
+   ],
+   [
+    "brick-break",
+    "earthquake",
+    "rock-slide",
+    "vacuum-wave"
+   ],
+   [
+    "brick-break",
+    "earthquake",
+    "rock-slide",
+    "mach-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.243,
+   0.375,
+   0.243
+  ],
+  "mean_dmg_frac_broad": [
+   0.266,
+   0.29,
+   0.288
+  ],
+  "spe": 55,
+  "hp": 110,
+  "priority": [
+   "bullet-punch",
+   "mach-punch",
+   "vacuum-wave"
+  ]
+ },
+ "hitmonlee": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "brick-break",
+    "blaze-kick",
+    "double-kick"
+   ],
+   [
+    "brick-break",
+    "stone-edge",
+    "earthquake",
+    "blaze-kick"
+   ],
+   [
+    "earthquake",
+    "brick-break",
+    "blaze-kick",
+    "vacuum-wave"
+   ],
+   [
+    "brick-break",
+    "stone-edge",
+    "earthquake",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.172,
+   5.172,
+   5.889,
+   5.134
+  ],
+  "mean_dmg_frac_broad": [
+   0.713,
+   0.78,
+   0.713,
+   0.747
+  ],
+  "spe": 107,
+  "hp": 125,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "hitmonchan": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "sky-uppercut",
+    "thunder-punch"
+   ],
+   [
+    "sky-uppercut",
+    "stone-edge",
+    "earthquake",
+    "ice-punch"
+   ],
+   [
+    "ice-punch",
+    "sky-uppercut",
+    "thunder-punch",
+    "mach-punch"
+   ],
+   [
+    "sky-uppercut",
+    "earthquake",
+    "ice-punch",
+    "mach-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.319,
+   5.094,
+   5.242,
+   5.094
+  ],
+  "mean_dmg_frac_broad": [
+   0.691,
+   0.711,
+   0.615,
+   0.663
+  ],
+  "spe": 96,
+  "hp": 125,
+  "priority": [
+   "bullet-punch",
+   "mach-punch",
+   "vacuum-wave"
+  ]
+ },
+ "hitmontop": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "brick-break",
+    "aerial-ace",
+    "rolling-kick"
+   ],
+   [
+    "brick-break",
+    "stone-edge",
+    "earthquake",
+    "aerial-ace"
+   ],
+   [
+    "earthquake",
+    "brick-break",
+    "aerial-ace",
+    "vacuum-wave"
+   ],
+   [
+    "brick-break",
+    "stone-edge",
+    "earthquake",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.417,
+   4.417,
+   4.417,
+   4.811
+  ],
+  "mean_dmg_frac_broad": [
+   0.561,
+   0.628,
+   0.561,
+   0.616
+  ],
+  "spe": 90,
+  "hp": 125,
+  "priority": [
+   "quick-attack",
+   "vacuum-wave"
+  ]
+ },
+ "lickitung": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-beam",
+    "power-whip",
+    "ice-punch",
+    "fire-blast"
+   ],
+   [
+    "ice-beam",
+    "fire-blast",
+    "earthquake",
+    "power-whip"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.799,
+   3.724
+  ],
+  "mean_dmg_frac_broad": [
+   0.413,
+   0.462
+  ],
+  "spe": 50,
+  "hp": 165,
+  "priority": []
+ },
+ "lickilicky": {
+  "cost": 9,
+  "sets": [
+   [
+    "power-whip",
+    "earthquake",
+    "ice-beam",
+    "ice-punch"
+   ],
+   [
+    "ice-beam",
+    "fire-blast",
+    "earthquake",
+    "power-whip"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.934,
+   7.934
+  ],
+  "mean_dmg_frac_broad": [
+   0.571,
+   0.61
+  ],
+  "spe": 70,
+  "hp": 185,
+  "priority": []
+ },
+ "koffing": {
+  "cost": 5,
+  "sets": [
+   [
+    "fire-blast",
+    "shadow-ball",
+    "thunderbolt",
+    "secret-power"
+   ],
+   [
+    "sludge-bomb",
+    "fire-blast",
+    "thunderbolt",
+    "shadow-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.548,
+   0.548
+  ],
+  "mean_dmg_frac_broad": [
+   0.378,
+   0.413
+  ],
+  "spe": 55,
+  "hp": 115,
+  "priority": []
+ },
+ "weezing": {
+  "cost": 8,
+  "sets": [
+   [
+    "fire-blast",
+    "shadow-ball",
+    "thunderbolt",
+    "secret-power"
+   ],
+   [
+    "sludge-bomb",
+    "fire-blast",
+    "thunderbolt",
+    "shadow-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.904,
+   2.882
+  ],
+  "mean_dmg_frac_broad": [
+   0.494,
+   0.538
+  ],
+  "spe": 80,
+  "hp": 140,
+  "priority": []
+ },
+ "rhyhorn": {
+  "cost": 5,
+  "sets": [
+   [
+    "earthquake",
+    "stone-edge",
+    "ice-fang",
+    "crunch"
+   ],
+   [
+    "stone-edge",
+    "earthquake",
+    "megahorn",
+    "ice-fang"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.441,
+   0.441
+  ],
+  "mean_dmg_frac_broad": [
+   0.708,
+   0.746
+  ],
+  "spe": 45,
+  "hp": 155,
+  "priority": []
+ },
+ "rhydon": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "stone-edge",
+    "thunder-punch"
+   ],
+   [
+    "stone-edge",
+    "earthquake",
+    "megahorn",
+    "ice-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.379,
+   3.379
+  ],
+  "mean_dmg_frac_broad": [
+   1.021,
+   1.07
+  ],
+  "spe": 60,
+  "hp": 180,
+  "priority": []
+ },
+ "rhyperior": {
+  "cost": 10,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "shadow-claw",
+    "thunder-punch"
+   ],
+   [
+    "stone-edge",
+    "earthquake",
+    "megahorn",
+    "ice-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.568,
+   3.567
+  ],
+  "mean_dmg_frac_broad": [
+   0.942,
+   1.139
+  ],
+  "spe": 60,
+  "hp": 190,
+  "priority": []
+ },
+ "happiny": {
+  "cost": 2,
+  "sets": [
+   [
+    "fire-blast",
+    "psychic",
+    "shadow-ball",
+    "shock-wave"
+   ],
+   [
+    "fire-blast",
+    "psychic",
+    "shock-wave",
+    "water-pulse"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.486,
+   0.486
+  ],
+  "mean_dmg_frac_broad": [
+   0.161,
+   0.162
+  ],
+  "spe": 50,
+  "hp": 175,
+  "priority": []
+ },
+ "chansey": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "fire-blast",
+    "double-edge",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "fire-blast",
+    "thunderbolt",
+    "psychic"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.022,
+   4.012
+  ],
+  "mean_dmg_frac_broad": [
+   0.284,
+   0.292
+  ],
+  "spe": 70,
+  "hp": 325,
+  "priority": []
+ },
+ "blissey": {
+  "cost": 10,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "fire-blast",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "fire-blast",
+    "thunderbolt",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.301,
+   7.301
+  ],
+  "mean_dmg_frac_broad": [
+   0.476,
+   0.515
+  ],
+  "spe": 75,
+  "hp": 330,
+  "priority": []
+ },
+ "tangela": {
+  "cost": 7,
+  "sets": [
+   [
+    "energy-ball",
+    "power-whip",
+    "confusion",
+    "shock-wave"
+   ],
+   [
+    "energy-ball",
+    "power-whip",
+    "sludge-bomb",
+    "ancient-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.825,
+   3.818
+  ],
+  "mean_dmg_frac_broad": [
+   0.541,
+   0.591
+  ],
+  "spe": 80,
+  "hp": 140,
+  "priority": []
+ },
+ "tangrowth": {
+  "cost": 10,
+  "sets": [
+   [
+    "power-whip",
+    "seed-bomb",
+    "earthquake",
+    "aerial-ace"
+   ],
+   [
+    "power-whip",
+    "earthquake",
+    "focus-blast",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.677,
+   6.677
+  ],
+  "mean_dmg_frac_broad": [
+   0.698,
+   0.76
+  ],
+  "spe": 70,
+  "hp": 175,
+  "priority": []
+ },
+ "kangaskhan": {
+  "cost": 8,
+  "sets": [
+   [
+    "double-edge",
+    "earthquake",
+    "ice-punch",
+    "crunch"
+   ],
+   [
+    "double-edge",
+    "earthquake",
+    "ice-punch",
+    "fire-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.187,
+   7.177
+  ],
+  "mean_dmg_frac_broad": [
+   0.645,
+   0.652
+  ],
+  "spe": 110,
+  "hp": 180,
+  "priority": []
+ },
+ "horsea": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "hydro-pump",
+    "dragon-rage"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "dragon-rage",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.198,
+   1.198
+  ],
+  "mean_dmg_frac_broad": [
+   0.494,
+   0.507
+  ],
+  "spe": 80,
+  "hp": 105,
+  "priority": []
+ },
+ "seadra": {
+  "cost": 7,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "surf",
+    "dragon-pulse"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "dragon-pulse",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.928,
+   3.923
+  ],
+  "mean_dmg_frac_broad": [
+   0.624,
+   0.64
+  ],
+  "spe": 105,
+  "hp": 130,
+  "priority": []
+ },
+ "kingdra": {
+  "cost": 10,
+  "sets": [
+   [
+    "dragon-pulse",
+    "ice-beam",
+    "hydro-pump",
+    "surf"
+   ],
+   [
+    "hydro-pump",
+    "dragon-pulse",
+    "waterfall",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.08,
+   6.08
+  ],
+  "mean_dmg_frac_broad": [
+   0.649,
+   0.664
+  ],
+  "spe": 105,
+  "hp": 150,
+  "priority": []
+ },
+ "goldeen": {
+  "cost": 4,
+  "sets": [
+   [
+    "aqua-tail",
+    "waterfall",
+    "megahorn",
+    "ice-beam"
+   ],
+   [
+    "aqua-tail",
+    "megahorn",
+    "hydro-pump",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.905,
+   1.905
+  ],
+  "mean_dmg_frac_broad": [
+   0.426,
+   0.436
+  ],
+  "spe": 83,
+  "hp": 120,
+  "priority": []
+ },
+ "seaking": {
+  "cost": 8,
+  "sets": [
+   [
+    "aqua-tail",
+    "waterfall",
+    "ice-beam",
+    "megahorn"
+   ],
+   [
+    "aqua-tail",
+    "surf",
+    "megahorn",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.781,
+   4.781
+  ],
+  "mean_dmg_frac_broad": [
+   0.561,
+   0.587
+  ],
+  "spe": 88,
+  "hp": 155,
+  "priority": []
+ },
+ "staryu": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "hydro-pump",
+    "thunderbolt"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "thunderbolt",
+    "psychic"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.938,
+   1.938
+  ],
+  "mean_dmg_frac_broad": [
+   0.54,
+   0.55
+  ],
+  "spe": 105,
+  "hp": 105,
+  "priority": []
+ },
+ "starmie": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "psychic",
+    "surf",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   8.112
+  ],
+  "mean_dmg_frac_broad": [
+   0.765
+  ],
+  "spe": 135,
+  "hp": 135,
+  "priority": []
+ },
+ "mime-jr": {
+  "cost": 4,
+  "sets": [
+   [
+    "psychic",
+    "psybeam",
+    "shadow-ball",
+    "thunderbolt"
+   ],
+   [
+    "psychic",
+    "thunderbolt",
+    "signal-beam",
+    "shadow-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.878,
+   1.878
+  ],
+  "mean_dmg_frac_broad": [
+   0.452,
+   0.47
+  ],
+  "spe": 80,
+  "hp": 95,
+  "priority": []
+ },
+ "mr-mime": {
+  "cost": 8,
+  "sets": [
+   [
+    "psychic",
+    "energy-ball",
+    "focus-blast",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.169
+  ],
+  "mean_dmg_frac_broad": [
+   0.671
+  ],
+  "spe": 110,
+  "hp": 115,
+  "priority": []
+ },
+ "scyther": {
+  "cost": 9,
+  "sets": [
+   [
+    "aerial-ace",
+    "x-scissor",
+    "night-slash",
+    "brick-break"
+   ],
+   [
+    "aerial-ace",
+    "x-scissor",
+    "brick-break",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.227,
+   7.011
+  ],
+  "mean_dmg_frac_broad": [
+   0.632,
+   0.62
+  ],
+  "spe": 125,
+  "hp": 145,
+  "priority": [
+   "quick-attack",
+   "vacuum-wave"
+  ]
+ },
+ "scizor": {
+  "cost": 9,
+  "sets": [
+   [
+    "x-scissor",
+    "iron-head",
+    "night-slash",
+    "brick-break"
+   ],
+   [
+    "x-scissor",
+    "night-slash",
+    "brick-break",
+    "bullet-punch"
+   ],
+   [
+    "x-scissor",
+    "iron-head",
+    "brick-break",
+    "bullet-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.846,
+   7.545,
+   7.288
+  ],
+  "mean_dmg_frac_broad": [
+   0.703,
+   0.645,
+   0.694
+  ],
+  "spe": 85,
+  "hp": 145,
+  "priority": [
+   "bullet-punch",
+   "quick-attack"
+  ]
+ },
+ "smoochum": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "psychic",
+    "ice-punch"
+   ],
+   [
+    "ice-beam",
+    "psychic",
+    "signal-beam",
+    "water-pulse"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.024,
+   1.024
+  ],
+  "mean_dmg_frac_broad": [
+   0.627,
+   0.645
+  ],
+  "spe": 85,
+  "hp": 120,
+  "priority": []
+ },
+ "jynx": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "energy-ball",
+    "focus-blast"
+   ],
+   [
+    "ice-beam",
+    "psychic",
+    "focus-blast",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.956,
+   7.956
+  ],
+  "mean_dmg_frac_broad": [
+   0.837,
+   0.901
+  ],
+  "spe": 115,
+  "hp": 140,
+  "priority": []
+ },
+ "elekid": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-punch",
+    "thunderbolt",
+    "thunder-punch",
+    "cross-chop"
+   ],
+   [
+    "thunderbolt",
+    "cross-chop",
+    "ice-punch",
+    "psychic"
+   ],
+   [
+    "ice-punch",
+    "thunderbolt",
+    "cross-chop",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.024,
+   3.921,
+   3.921
+  ],
+  "mean_dmg_frac_broad": [
+   0.506,
+   0.514,
+   0.498
+  ],
+  "spe": 115,
+  "hp": 120,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "electabuzz": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-punch",
+    "thunderbolt",
+    "thunder-punch",
+    "focus-blast"
+   ],
+   [
+    "thunderbolt",
+    "focus-blast",
+    "psychic",
+    "ice-punch"
+   ],
+   [
+    "ice-punch",
+    "thunderbolt",
+    "focus-blast",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.877,
+   6.894,
+   6.877
+  ],
+  "mean_dmg_frac_broad": [
+   0.675,
+   0.69,
+   0.668
+  ],
+  "spe": 125,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "electivire": {
+  "cost": 10,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "thunder-punch",
+    "thunderbolt"
+   ],
+   [
+    "thunderbolt",
+    "earthquake",
+    "ice-punch",
+    "brick-break"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "thunder-punch",
+    "quick-attack"
+   ],
+   [
+    "thunderbolt",
+    "earthquake",
+    "ice-punch",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.702,
+   6.702,
+   7.614,
+   7.614
+  ],
+  "mean_dmg_frac_broad": [
+   0.815,
+   0.818,
+   0.769,
+   0.787
+  ],
+  "spe": 115,
+  "hp": 150,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "magby": {
+  "cost": 5,
+  "sets": [
+   [
+    "flare-blitz",
+    "psychic",
+    "feint-attack",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "cross-chop",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "feint-attack",
+    "thunder-punch",
+    "mach-punch"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "thunder-punch",
+    "mach-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.719,
+   3.719,
+   3.719,
+   3.719
+  ],
+  "mean_dmg_frac_broad": [
+   0.61,
+   0.631,
+   0.601,
+   0.621
+  ],
+  "spe": 103,
+  "hp": 120,
+  "priority": [
+   "mach-punch"
+  ]
+ },
+ "magmar": {
+  "cost": 9,
+  "sets": [
+   [
+    "fire-blast",
+    "fire-punch",
+    "psychic",
+    "thunder-punch"
+   ],
+   [
+    "fire-blast",
+    "focus-blast",
+    "psychic",
+    "thunder-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.607,
+   6.024
+  ],
+  "mean_dmg_frac_broad": [
+   0.686,
+   0.714
+  ],
+  "spe": 113,
+  "hp": 140,
+  "priority": []
+ },
+ "magmortar": {
+  "cost": 10,
+  "sets": [
+   [
+    "fire-blast",
+    "psychic",
+    "thunderbolt",
+    "feint-attack"
+   ],
+   [
+    "fire-blast",
+    "thunderbolt",
+    "focus-blast",
+    "earthquake"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.176,
+   6.149
+  ],
+  "mean_dmg_frac_broad": [
+   0.866,
+   0.913
+  ],
+  "spe": 103,
+  "hp": 150,
+  "priority": []
+ },
+ "pinsir": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "x-scissor",
+    "brick-break",
+    "feint-attack"
+   ],
+   [
+    "x-scissor",
+    "stone-edge",
+    "earthquake",
+    "brick-break"
+   ],
+   [
+    "earthquake",
+    "x-scissor",
+    "feint-attack",
+    "quick-attack"
+   ],
+   [
+    "x-scissor",
+    "stone-edge",
+    "earthquake",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.256,
+   5.211,
+   5.822,
+   5.776
+  ],
+  "mean_dmg_frac_broad": [
+   0.716,
+   0.813,
+   0.691,
+   0.795
+  ],
+  "spe": 105,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "tauros": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "strength",
+    "zen-headbutt",
+    "ice-beam"
+   ],
+   [
+    "stone-edge",
+    "strength",
+    "earthquake",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.594,
+   6.594
+  ],
+  "mean_dmg_frac_broad": [
+   0.528,
+   0.581
+  ],
+  "spe": 130,
+  "hp": 150,
+  "priority": []
+ },
+ "gyarados": {
+  "cost": 10,
+  "sets": [
+   [
+    "earthquake",
+    "aqua-tail",
+    "waterfall",
+    "ice-fang"
+   ],
+   [
+    "aqua-tail",
+    "stone-edge",
+    "earthquake",
+    "ice-fang"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.846,
+   7.846
+  ],
+  "mean_dmg_frac_broad": [
+   0.678,
+   0.749
+  ],
+  "spe": 101,
+  "hp": 170,
+  "priority": []
+ },
+ "lapras": {
+  "cost": 10,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "hydro-pump",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "hydro-pump",
+    "aqua-tail",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "hydro-pump",
+    "ice-shard",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.819,
+   7.819,
+   8.595
+  ],
+  "mean_dmg_frac_broad": [
+   0.713,
+   0.728,
+   0.714
+  ],
+  "spe": 80,
+  "hp": 205,
+  "priority": [
+   "ice-shard"
+  ]
+ },
+ "eevee": {
+  "cost": 4,
+  "sets": [
+   [
+    "take-down",
+    "headbutt",
+    "shadow-ball",
+    "iron-tail"
+   ],
+   [
+    "take-down",
+    "swift",
+    "iron-tail",
+    "shadow-ball"
+   ],
+   [
+    "take-down",
+    "shadow-ball",
+    "iron-tail",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.534,
+   1.534,
+   1.946
+  ],
+  "mean_dmg_frac_broad": [
+   0.264,
+   0.265,
+   0.264
+  ],
+  "spe": 75,
+  "hp": 130,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "vaporeon": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "hydro-pump",
+    "shadow-ball"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "signal-beam",
+    "shadow-ball"
+   ],
+   [
+    "ice-beam",
+    "hydro-pump",
+    "shadow-ball",
+    "quick-attack"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "signal-beam",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.389,
+   7.389,
+   7.578,
+   7.34
+  ],
+  "mean_dmg_frac_broad": [
+   0.705,
+   0.72,
+   0.705,
+   0.714
+  ],
+  "spe": 85,
+  "hp": 205,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "jolteon": {
+  "cost": 9,
+  "sets": [
+   [
+    "thunderbolt",
+    "thunder",
+    "shadow-ball",
+    "strength"
+   ],
+   [
+    "thunderbolt",
+    "signal-beam",
+    "shadow-ball",
+    "double-kick"
+   ],
+   [
+    "thunderbolt",
+    "shadow-ball",
+    "strength",
+    "quick-attack"
+   ],
+   [
+    "thunderbolt",
+    "signal-beam",
+    "shadow-ball",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.307,
+   6.264,
+   6.307,
+   6.264
+  ],
+  "mean_dmg_frac_broad": [
+   0.667,
+   0.701,
+   0.667,
+   0.698
+  ],
+  "spe": 150,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "flareon": {
+  "cost": 9,
+  "sets": [
+   [
+    "fire-blast",
+    "fire-fang",
+    "bite",
+    "strength"
+   ],
+   [
+    "fire-blast",
+    "strength",
+    "iron-tail",
+    "bite"
+   ],
+   [
+    "fire-blast",
+    "bite",
+    "strength",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.314,
+   4.836,
+   5.879
+  ],
+  "mean_dmg_frac_broad": [
+   0.636,
+   0.64,
+   0.628
+  ],
+  "spe": 85,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "espeon": {
+  "cost": 9,
+  "sets": [
+   [
+    "psychic",
+    "psybeam",
+    "shadow-ball",
+    "zen-headbutt"
+   ],
+   [
+    "psychic",
+    "signal-beam",
+    "shadow-ball",
+    "zen-headbutt"
+   ],
+   [
+    "psychic",
+    "psybeam",
+    "shadow-ball",
+    "quick-attack"
+   ],
+   [
+    "psychic",
+    "signal-beam",
+    "shadow-ball",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.475,
+   7.475,
+   7.475,
+   7.475
+  ],
+  "mean_dmg_frac_broad": [
+   0.645,
+   0.693,
+   0.644,
+   0.691
+  ],
+  "spe": 130,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "umbreon": {
+  "cost": 9,
+  "sets": [
+   [
+    "dark-pulse",
+    "feint-attack",
+    "psychic",
+    "shadow-ball"
+   ],
+   [
+    "dark-pulse",
+    "feint-attack",
+    "psychic",
+    "iron-tail"
+   ],
+   [
+    "dark-pulse",
+    "feint-attack",
+    "psychic",
+    "quick-attack"
+   ],
+   [
+    "dark-pulse",
+    "psychic",
+    "iron-tail",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.815,
+   4.815,
+   4.815,
+   4.737
+  ],
+  "mean_dmg_frac_broad": [
+   0.332,
+   0.339,
+   0.332,
+   0.332
+  ],
+  "spe": 85,
+  "hp": 170,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "leafeon": {
+  "cost": 9,
+  "sets": [
+   [
+    "leaf-blade",
+    "aerial-ace",
+    "shadow-ball",
+    "rock-smash"
+   ],
+   [
+    "leaf-blade",
+    "x-scissor",
+    "strength",
+    "aerial-ace"
+   ],
+   [
+    "leaf-blade",
+    "aerial-ace",
+    "shadow-ball",
+    "quick-attack"
+   ],
+   [
+    "leaf-blade",
+    "x-scissor",
+    "aerial-ace",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.386,
+   7.114,
+   7.292,
+   7.114
+  ],
+  "mean_dmg_frac_broad": [
+   0.64,
+   0.669,
+   0.638,
+   0.663
+  ],
+  "spe": 115,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "glaceon": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "ice-fang",
+    "shadow-ball"
+   ],
+   [
+    "ice-beam",
+    "signal-beam",
+    "shadow-ball",
+    "water-pulse"
+   ],
+   [
+    "ice-beam",
+    "blizzard",
+    "shadow-ball",
+    "ice-shard"
+   ],
+   [
+    "ice-beam",
+    "shadow-ball",
+    "water-pulse",
+    "ice-shard"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.001,
+   7.001,
+   7.001,
+   7.001
+  ],
+  "mean_dmg_frac_broad": [
+   0.801,
+   0.826,
+   0.801,
+   0.816
+  ],
+  "spe": 85,
+  "hp": 140,
+  "priority": [
+   "ice-shard",
+   "quick-attack"
+  ]
+ },
+ "porygon": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "tri-attack",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "thunderbolt",
+    "tri-attack",
+    "psychic"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.524,
+   3.524
+  ],
+  "mean_dmg_frac_broad": [
+   0.5,
+   0.519
+  ],
+  "spe": 60,
+  "hp": 140,
+  "priority": []
+ },
+ "porygon2": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "tri-attack",
+    "zen-headbutt",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "thunderbolt",
+    "tri-attack",
+    "psychic"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.356,
+   6.356
+  ],
+  "mean_dmg_frac_broad": [
+   0.602,
+   0.617
+  ],
+  "spe": 80,
+  "hp": 160,
+  "priority": []
+ },
+ "porygon-z": {
+  "cost": 10,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "tri-attack",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "thunderbolt",
+    "tri-attack",
+    "psychic"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.6,
+   6.6
+  ],
+  "mean_dmg_frac_broad": [
+   0.731,
+   0.76
+  ],
+  "spe": 110,
+  "hp": 160,
+  "priority": []
+ },
+ "omanyte": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "surf",
+    "earth-power"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "ancient-power",
+    "earth-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.62,
+   0.622
+  ],
+  "mean_dmg_frac_broad": [
+   0.622,
+   0.658
+  ],
+  "spe": 55,
+  "hp": 110,
+  "priority": []
+ },
+ "omastar": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "surf",
+    "earth-power",
+    "stone-edge"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "ancient-power",
+    "earth-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.13,
+   4.081
+  ],
+  "mean_dmg_frac_broad": [
+   0.792,
+   0.803
+  ],
+  "spe": 75,
+  "hp": 145,
+  "priority": []
+ },
+ "kabuto": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "rock-slide",
+    "earth-power",
+    "giga-drain"
+   ],
+   [
+    "rock-slide",
+    "waterfall",
+    "surf",
+    "ice-beam"
+   ],
+   [
+    "waterfall",
+    "ice-beam",
+    "rock-slide",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.993,
+   0.996,
+   1.442
+  ],
+  "mean_dmg_frac_broad": [
+   0.488,
+   0.533,
+   0.512
+  ],
+  "spe": 75,
+  "hp": 105,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "kabutops": {
+  "cost": 9,
+  "sets": [
+   [
+    "stone-edge",
+    "ice-beam",
+    "brick-break",
+    "giga-drain"
+   ],
+   [
+    "stone-edge",
+    "aqua-tail",
+    "brick-break",
+    "x-scissor"
+   ],
+   [
+    "aqua-tail",
+    "stone-edge",
+    "ice-beam",
+    "aqua-jet"
+   ],
+   [
+    "stone-edge",
+    "aqua-tail",
+    "x-scissor",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.717,
+   2.597,
+   3.289,
+   3.289
+  ],
+  "mean_dmg_frac_broad": [
+   0.731,
+   0.787,
+   0.749,
+   0.768
+  ],
+  "spe": 100,
+  "hp": 135,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "aerodactyl": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "aerial-ace",
+    "stone-edge",
+    "ice-fang"
+   ],
+   [
+    "stone-edge",
+    "aerial-ace",
+    "earthquake",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.393,
+   5.76
+  ],
+  "mean_dmg_frac_broad": [
+   0.746,
+   0.75
+  ],
+  "spe": 150,
+  "hp": 155,
+  "priority": []
+ },
+ "munchlax": {
+  "cost": 6,
+  "sets": [
+   [
+    "double-edge",
+    "earthquake",
+    "ice-punch",
+    "seed-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.636
+  ],
+  "mean_dmg_frac_broad": [
+   0.601
+  ],
+  "spe": 25,
+  "hp": 210,
+  "priority": []
+ },
+ "snorlax": {
+  "cost": 10,
+  "sets": [
+   [
+    "double-edge",
+    "earthquake",
+    "ice-punch",
+    "seed-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   8.991
+  ],
+  "mean_dmg_frac_broad": [
+   0.74
+  ],
+  "spe": 50,
+  "hp": 235,
+  "priority": []
+ },
+ "dratini": {
+  "cost": 4,
+  "sets": [
+   [
+    "dragon-rush",
+    "dragon-rage",
+    "ice-beam",
+    "fire-blast"
+   ],
+   [
+    "dragon-rush",
+    "fire-blast",
+    "thunderbolt",
+    "surf"
+   ],
+   [
+    "dragon-rush",
+    "ice-beam",
+    "fire-blast",
+    "extreme-speed"
+   ],
+   [
+    "dragon-rush",
+    "fire-blast",
+    "thunderbolt",
+    "extreme-speed"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.898,
+   0.777,
+   1.438,
+   1.438
+  ],
+  "mean_dmg_frac_broad": [
+   0.378,
+   0.404,
+   0.369,
+   0.376
+  ],
+  "spe": 70,
+  "hp": 116,
+  "priority": [
+   "extreme-speed"
+  ]
+ },
+ "dragonair": {
+  "cost": 7,
+  "sets": [
+   [
+    "dragon-rush",
+    "dragon-pulse",
+    "ice-beam",
+    "fire-blast"
+   ],
+   [
+    "dragon-rush",
+    "fire-blast",
+    "thunderbolt",
+    "surf"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.106,
+   3.034
+  ],
+  "mean_dmg_frac_broad": [
+   0.481,
+   0.51
+  ],
+  "spe": 90,
+  "hp": 136,
+  "priority": []
+ },
+ "dragonite": {
+  "cost": 11,
+  "sets": [
+   [
+    "dragon-claw",
+    "earthquake",
+    "ice-punch",
+    "thunder-punch"
+   ],
+   [
+    "dragon-claw",
+    "aerial-ace",
+    "earthquake",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.788,
+   7.022
+  ],
+  "mean_dmg_frac_broad": [
+   0.748,
+   0.785
+  ],
+  "spe": 100,
+  "hp": 166,
+  "priority": []
+ },
+ "chikorita": {
+  "cost": 4,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "body-slam",
+    "iron-tail"
+   ],
+   [
+    "energy-ball",
+    "seed-bomb",
+    "ancient-power",
+    "body-slam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.379,
+   2.369
+  ],
+  "mean_dmg_frac_broad": [
+   0.324,
+   0.346
+  ],
+  "spe": 65,
+  "hp": 120,
+  "priority": []
+ },
+ "bayleef": {
+  "cost": 6,
+  "sets": [
+   [
+    "seed-bomb",
+    "body-slam",
+    "iron-tail",
+    "rock-smash"
+   ],
+   [
+    "energy-ball",
+    "seed-bomb",
+    "ancient-power",
+    "body-slam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.89,
+   3.821
+  ],
+  "mean_dmg_frac_broad": [
+   0.348,
+   0.411
+  ],
+  "spe": 80,
+  "hp": 135,
+  "priority": []
+ },
+ "meganium": {
+  "cost": 9,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "earthquake",
+    "razor-leaf"
+   ],
+   [
+    "energy-ball",
+    "seed-bomb",
+    "earthquake",
+    "ancient-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.294,
+   6.294
+  ],
+  "mean_dmg_frac_broad": [
+   0.525,
+   0.573
+  ],
+  "spe": 100,
+  "hp": 155,
+  "priority": []
+ },
+ "cyndaquil": {
+  "cost": 4,
+  "sets": [
+   [
+    "flare-blitz",
+    "fire-blast",
+    "double-edge",
+    "extrasensory"
+   ],
+   [
+    "flare-blitz",
+    "double-edge",
+    "extrasensory",
+    "quick-attack"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "double-edge",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.951,
+   0.951,
+   0.951
+  ],
+  "mean_dmg_frac_broad": [
+   0.487,
+   0.459,
+   0.48
+  ],
+  "spe": 85,
+  "hp": 114,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "quilava": {
+  "cost": 6,
+  "sets": [
+   [
+    "fire-blast",
+    "flamethrower",
+    "heat-wave",
+    "double-edge"
+   ],
+   [
+    "fire-blast",
+    "flamethrower",
+    "double-edge",
+    "brick-break"
+   ],
+   [
+    "fire-blast",
+    "flamethrower",
+    "double-edge",
+    "quick-attack"
+   ],
+   [
+    "fire-blast",
+    "double-edge",
+    "brick-break",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.328,
+   3.328,
+   3.328,
+   3.328
+  ],
+  "mean_dmg_frac_broad": [
+   0.531,
+   0.541,
+   0.531,
+   0.541
+  ],
+  "spe": 100,
+  "hp": 133,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "typhlosion": {
+  "cost": 10,
+  "sets": [
+   [
+    "fire-blast",
+    "double-edge",
+    "shadow-claw",
+    "thunder-punch"
+   ],
+   [
+    "fire-blast",
+    "focus-blast",
+    "earthquake",
+    "thunder-punch"
+   ],
+   [
+    "fire-blast",
+    "double-edge",
+    "thunder-punch",
+    "quick-attack"
+   ],
+   [
+    "fire-blast",
+    "focus-blast",
+    "earthquake",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.559,
+   7.309,
+   7.397,
+   7.285
+  ],
+  "mean_dmg_frac_broad": [
+   0.708,
+   0.768,
+   0.702,
+   0.743
+  ],
+  "spe": 120,
+  "hp": 153,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "totodile": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-punch",
+    "aqua-tail",
+    "ice-beam",
+    "brick-break"
+   ],
+   [
+    "aqua-tail",
+    "hydro-pump",
+    "ice-punch",
+    "brick-break"
+   ],
+   [
+    "ice-punch",
+    "aqua-tail",
+    "brick-break",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.516,
+   2.494,
+   2.494
+  ],
+  "mean_dmg_frac_broad": [
+   0.41,
+   0.421,
+   0.404
+  ],
+  "spe": 63,
+  "hp": 125,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "croconaw": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-punch",
+    "ice-beam",
+    "aqua-tail",
+    "brick-break"
+   ],
+   [
+    "aqua-tail",
+    "hydro-pump",
+    "ice-beam",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.482,
+   3.482
+  ],
+  "mean_dmg_frac_broad": [
+   0.482,
+   0.498
+  ],
+  "spe": 78,
+  "hp": 140,
+  "priority": []
+ },
+ "feraligatr": {
+  "cost": 10,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "ice-beam",
+    "aqua-tail"
+   ],
+   [
+    "aqua-tail",
+    "earthquake",
+    "ice-beam",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.81,
+   6.529
+  ],
+  "mean_dmg_frac_broad": [
+   0.628,
+   0.646
+  ],
+  "spe": 98,
+  "hp": 160,
+  "priority": []
+ },
+ "sentret": {
+  "cost": 2,
+  "sets": [
+   [
+    "double-edge",
+    "ice-beam",
+    "flamethrower",
+    "aqua-tail"
+   ],
+   [
+    "double-edge",
+    "ice-beam",
+    "flamethrower",
+    "surf"
+   ],
+   [
+    "double-edge",
+    "ice-beam",
+    "flamethrower",
+    "quick-attack"
+   ],
+   [
+    "double-edge",
+    "flamethrower",
+    "surf",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.152,
+   0.146,
+   1.265,
+   0.781
+  ],
+  "mean_dmg_frac_broad": [
+   0.371,
+   0.376,
+   0.363,
+   0.363
+  ],
+  "spe": 40,
+  "hp": 110,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "furret": {
+  "cost": 7,
+  "sets": [
+   [
+    "ice-punch",
+    "fire-punch",
+    "strength",
+    "thunder-punch"
+   ],
+   [
+    "strength",
+    "ice-punch",
+    "aqua-tail",
+    "brick-break"
+   ],
+   [
+    "ice-punch",
+    "fire-punch",
+    "strength",
+    "quick-attack"
+   ],
+   [
+    "strength",
+    "ice-punch",
+    "brick-break",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.778,
+   3.665,
+   3.619,
+   3.619
+  ],
+  "mean_dmg_frac_broad": [
+   0.414,
+   0.427,
+   0.39,
+   0.405
+  ],
+  "spe": 110,
+  "hp": 160,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "hoothoot": {
+  "cost": 3,
+  "sets": [
+   [
+    "night-shade",
+    "air-slash",
+    "aerial-ace",
+    "heat-wave"
+   ],
+   [
+    "night-shade",
+    "air-slash",
+    "heat-wave",
+    "take-down"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.604,
+   2.572
+  ],
+  "mean_dmg_frac_broad": [
+   0.331,
+   0.332
+  ],
+  "spe": 70,
+  "hp": 135,
+  "priority": []
+ },
+ "noctowl": {
+  "cost": 7,
+  "sets": [
+   [
+    "air-slash",
+    "heat-wave",
+    "shadow-ball",
+    "take-down"
+   ],
+   [
+    "air-slash",
+    "heat-wave",
+    "psychic",
+    "shadow-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.902,
+   4.87
+  ],
+  "mean_dmg_frac_broad": [
+   0.418,
+   0.426
+  ],
+  "spe": 90,
+  "hp": 175,
+  "priority": []
+ },
+ "ledyba": {
+  "cost": 3,
+  "sets": [
+   [
+    "bug-buzz",
+    "ice-punch",
+    "giga-drain",
+    "brick-break"
+   ],
+   [
+    "bug-buzz",
+    "air-cutter",
+    "giga-drain",
+    "ice-punch"
+   ],
+   [
+    "bug-buzz",
+    "ice-punch",
+    "giga-drain",
+    "mach-punch"
+   ],
+   [
+    "bug-buzz",
+    "air-cutter",
+    "giga-drain",
+    "mach-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.784,
+   1.753,
+   1.689,
+   1.753
+  ],
+  "mean_dmg_frac_broad": [
+   0.281,
+   0.302,
+   0.277,
+   0.294
+  ],
+  "spe": 75,
+  "hp": 115,
+  "priority": [
+   "mach-punch"
+  ]
+ },
+ "ledian": {
+  "cost": 6,
+  "sets": [
+   [
+    "bug-buzz",
+    "ice-punch",
+    "giga-drain",
+    "focus-blast"
+   ],
+   [
+    "bug-buzz",
+    "air-cutter",
+    "focus-blast",
+    "ice-punch"
+   ],
+   [
+    "ice-punch",
+    "giga-drain",
+    "focus-blast",
+    "mach-punch"
+   ],
+   [
+    "bug-buzz",
+    "air-cutter",
+    "focus-blast",
+    "mach-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.906,
+   2.52,
+   2.394,
+   2.487
+  ],
+  "mean_dmg_frac_broad": [
+   0.379,
+   0.395,
+   0.294,
+   0.381
+  ],
+  "spe": 105,
+  "hp": 130,
+  "priority": [
+   "mach-punch"
+  ]
+ },
+ "spinarak": {
+  "cost": 2,
+  "sets": [
+   [
+    "night-shade",
+    "bug-bite",
+    "poison-jab",
+    "giga-drain"
+   ],
+   [
+    "night-shade",
+    "poison-jab",
+    "giga-drain",
+    "shadow-sneak"
+   ],
+   [
+    "night-shade",
+    "poison-jab",
+    "bug-bite",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "mean_dmg_frac_broad": [
+   0.383,
+   0.364,
+   0.376
+  ],
+  "spe": 50,
+  "hp": 115,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "ariados": {
+  "cost": 6,
+  "sets": [
+   [
+    "night-shade",
+    "bug-bite",
+    "poison-jab",
+    "giga-drain"
+   ],
+   [
+    "night-shade",
+    "poison-jab",
+    "giga-drain",
+    "shadow-sneak"
+   ],
+   [
+    "poison-jab",
+    "bug-bite",
+    "night-shade",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.471,
+   3.694,
+   3.328
+  ],
+  "mean_dmg_frac_broad": [
+   0.475,
+   0.442,
+   0.46
+  ],
+  "spe": 60,
+  "hp": 145,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "chinchou": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "surf",
+    "thunderbolt"
+   ],
+   [
+    "thunderbolt",
+    "hydro-pump",
+    "ice-beam",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.017,
+   2.015
+  ],
+  "mean_dmg_frac_broad": [
+   0.523,
+   0.529
+  ],
+  "spe": 87,
+  "hp": 150,
+  "priority": []
+ },
+ "lanturn": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "surf",
+    "thunderbolt"
+   ],
+   [
+    "thunderbolt",
+    "hydro-pump",
+    "ice-beam",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.951,
+   4.948
+  ],
+  "mean_dmg_frac_broad": [
+   0.657,
+   0.665
+  ],
+  "spe": 87,
+  "hp": 200,
+  "priority": []
+ },
+ "togepi": {
+  "cost": 2,
+  "sets": [
+   [
+    "fire-blast",
+    "flamethrower",
+    "double-edge",
+    "shadow-ball"
+   ],
+   [
+    "fire-blast",
+    "double-edge",
+    "psychic",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.894,
+   0.894
+  ],
+  "mean_dmg_frac_broad": [
+   0.27,
+   0.284
+  ],
+  "spe": 40,
+  "hp": 110,
+  "priority": []
+ },
+ "togetic": {
+  "cost": 6,
+  "sets": [
+   [
+    "fire-blast",
+    "double-edge",
+    "shadow-ball",
+    "magical-leaf"
+   ],
+   [
+    "fire-blast",
+    "double-edge",
+    "psychic",
+    "magical-leaf"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.804,
+   4.599
+  ],
+  "mean_dmg_frac_broad": [
+   0.455,
+   0.466
+  ],
+  "spe": 60,
+  "hp": 130,
+  "priority": []
+ },
+ "togekiss": {
+  "cost": 10,
+  "sets": [
+   [
+    "air-slash",
+    "fire-blast",
+    "shadow-ball",
+    "shock-wave"
+   ],
+   [
+    "air-slash",
+    "fire-blast",
+    "aura-sphere",
+    "shadow-ball"
+   ],
+   [
+    "air-slash",
+    "fire-blast",
+    "shadow-ball",
+    "extreme-speed"
+   ],
+   [
+    "air-slash",
+    "aura-sphere",
+    "shadow-ball",
+    "extreme-speed"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.624,
+   6.546,
+   7.214,
+   7.214
+  ],
+  "mean_dmg_frac_broad": [
+   0.631,
+   0.7,
+   0.61,
+   0.669
+  ],
+  "spe": 100,
+  "hp": 160,
+  "priority": [
+   "extreme-speed"
+  ]
+ },
+ "natu": {
+  "cost": 4,
+  "sets": [
+   [
+    "night-shade",
+    "drill-peck",
+    "heat-wave",
+    "giga-drain"
+   ],
+   [
+    "psychic",
+    "drill-peck",
+    "heat-wave",
+    "giga-drain"
+   ],
+   [
+    "night-shade",
+    "drill-peck",
+    "giga-drain",
+    "quick-attack"
+   ],
+   [
+    "psychic",
+    "heat-wave",
+    "signal-beam",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.476,
+   1.317,
+   1.265,
+   1.06
+  ],
+  "mean_dmg_frac_broad": [
+   0.422,
+   0.467,
+   0.397,
+   0.45
+  ],
+  "spe": 90,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "xatu": {
+  "cost": 8,
+  "sets": [
+   [
+    "psychic",
+    "night-shade",
+    "heat-wave",
+    "giga-drain"
+   ],
+   [
+    "psychic",
+    "heat-wave",
+    "signal-beam",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.848,
+   5.593
+  ],
+  "mean_dmg_frac_broad": [
+   0.577,
+   0.591
+  ],
+  "spe": 115,
+  "hp": 140,
+  "priority": []
+ },
+ "mareep": {
+  "cost": 3,
+  "sets": [
+   [
+    "thunderbolt",
+    "thunder",
+    "signal-beam",
+    "body-slam"
+   ],
+   [
+    "thunderbolt",
+    "power-gem",
+    "signal-beam",
+    "iron-tail"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.184,
+   1.184
+  ],
+  "mean_dmg_frac_broad": [
+   0.455,
+   0.456
+  ],
+  "spe": 55,
+  "hp": 130,
+  "priority": []
+ },
+ "flaaffy": {
+  "cost": 5,
+  "sets": [
+   [
+    "thunderbolt",
+    "fire-punch",
+    "signal-beam",
+    "power-gem"
+   ],
+   [
+    "thunderbolt",
+    "signal-beam",
+    "fire-punch",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.557,
+   2.553
+  ],
+  "mean_dmg_frac_broad": [
+   0.544,
+   0.549
+  ],
+  "spe": 65,
+  "hp": 145,
+  "priority": []
+ },
+ "ampharos": {
+  "cost": 9,
+  "sets": [
+   [
+    "thunderbolt",
+    "thunder",
+    "focus-blast",
+    "fire-punch"
+   ],
+   [
+    "thunderbolt",
+    "focus-blast",
+    "signal-beam",
+    "fire-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.658,
+   5.658
+  ],
+  "mean_dmg_frac_broad": [
+   0.749,
+   0.772
+  ],
+  "spe": 75,
+  "hp": 165,
+  "priority": []
+ },
+ "azurill": {
+  "cost": 1,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "body-slam",
+    "surf"
+   ],
+   [
+    "ice-beam",
+    "body-slam",
+    "surf",
+    "iron-tail"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.26,
+   0.26
+  ],
+  "mean_dmg_frac_broad": [
+   0.202,
+   0.203
+  ],
+  "spe": 40,
+  "hp": 125,
+  "priority": []
+ },
+ "marill": {
+  "cost": 2,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "surf",
+    "double-edge"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "double-edge",
+    "brick-break"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "double-edge",
+    "aqua-jet"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "double-edge",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.533,
+   1.532,
+   1.643,
+   1.63
+  ],
+  "mean_dmg_frac_broad": [
+   0.232,
+   0.239,
+   0.231,
+   0.233
+  ],
+  "spe": 60,
+  "hp": 145,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "azumarill": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "hydro-pump",
+    "double-edge"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "double-edge",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.158,
+   4.183
+  ],
+  "mean_dmg_frac_broad": [
+   0.4,
+   0.417
+  ],
+  "spe": 70,
+  "hp": 175,
+  "priority": []
+ },
+ "bonsly": {
+  "cost": 4,
+  "sets": [
+   [
+    "double-edge",
+    "rock-slide",
+    "brick-break",
+    "feint-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.28
+  ],
+  "mean_dmg_frac_broad": [
+   0.476
+  ],
+  "spe": 30,
+  "hp": 125,
+  "priority": []
+ },
+ "sudowoodo": {
+  "cost": 6,
+  "sets": [
+   [
+    "wood-hammer",
+    "earthquake",
+    "ice-punch",
+    "stone-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.104
+  ],
+  "mean_dmg_frac_broad": [
+   0.791
+  ],
+  "spe": 50,
+  "hp": 145,
+  "priority": []
+ },
+ "hoppip": {
+  "cost": 2,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "aerial-ace",
+    "giga-drain"
+   ],
+   [
+    "energy-ball",
+    "aerial-ace",
+    "double-edge",
+    "u-turn"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.302,
+   1.176
+  ],
+  "mean_dmg_frac_broad": [
+   0.299,
+   0.307
+  ],
+  "spe": 70,
+  "hp": 110,
+  "priority": []
+ },
+ "skiploom": {
+  "cost": 5,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "aerial-ace",
+    "giga-drain"
+   ],
+   [
+    "energy-ball",
+    "seed-bomb",
+    "aerial-ace",
+    "u-turn"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.509,
+   1.509
+  ],
+  "mean_dmg_frac_broad": [
+   0.351,
+   0.358
+  ],
+  "spe": 100,
+  "hp": 130,
+  "priority": []
+ },
+ "jumpluff": {
+  "cost": 8,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "aerial-ace",
+    "giga-drain"
+   ],
+   [
+    "energy-ball",
+    "seed-bomb",
+    "aerial-ace",
+    "u-turn"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.162,
+   4.162
+  ],
+  "mean_dmg_frac_broad": [
+   0.404,
+   0.412
+  ],
+  "spe": 130,
+  "hp": 150,
+  "priority": []
+ },
+ "aipom": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-punch",
+    "seed-bomb",
+    "fire-punch",
+    "strength"
+   ],
+   [
+    "strength",
+    "ice-punch",
+    "seed-bomb",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.241,
+   3.241
+  ],
+  "mean_dmg_frac_broad": [
+   0.407,
+   0.414
+  ],
+  "spe": 105,
+  "hp": 130,
+  "priority": []
+ },
+ "ambipom": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-punch",
+    "seed-bomb",
+    "fire-punch",
+    "strength"
+   ],
+   [
+    "strength",
+    "ice-punch",
+    "seed-bomb",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.934,
+   7.934
+  ],
+  "mean_dmg_frac_broad": [
+   0.538,
+   0.548
+  ],
+  "spe": 135,
+  "hp": 150,
+  "priority": []
+ },
+ "sunkern": {
+  "cost": 1,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "secret-power"
+   ],
+   [
+    "energy-ball",
+    "seed-bomb",
+    "earth-power",
+    "sludge-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.0,
+   0.0
+  ],
+  "mean_dmg_frac_broad": [
+   0.262,
+   0.28
+  ],
+  "spe": 50,
+  "hp": 105,
+  "priority": []
+ },
+ "sunflora": {
+  "cost": 7,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "giga-drain",
+    "earth-power"
+   ],
+   [
+    "energy-ball",
+    "earth-power",
+    "seed-bomb",
+    "sludge-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.099,
+   4.099
+  ],
+  "mean_dmg_frac_broad": [
+   0.595,
+   0.656
+  ],
+  "spe": 50,
+  "hp": 150,
+  "priority": []
+ },
+ "yanma": {
+  "cost": 6,
+  "sets": [
+   [
+    "air-slash",
+    "aerial-ace",
+    "bug-buzz",
+    "giga-drain"
+   ],
+   [
+    "bug-buzz",
+    "air-slash",
+    "psychic",
+    "giga-drain"
+   ],
+   [
+    "aerial-ace",
+    "bug-buzz",
+    "giga-drain",
+    "quick-attack"
+   ],
+   [
+    "bug-buzz",
+    "air-slash",
+    "giga-drain",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.37,
+   3.37,
+   3.171,
+   3.37
+  ],
+  "mean_dmg_frac_broad": [
+   0.497,
+   0.506,
+   0.463,
+   0.493
+  ],
+  "spe": 115,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "yanmega": {
+  "cost": 9,
+  "sets": [
+   [
+    "air-slash",
+    "bug-buzz",
+    "shadow-ball",
+    "giga-drain"
+   ],
+   [
+    "bug-buzz",
+    "air-slash",
+    "psychic",
+    "giga-drain"
+   ],
+   [
+    "air-slash",
+    "bug-buzz",
+    "giga-drain",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.313,
+   6.106,
+   6.106
+  ],
+  "mean_dmg_frac_broad": [
+   0.709,
+   0.718,
+   0.699
+  ],
+  "spe": 115,
+  "hp": 161,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "wooper": {
+  "cost": 2,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "earth-power",
+    "aqua-tail"
+   ],
+   [
+    "earthquake",
+    "aqua-tail",
+    "surf",
+    "ice-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.0,
+   0.0
+  ],
+  "mean_dmg_frac_broad": [
+   0.399,
+   0.402
+  ],
+  "spe": 35,
+  "hp": 130,
+  "priority": []
+ },
+ "quagsire": {
+  "cost": 7,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "ice-punch",
+    "ice-beam"
+   ],
+   [
+    "earthquake",
+    "surf",
+    "stone-edge",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.709,
+   4.709
+  ],
+  "mean_dmg_frac_broad": [
+   0.64,
+   0.689
+  ],
+  "spe": 55,
+  "hp": 170,
+  "priority": []
+ },
+ "murkrow": {
+  "cost": 6,
+  "sets": [
+   [
+    "brave-bird",
+    "drill-peck",
+    "dark-pulse",
+    "heat-wave"
+   ],
+   [
+    "brave-bird",
+    "dark-pulse",
+    "heat-wave",
+    "night-shade"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.416,
+   6.416
+  ],
+  "mean_dmg_frac_broad": [
+   0.718,
+   0.722
+  ],
+  "spe": 111,
+  "hp": 135,
+  "priority": []
+ },
+ "honchkrow": {
+  "cost": 9,
+  "sets": [
+   [
+    "aerial-ace",
+    "night-slash",
+    "dark-pulse",
+    "heat-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.689
+  ],
+  "mean_dmg_frac_broad": [
+   0.669
+  ],
+  "spe": 91,
+  "hp": 175,
+  "priority": []
+ },
+ "misdreavus": {
+  "cost": 7,
+  "sets": [
+   [
+    "shadow-ball",
+    "psychic",
+    "ominous-wind",
+    "thunderbolt"
+   ],
+   [
+    "thunderbolt",
+    "shadow-ball",
+    "psychic",
+    "power-gem"
+   ],
+   [
+    "shadow-ball",
+    "psychic",
+    "thunderbolt",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.148,
+   3.148,
+   3.148
+  ],
+  "mean_dmg_frac_broad": [
+   0.489,
+   0.508,
+   0.489
+  ],
+  "spe": 105,
+  "hp": 135,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "mismagius": {
+  "cost": 9,
+  "sets": [
+   [
+    "shadow-ball",
+    "energy-ball",
+    "psychic",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.945
+  ],
+  "mean_dmg_frac_broad": [
+   0.62
+  ],
+  "spe": 125,
+  "hp": 135,
+  "priority": []
+ },
+ "girafarig": {
+  "cost": 8,
+  "sets": [
+   [
+    "psychic",
+    "earthquake",
+    "zen-headbutt",
+    "energy-ball"
+   ],
+   [
+    "psychic",
+    "thunderbolt",
+    "earthquake",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.782,
+   4.757
+  ],
+  "mean_dmg_frac_broad": [
+   0.572,
+   0.618
+  ],
+  "spe": 105,
+  "hp": 145,
+  "priority": []
+ },
+ "pineco": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "double-edge",
+    "bug-bite",
+    "giga-drain"
+   ],
+   [
+    "double-edge",
+    "earthquake",
+    "bug-bite",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.578,
+   0.578
+  ],
+  "mean_dmg_frac_broad": [
+   0.402,
+   0.42
+  ],
+  "spe": 35,
+  "hp": 125,
+  "priority": []
+ },
+ "forretress": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "double-edge",
+    "bug-bite",
+    "giga-drain"
+   ],
+   [
+    "double-edge",
+    "earthquake",
+    "bug-bite",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.702,
+   5.505
+  ],
+  "mean_dmg_frac_broad": [
+   0.521,
+   0.54
+  ],
+  "spe": 60,
+  "hp": 150,
+  "priority": []
+ },
+ "dunsparce": {
+  "cost": 7,
+  "sets": [
+   [
+    "earthquake",
+    "ice-beam",
+    "strength",
+    "zen-headbutt"
+   ],
+   [
+    "ice-beam",
+    "fire-blast",
+    "earthquake",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.465,
+   3.202
+  ],
+  "mean_dmg_frac_broad": [
+   0.457,
+   0.507
+  ],
+  "spe": 65,
+  "hp": 175,
+  "priority": []
+ },
+ "gligar": {
+  "cost": 7,
+  "sets": [
+   [
+    "earthquake",
+    "aerial-ace",
+    "wing-attack",
+    "night-slash"
+   ],
+   [
+    "earthquake",
+    "stone-edge",
+    "aerial-ace",
+    "x-scissor"
+   ],
+   [
+    "earthquake",
+    "aerial-ace",
+    "wing-attack",
+    "quick-attack"
+   ],
+   [
+    "earthquake",
+    "stone-edge",
+    "aerial-ace",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.277,
+   4.277,
+   4.277,
+   4.277
+  ],
+  "mean_dmg_frac_broad": [
+   0.551,
+   0.605,
+   0.549,
+   0.595
+  ],
+  "spe": 105,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "gliscor": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "aerial-ace",
+    "ice-fang",
+    "night-slash"
+   ],
+   [
+    "earthquake",
+    "stone-edge",
+    "aerial-ace",
+    "ice-fang"
+   ],
+   [
+    "earthquake",
+    "aerial-ace",
+    "ice-fang",
+    "quick-attack"
+   ],
+   [
+    "earthquake",
+    "stone-edge",
+    "aerial-ace",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.553,
+   7.551,
+   7.551,
+   7.017
+  ],
+  "mean_dmg_frac_broad": [
+   0.688,
+   0.729,
+   0.687,
+   0.718
+  ],
+  "spe": 115,
+  "hp": 150,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "snubbull": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "strength",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "thunder-punch",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.006,
+   0.95
+  ],
+  "mean_dmg_frac_broad": [
+   0.488,
+   0.497
+  ],
+  "spe": 50,
+  "hp": 135,
+  "priority": []
+ },
+ "granbull": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "strength",
+    "thunder-punch"
+   ],
+   [
+    "stone-edge",
+    "earthquake",
+    "ice-punch",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.666,
+   4.33
+  ],
+  "mean_dmg_frac_broad": [
+   0.677,
+   0.711
+  ],
+  "spe": 65,
+  "hp": 165,
+  "priority": []
+ },
+ "qwilfish": {
+  "cost": 7,
+  "sets": [
+   [
+    "aqua-tail",
+    "waterfall",
+    "ice-beam",
+    "poison-jab"
+   ],
+   [
+    "aqua-tail",
+    "poison-jab",
+    "hydro-pump",
+    "ice-beam"
+   ],
+   [
+    "aqua-tail",
+    "ice-beam",
+    "poison-jab",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.509,
+   3.507,
+   3.507
+  ],
+  "mean_dmg_frac_broad": [
+   0.54,
+   0.555,
+   0.54
+  ],
+  "spe": 105,
+  "hp": 140,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "shuckle": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "stone-edge",
+    "bug-bite"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.506
+  ],
+  "mean_dmg_frac_broad": [
+   0.192
+  ],
+  "spe": 25,
+  "hp": 95,
+  "priority": []
+ },
+ "heracross": {
+  "cost": 9,
+  "sets": [
+   [
+    "megahorn",
+    "earthquake",
+    "brick-break",
+    "shadow-claw"
+   ],
+   [
+    "megahorn",
+    "brick-break",
+    "stone-edge",
+    "earthquake"
+   ],
+   [
+    "megahorn",
+    "brick-break",
+    "shadow-claw",
+    "vacuum-wave"
+   ],
+   [
+    "megahorn",
+    "stone-edge",
+    "earthquake",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.994,
+   7.895,
+   8.918,
+   8.417
+  ],
+  "mean_dmg_frac_broad": [
+   0.881,
+   0.953,
+   0.814,
+   0.894
+  ],
+  "spe": 105,
+  "hp": 155,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "sneasel": {
+  "cost": 7,
+  "sets": [
+   [
+    "ice-punch",
+    "ice-shard",
+    "bite",
+    "brick-break"
+   ],
+   [
+    "ice-punch",
+    "bite",
+    "brick-break",
+    "aerial-ace"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.222,
+   7.222
+  ],
+  "mean_dmg_frac_broad": [
+   0.581,
+   0.588
+  ],
+  "spe": 135,
+  "hp": 130,
+  "priority": [
+   "ice-shard",
+   "quick-attack"
+  ]
+ },
+ "weavile": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-punch",
+    "night-slash",
+    "ice-beam",
+    "brick-break"
+   ],
+   [
+    "ice-punch",
+    "night-slash",
+    "brick-break",
+    "aerial-ace"
+   ],
+   [
+    "ice-punch",
+    "night-slash",
+    "brick-break",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   8.208,
+   8.208,
+   8.208
+  ],
+  "mean_dmg_frac_broad": [
+   0.737,
+   0.743,
+   0.735
+  ],
+  "spe": 145,
+  "hp": 145,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "teddiursa": {
+  "cost": 4,
+  "sets": [
+   [
+    "double-edge",
+    "earthquake",
+    "ice-punch",
+    "seed-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.289
+  ],
+  "mean_dmg_frac_broad": [
+   0.573
+  ],
+  "spe": 60,
+  "hp": 135,
+  "priority": []
+ },
+ "ursaring": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "seed-bomb",
+    "fire-punch"
+   ],
+   [
+    "stone-edge",
+    "earthquake",
+    "ice-punch",
+    "seed-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.541,
+   6.541
+  ],
+  "mean_dmg_frac_broad": [
+   0.742,
+   0.779
+  ],
+  "spe": 75,
+  "hp": 165,
+  "priority": []
+ },
+ "slugma": {
+  "cost": 2,
+  "sets": [
+   [
+    "fire-blast",
+    "flamethrower",
+    "heat-wave",
+    "earth-power"
+   ],
+   [
+    "fire-blast",
+    "earth-power",
+    "ancient-power",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.384,
+   0.384
+  ],
+  "mean_dmg_frac_broad": [
+   0.513,
+   0.52
+  ],
+  "spe": 40,
+  "hp": 115,
+  "priority": []
+ },
+ "magcargo": {
+  "cost": 6,
+  "sets": [
+   [
+    "fire-blast",
+    "flamethrower",
+    "earth-power",
+    "stone-edge"
+   ],
+   [
+    "fire-blast",
+    "stone-edge",
+    "ancient-power",
+    "earth-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.653,
+   1.653
+  ],
+  "mean_dmg_frac_broad": [
+   0.609,
+   0.615
+  ],
+  "spe": 50,
+  "hp": 125,
+  "priority": []
+ },
+ "swinub": {
+  "cost": 2,
+  "sets": [
+   [
+    "earthquake",
+    "ice-beam",
+    "blizzard",
+    "earth-power"
+   ],
+   [
+    "earthquake",
+    "ice-beam",
+    "earth-power",
+    "rock-slide"
+   ],
+   [
+    "earthquake",
+    "ice-beam",
+    "blizzard",
+    "ice-shard"
+   ],
+   [
+    "earthquake",
+    "ice-beam",
+    "rock-slide",
+    "ice-shard"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.886,
+   0.886,
+   2.004,
+   2.004
+  ],
+  "mean_dmg_frac_broad": [
+   0.457,
+   0.466,
+   0.452,
+   0.461
+  ],
+  "spe": 70,
+  "hp": 125,
+  "priority": [
+   "ice-shard"
+  ]
+ },
+ "piloswine": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "ice-fang",
+    "ice-beam",
+    "blizzard"
+   ],
+   [
+    "earthquake",
+    "ice-beam",
+    "ice-fang",
+    "stone-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.395,
+   3.395
+  ],
+  "mean_dmg_frac_broad": [
+   0.762,
+   0.792
+  ],
+  "spe": 70,
+  "hp": 175,
+  "priority": []
+ },
+ "mamoswine": {
+  "cost": 10,
+  "sets": [
+   [
+    "earthquake",
+    "ice-fang",
+    "ice-beam",
+    "blizzard"
+   ],
+   [
+    "earthquake",
+    "ice-fang",
+    "stone-edge",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.507,
+   4.507
+  ],
+  "mean_dmg_frac_broad": [
+   0.934,
+   0.974
+  ],
+  "spe": 100,
+  "hp": 185,
+  "priority": []
+ },
+ "corsola": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-beam",
+    "surf",
+    "earth-power",
+    "stone-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.383
+  ],
+  "mean_dmg_frac_broad": [
+   0.547
+  ],
+  "spe": 55,
+  "hp": 130,
+  "priority": []
+ },
+ "remoraid": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "seed-bomb",
+    "surf",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.784
+  ],
+  "mean_dmg_frac_broad": [
+   0.524
+  ],
+  "spe": 85,
+  "hp": 110,
+  "priority": []
+ },
+ "octillery": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "seed-bomb",
+    "surf",
+    "fire-blast"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "fire-blast",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.999,
+   5.927
+  ],
+  "mean_dmg_frac_broad": [
+   0.766,
+   0.775
+  ],
+  "spe": 65,
+  "hp": 150,
+  "priority": []
+ },
+ "delibird": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "seed-bomb",
+    "brick-break"
+   ],
+   [
+    "ice-beam",
+    "aerial-ace",
+    "seed-bomb",
+    "brick-break"
+   ],
+   [
+    "ice-beam",
+    "seed-bomb",
+    "ice-shard",
+    "brick-break"
+   ],
+   [
+    "ice-beam",
+    "aerial-ace",
+    "seed-bomb",
+    "ice-shard"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.085,
+   2.085,
+   3.045,
+   3.045
+  ],
+  "mean_dmg_frac_broad": [
+   0.5,
+   0.513,
+   0.498,
+   0.498
+  ],
+  "spe": 95,
+  "hp": 120,
+  "priority": [
+   "ice-shard",
+   "quick-attack"
+  ]
+ },
+ "mantyke": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "surf",
+    "air-cutter"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "air-cutter",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.29,
+   3.286
+  ],
+  "mean_dmg_frac_broad": [
+   0.446,
+   0.456
+  ],
+  "spe": 70,
+  "hp": 120,
+  "priority": []
+ },
+ "mantine": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "hydro-pump",
+    "seed-bomb"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "air-cutter",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.673,
+   6.768
+  ],
+  "mean_dmg_frac_broad": [
+   0.548,
+   0.568
+  ],
+  "spe": 90,
+  "hp": 140,
+  "priority": []
+ },
+ "skarmory": {
+  "cost": 8,
+  "sets": [
+   [
+    "brave-bird",
+    "drill-peck",
+    "aerial-ace",
+    "pluck"
+   ],
+   [
+    "brave-bird",
+    "steel-wing",
+    "flash-cannon",
+    "rock-smash"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.128,
+   7.128
+  ],
+  "mean_dmg_frac_broad": [
+   0.633,
+   0.651
+  ],
+  "spe": 90,
+  "hp": 140,
+  "priority": []
+ },
+ "houndour": {
+  "cost": 4,
+  "sets": [
+   [
+    "fire-blast",
+    "flamethrower",
+    "dark-pulse",
+    "thunder-fang"
+   ],
+   [
+    "fire-blast",
+    "dark-pulse",
+    "crunch",
+    "thunder-fang"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.567,
+   1.567
+  ],
+  "mean_dmg_frac_broad": [
+   0.579,
+   0.587
+  ],
+  "spe": 85,
+  "hp": 120,
+  "priority": []
+ },
+ "houndoom": {
+  "cost": 9,
+  "sets": [
+   [
+    "fire-blast",
+    "flamethrower",
+    "dark-pulse",
+    "thunder-fang"
+   ],
+   [
+    "fire-blast",
+    "dark-pulse",
+    "crunch",
+    "thunder-fang"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.39,
+   7.39
+  ],
+  "mean_dmg_frac_broad": [
+   0.749,
+   0.762
+  ],
+  "spe": 115,
+  "hp": 150,
+  "priority": []
+ },
+ "phanpy": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "seed-bomb",
+    "ice-shard"
+   ],
+   [
+    "earthquake",
+    "head-smash",
+    "seed-bomb",
+    "gunk-shot"
+   ],
+   [
+    "earthquake",
+    "head-smash",
+    "seed-bomb",
+    "ice-shard"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.95,
+   2.621,
+   2.95
+  ],
+  "mean_dmg_frac_broad": [
+   0.444,
+   0.544,
+   0.537
+  ],
+  "spe": 60,
+  "hp": 165,
+  "priority": [
+   "ice-shard"
+  ]
+ },
+ "donphan": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "seed-bomb",
+    "earth-power",
+    "fire-fang"
+   ],
+   [
+    "earthquake",
+    "stone-edge",
+    "seed-bomb",
+    "gunk-shot"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.421,
+   6.421
+  ],
+  "mean_dmg_frac_broad": [
+   0.77,
+   0.861
+  ],
+  "spe": 70,
+  "hp": 165,
+  "priority": []
+ },
+ "stantler": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "energy-ball",
+    "zen-headbutt",
+    "shadow-ball"
+   ],
+   [
+    "earthquake",
+    "megahorn",
+    "thunderbolt",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.206,
+   4.058
+  ],
+  "mean_dmg_frac_broad": [
+   0.5,
+   0.626
+  ],
+  "spe": 105,
+  "hp": 148,
+  "priority": []
+ },
+ "miltank": {
+  "cost": 8,
+  "sets": [
+   [
+    "double-edge",
+    "earthquake",
+    "ice-punch",
+    "fire-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.533
+  ],
+  "mean_dmg_frac_broad": [
+   0.569
+  ],
+  "spe": 120,
+  "hp": 170,
+  "priority": []
+ },
+ "larvitar": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "stone-edge",
+    "crunch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.037
+  ],
+  "mean_dmg_frac_broad": [
+   0.572
+  ],
+  "spe": 61,
+  "hp": 125,
+  "priority": []
+ },
+ "pupitar": {
+  "cost": 6,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "stone-edge",
+    "crunch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.76
+  ],
+  "mean_dmg_frac_broad": [
+   0.707
+  ],
+  "spe": 71,
+  "hp": 145,
+  "priority": []
+ },
+ "tyranitar": {
+  "cost": 11,
+  "sets": [
+   [
+    "earthquake",
+    "crunch",
+    "ice-punch",
+    "thunder-punch"
+   ],
+   [
+    "stone-edge",
+    "crunch",
+    "earthquake",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.804,
+   5.574
+  ],
+  "mean_dmg_frac_broad": [
+   0.799,
+   0.938
+  ],
+  "spe": 81,
+  "hp": 175,
+  "priority": []
+ },
+ "treecko": {
+  "cost": 4,
+  "sets": [
+   [
+    "energy-ball",
+    "dragon-breath",
+    "aerial-ace",
+    "brick-break"
+   ],
+   [
+    "energy-ball",
+    "rock-slide",
+    "brick-break",
+    "aerial-ace"
+   ],
+   [
+    "energy-ball",
+    "aerial-ace",
+    "brick-break",
+    "quick-attack"
+   ],
+   [
+    "energy-ball",
+    "rock-slide",
+    "aerial-ace",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.873,
+   1.873,
+   2.11,
+   1.948
+  ],
+  "mean_dmg_frac_broad": [
+   0.381,
+   0.406,
+   0.378,
+   0.396
+  ],
+  "spe": 90,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "grovyle": {
+  "cost": 6,
+  "sets": [
+   [
+    "leaf-blade",
+    "energy-ball",
+    "aerial-ace",
+    "brick-break"
+   ],
+   [
+    "energy-ball",
+    "leaf-blade",
+    "rock-slide",
+    "x-scissor"
+   ],
+   [
+    "leaf-blade",
+    "aerial-ace",
+    "brick-break",
+    "quick-attack"
+   ],
+   [
+    "energy-ball",
+    "rock-slide",
+    "x-scissor",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.452,
+   4.844,
+   5.409,
+   4.71
+  ],
+  "mean_dmg_frac_broad": [
+   0.491,
+   0.522,
+   0.437,
+   0.504
+  ],
+  "spe": 115,
+  "hp": 125,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "sceptile": {
+  "cost": 10,
+  "sets": [
+   [
+    "leaf-blade",
+    "earthquake",
+    "dragon-pulse",
+    "aerial-ace"
+   ],
+   [
+    "leaf-blade",
+    "focus-blast",
+    "earthquake",
+    "rock-slide"
+   ],
+   [
+    "leaf-blade",
+    "earthquake",
+    "dragon-pulse",
+    "quick-attack"
+   ],
+   [
+    "leaf-blade",
+    "focus-blast",
+    "earthquake",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   8.557,
+   7.412,
+   8.466,
+   7.412
+  ],
+  "mean_dmg_frac_broad": [
+   0.609,
+   0.66,
+   0.594,
+   0.613
+  ],
+  "spe": 140,
+  "hp": 145,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "torchic": {
+  "cost": 4,
+  "sets": [
+   [
+    "fire-blast",
+    "flamethrower",
+    "shadow-claw",
+    "strength"
+   ],
+   [
+    "fire-blast",
+    "rock-slide",
+    "aerial-ace",
+    "shadow-claw"
+   ],
+   [
+    "fire-blast",
+    "shadow-claw",
+    "strength",
+    "quick-attack"
+   ],
+   [
+    "fire-blast",
+    "rock-slide",
+    "shadow-claw",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.867,
+   1.856,
+   2.024,
+   2.17
+  ],
+  "mean_dmg_frac_broad": [
+   0.47,
+   0.484,
+   0.47,
+   0.482
+  ],
+  "spe": 65,
+  "hp": 120,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "combusken": {
+  "cost": 6,
+  "sets": [
+   [
+    "flare-blitz",
+    "focus-blast",
+    "shadow-claw",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "focus-blast",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "focus-blast",
+    "thunder-punch",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.037,
+   3.94,
+   4.241
+  ],
+  "mean_dmg_frac_broad": [
+   0.765,
+   0.783,
+   0.764
+  ],
+  "spe": 75,
+  "hp": 135,
+  "priority": [
+   "quick-attack",
+   "vacuum-wave"
+  ]
+ },
+ "blaziken": {
+  "cost": 10,
+  "sets": [
+   [
+    "flare-blitz",
+    "brave-bird",
+    "shadow-claw",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "focus-blast",
+    "earthquake",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "brave-bird",
+    "thunder-punch",
+    "vacuum-wave"
+   ],
+   [
+    "flare-blitz",
+    "focus-blast",
+    "earthquake",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.802,
+   4.637,
+   4.743,
+   4.637
+  ],
+  "mean_dmg_frac_broad": [
+   0.92,
+   1.029,
+   0.933,
+   1.0
+  ],
+  "spe": 100,
+  "hp": 155,
+  "priority": [
+   "quick-attack",
+   "vacuum-wave"
+  ]
+ },
+ "mudkip": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "aqua-tail",
+    "double-edge",
+    "earth-power"
+   ],
+   [
+    "aqua-tail",
+    "hydro-pump",
+    "double-edge",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.907,
+   1.848
+  ],
+  "mean_dmg_frac_broad": [
+   0.436,
+   0.442
+  ],
+  "spe": 60,
+  "hp": 125,
+  "priority": []
+ },
+ "marshtomp": {
+  "cost": 6,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "earth-power",
+    "ice-beam"
+   ],
+   [
+    "earthquake",
+    "surf",
+    "ice-beam",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.667,
+   4.667
+  ],
+  "mean_dmg_frac_broad": [
+   0.633,
+   0.661
+  ],
+  "spe": 70,
+  "hp": 145,
+  "priority": []
+ },
+ "swampert": {
+  "cost": 10,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "ice-punch",
+    "ice-beam"
+   ],
+   [
+    "earthquake",
+    "surf",
+    "stone-edge",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.607,
+   7.607
+  ],
+  "mean_dmg_frac_broad": [
+   0.788,
+   0.848
+  ],
+  "spe": 80,
+  "hp": 175,
+  "priority": []
+ },
+ "poochyena": {
+  "cost": 2,
+  "sets": [
+   [
+    "crunch",
+    "ice-fang",
+    "fire-fang",
+    "thunder-fang"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.0
+  ],
+  "mean_dmg_frac_broad": [
+   0.322
+  ],
+  "spe": 55,
+  "hp": 110,
+  "priority": []
+ },
+ "mightyena": {
+  "cost": 7,
+  "sets": [
+   [
+    "bite",
+    "dark-pulse",
+    "iron-tail",
+    "rock-smash"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.29
+  ],
+  "mean_dmg_frac_broad": [
+   0.361
+  ],
+  "spe": 90,
+  "hp": 145,
+  "priority": []
+ },
+ "zigzagoon": {
+  "cost": 2,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "seed-bomb",
+    "surf"
+   ],
+   [
+    "ice-beam",
+    "thunderbolt",
+    "surf",
+    "headbutt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.73,
+   0.422
+  ],
+  "mean_dmg_frac_broad": [
+   0.246,
+   0.264
+  ],
+  "spe": 80,
+  "hp": 113,
+  "priority": []
+ },
+ "linoone": {
+  "cost": 7,
+  "sets": [
+   [
+    "seed-bomb",
+    "ice-beam",
+    "strength",
+    "rock-smash"
+   ],
+   [
+    "strength",
+    "ice-beam",
+    "seed-bomb",
+    "surf"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.998,
+   4.973
+  ],
+  "mean_dmg_frac_broad": [
+   0.395,
+   0.41
+  ],
+  "spe": 120,
+  "hp": 153,
+  "priority": []
+ },
+ "beautifly": {
+  "cost": 6,
+  "sets": [
+   [
+    "bug-buzz",
+    "aerial-ace",
+    "energy-ball",
+    "shadow-ball"
+   ],
+   [
+    "bug-buzz",
+    "psychic",
+    "energy-ball",
+    "aerial-ace"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.089,
+   3.042
+  ],
+  "mean_dmg_frac_broad": [
+   0.561,
+   0.581
+  ],
+  "spe": 85,
+  "hp": 135,
+  "priority": []
+ },
+ "dustox": {
+  "cost": 6,
+  "sets": [
+   [
+    "bug-buzz",
+    "energy-ball",
+    "psychic",
+    "shadow-ball"
+   ],
+   [
+    "bug-buzz",
+    "sludge-bomb",
+    "psychic",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.324,
+   3.251
+  ],
+  "mean_dmg_frac_broad": [
+   0.367,
+   0.379
+  ],
+  "spe": 85,
+  "hp": 135,
+  "priority": []
+ },
+ "lotad": {
+  "cost": 2,
+  "sets": [
+   [
+    "seed-bomb",
+    "ice-beam",
+    "surf",
+    "zen-headbutt"
+   ],
+   [
+    "surf",
+    "energy-ball",
+    "ice-beam",
+    "seed-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.847,
+   0.847
+  ],
+  "mean_dmg_frac_broad": [
+   0.371,
+   0.393
+  ],
+  "spe": 50,
+  "hp": 115,
+  "priority": []
+ },
+ "lombre": {
+  "cost": 5,
+  "sets": [
+   [
+    "seed-bomb",
+    "ice-beam",
+    "surf",
+    "ice-punch"
+   ],
+   [
+    "hydro-pump",
+    "energy-ball",
+    "ice-beam",
+    "thunder-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.421,
+   4.247
+  ],
+  "mean_dmg_frac_broad": [
+   0.493,
+   0.523
+  ],
+  "spe": 70,
+  "hp": 135,
+  "priority": []
+ },
+ "ludicolo": {
+  "cost": 8,
+  "sets": [
+   [
+    "seed-bomb",
+    "ice-beam",
+    "surf",
+    "focus-blast"
+   ],
+   [
+    "surf",
+    "energy-ball",
+    "ice-beam",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.747,
+   7.477
+  ],
+  "mean_dmg_frac_broad": [
+   0.686,
+   0.721
+  ],
+  "spe": 90,
+  "hp": 155,
+  "priority": []
+ },
+ "seedot": {
+  "cost": 2,
+  "sets": [
+   [
+    "seed-bomb",
+    "shadow-ball",
+    "take-down",
+    "rock-smash"
+   ],
+   [
+    "seed-bomb",
+    "energy-ball",
+    "take-down",
+    "shadow-ball"
+   ],
+   [
+    "seed-bomb",
+    "shadow-ball",
+    "take-down",
+    "quick-attack"
+   ],
+   [
+    "seed-bomb",
+    "energy-ball",
+    "take-down",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.156,
+   0.156,
+   0.156,
+   0.156
+  ],
+  "mean_dmg_frac_broad": [
+   0.255,
+   0.266,
+   0.252,
+   0.261
+  ],
+  "spe": 50,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "nuzleaf": {
+  "cost": 5,
+  "sets": [
+   [
+    "seed-bomb",
+    "dark-pulse",
+    "feint-attack",
+    "brick-break"
+   ],
+   [
+    "seed-bomb",
+    "dark-pulse",
+    "rock-slide",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.299,
+   2.299
+  ],
+  "mean_dmg_frac_broad": [
+   0.444,
+   0.468
+  ],
+  "spe": 80,
+  "hp": 145,
+  "priority": []
+ },
+ "shiftry": {
+  "cost": 8,
+  "sets": [
+   [
+    "seed-bomb",
+    "dark-pulse",
+    "aerial-ace",
+    "focus-blast"
+   ],
+   [
+    "seed-bomb",
+    "dark-pulse",
+    "focus-blast",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.234,
+   4.234
+  ],
+  "mean_dmg_frac_broad": [
+   0.614,
+   0.633
+  ],
+  "spe": 100,
+  "hp": 165,
+  "priority": []
+ },
+ "taillow": {
+  "cost": 3,
+  "sets": [
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "wing-attack"
+   ],
+   [
+    "brave-bird",
+    "secret-power",
+    "heat-wave",
+    "steel-wing"
+   ],
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "quick-attack"
+   ],
+   [
+    "brave-bird",
+    "heat-wave",
+    "steel-wing",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.096,
+   1.096,
+   1.096,
+   1.096
+  ],
+  "mean_dmg_frac_broad": [
+   0.477,
+   0.49,
+   0.477,
+   0.488
+  ],
+  "spe": 105,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "swellow": {
+  "cost": 7,
+  "sets": [
+   [
+    "aerial-ace",
+    "pluck",
+    "secret-power",
+    "heat-wave"
+   ],
+   [
+    "aerial-ace",
+    "secret-power",
+    "u-turn",
+    "heat-wave"
+   ],
+   [
+    "aerial-ace",
+    "secret-power",
+    "heat-wave",
+    "quick-attack"
+   ],
+   [
+    "aerial-ace",
+    "secret-power",
+    "u-turn",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.868,
+   3.868,
+   3.868,
+   3.64
+  ],
+  "mean_dmg_frac_broad": [
+   0.395,
+   0.418,
+   0.395,
+   0.398
+  ],
+  "spe": 145,
+  "hp": 135,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "wingull": {
+  "cost": 3,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "air-slash",
+    "shock-wave"
+   ],
+   [
+    "air-slash",
+    "ice-beam",
+    "water-pulse",
+    "shock-wave"
+   ],
+   [
+    "ice-beam",
+    "air-slash",
+    "shock-wave",
+    "quick-attack"
+   ],
+   [
+    "air-slash",
+    "ice-beam",
+    "water-pulse",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.219,
+   1.219,
+   1.219,
+   1.187
+  ],
+  "mean_dmg_frac_broad": [
+   0.35,
+   0.378,
+   0.35,
+   0.367
+  ],
+  "spe": 105,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "pelipper": {
+  "cost": 7,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "aerial-ace",
+    "seed-bomb"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "air-cutter",
+    "shock-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.101,
+   5.574
+  ],
+  "mean_dmg_frac_broad": [
+   0.587,
+   0.603
+  ],
+  "spe": 85,
+  "hp": 135,
+  "priority": []
+ },
+ "ralts": {
+  "cost": 1,
+  "sets": [
+   [
+    "psychic",
+    "ice-punch",
+    "magical-leaf",
+    "thunderbolt"
+   ],
+   [
+    "psychic",
+    "thunderbolt",
+    "signal-beam",
+    "magical-leaf"
+   ],
+   [
+    "psychic",
+    "magical-leaf",
+    "thunderbolt",
+    "shadow-sneak"
+   ],
+   [
+    "psychic",
+    "thunderbolt",
+    "signal-beam",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.548,
+   0.548,
+   1.014,
+   0.852
+  ],
+  "mean_dmg_frac_broad": [
+   0.339,
+   0.349,
+   0.331,
+   0.341
+  ],
+  "spe": 60,
+  "hp": 103,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "kirlia": {
+  "cost": 3,
+  "sets": [
+   [
+    "psychic",
+    "ice-punch",
+    "magical-leaf",
+    "thunderbolt"
+   ],
+   [
+    "psychic",
+    "thunderbolt",
+    "signal-beam",
+    "magical-leaf"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.406,
+   1.406
+  ],
+  "mean_dmg_frac_broad": [
+   0.438,
+   0.453
+  ],
+  "spe": 70,
+  "hp": 113,
+  "priority": []
+ },
+ "gardevoir": {
+  "cost": 9,
+  "sets": [
+   [
+    "psychic",
+    "energy-ball",
+    "focus-blast",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.914
+  ],
+  "mean_dmg_frac_broad": [
+   0.807
+  ],
+  "spe": 100,
+  "hp": 143,
+  "priority": []
+ },
+ "gallade": {
+  "cost": 9,
+  "sets": [
+   [
+    "leaf-blade",
+    "psycho-cut",
+    "ice-punch",
+    "brick-break"
+   ],
+   [
+    "brick-break",
+    "earthquake",
+    "leaf-blade",
+    "ice-punch"
+   ],
+   [
+    "leaf-blade",
+    "ice-punch",
+    "brick-break",
+    "vacuum-wave"
+   ],
+   [
+    "brick-break",
+    "earthquake",
+    "ice-punch",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.977,
+   7.479,
+   8.257,
+   6.818
+  ],
+  "mean_dmg_frac_broad": [
+   0.831,
+   0.829,
+   0.751,
+   0.761
+  ],
+  "spe": 100,
+  "hp": 143,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "surskit": {
+  "cost": 3,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "hydro-pump",
+    "giga-drain"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "signal-beam",
+    "giga-drain"
+   ],
+   [
+    "ice-beam",
+    "hydro-pump",
+    "giga-drain",
+    "quick-attack"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "signal-beam",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.884,
+   1.884,
+   1.884,
+   1.655
+  ],
+  "mean_dmg_frac_broad": [
+   0.399,
+   0.432,
+   0.399,
+   0.422
+  ],
+  "spe": 85,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "masquerain": {
+  "cost": 7,
+  "sets": [
+   [
+    "ice-beam",
+    "air-slash",
+    "bug-buzz",
+    "energy-ball"
+   ],
+   [
+    "ice-beam",
+    "air-slash",
+    "energy-ball",
+    "quick-attack"
+   ],
+   [
+    "bug-buzz",
+    "air-slash",
+    "ice-beam",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.418,
+   4.106,
+   3.871
+  ],
+  "mean_dmg_frac_broad": [
+   0.593,
+   0.505,
+   0.559
+  ],
+  "spe": 80,
+  "hp": 145,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "shroomish": {
+  "cost": 4,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "giga-drain",
+    "headbutt"
+   ],
+   [
+    "energy-ball",
+    "seed-bomb",
+    "sludge-bomb",
+    "headbutt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.744,
+   1.744
+  ],
+  "mean_dmg_frac_broad": [
+   0.273,
+   0.296
+  ],
+  "spe": 55,
+  "hp": 135,
+  "priority": []
+ },
+ "breloom": {
+  "cost": 8,
+  "sets": [
+   [
+    "seed-bomb",
+    "sky-uppercut",
+    "brick-break",
+    "stone-edge"
+   ],
+   [
+    "sky-uppercut",
+    "seed-bomb",
+    "stone-edge",
+    "thunder-punch"
+   ],
+   [
+    "seed-bomb",
+    "sky-uppercut",
+    "stone-edge",
+    "mach-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.759,
+   5.759,
+   5.892
+  ],
+  "mean_dmg_frac_broad": [
+   0.864,
+   0.875,
+   0.864
+  ],
+  "spe": 90,
+  "hp": 135,
+  "priority": [
+   "mach-punch",
+   "vacuum-wave"
+  ]
+ },
+ "slakoth": {
+  "cost": 3,
+  "sets": [
+   [
+    "ice-punch",
+    "body-slam",
+    "fire-punch",
+    "thunder-punch"
+   ],
+   [
+    "body-slam",
+    "ice-punch",
+    "brick-break",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.955,
+   0.955
+  ],
+  "mean_dmg_frac_broad": [
+   0.355,
+   0.367
+  ],
+  "spe": 50,
+  "hp": 135,
+  "priority": []
+ },
+ "vigoroth": {
+  "cost": 7,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "strength",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "brick-break",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.825,
+   3.443
+  ],
+  "mean_dmg_frac_broad": [
+   0.488,
+   0.501
+  ],
+  "spe": 110,
+  "hp": 155,
+  "priority": []
+ },
+ "slaking": {
+  "cost": 13,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "strength",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "thunder-punch",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   11.254,
+   10.885
+  ],
+  "mean_dmg_frac_broad": [
+   0.866,
+   0.883
+  ],
+  "spe": 120,
+  "hp": 225,
+  "priority": []
+ },
+ "nincada": {
+  "cost": 3,
+  "sets": [
+   [
+    "x-scissor",
+    "aerial-ace",
+    "night-slash",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.811
+  ],
+  "mean_dmg_frac_broad": [
+   0.289
+  ],
+  "spe": 60,
+  "hp": 106,
+  "priority": []
+ },
+ "ninjask": {
+  "cost": 8,
+  "sets": [
+   [
+    "aerial-ace",
+    "x-scissor",
+    "shadow-ball",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.13
+  ],
+  "mean_dmg_frac_broad": [
+   0.51
+  ],
+  "spe": 180,
+  "hp": 136,
+  "priority": []
+ },
+ "shedinja": {
+  "cost": 2,
+  "sets": [
+   [
+    "shadow-claw",
+    "x-scissor",
+    "bug-bite",
+    "aerial-ace"
+   ],
+   [
+    "x-scissor",
+    "shadow-claw",
+    "aerial-ace",
+    "giga-drain"
+   ],
+   [
+    "shadow-claw",
+    "x-scissor",
+    "aerial-ace",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.73,
+   0.73,
+   0.73
+  ],
+  "mean_dmg_frac_broad": [
+   0.489,
+   0.494,
+   0.489
+  ],
+  "spe": 60,
+  "hp": 1,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "whismur": {
+  "cost": 2,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "fire-blast",
+    "thunder-punch"
+   ],
+   [
+    "hyper-voice",
+    "ice-beam",
+    "fire-blast",
+    "thunder-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.204,
+   0.204
+  ],
+  "mean_dmg_frac_broad": [
+   0.344,
+   0.372
+  ],
+  "spe": 48,
+  "hp": 139,
+  "priority": []
+ },
+ "loudred": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "earthquake",
+    "ice-punch",
+    "thunder-punch"
+   ],
+   [
+    "hyper-voice",
+    "ice-beam",
+    "fire-blast",
+    "earthquake"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.03,
+   2.877
+  ],
+  "mean_dmg_frac_broad": [
+   0.473,
+   0.515
+  ],
+  "spe": 68,
+  "hp": 159,
+  "priority": []
+ },
+ "exploud": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "earthquake",
+    "ice-punch",
+    "thunder-punch"
+   ],
+   [
+    "ice-beam",
+    "fire-blast",
+    "earthquake",
+    "focus-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.282,
+   3.992
+  ],
+  "mean_dmg_frac_broad": [
+   0.573,
+   0.633
+  ],
+  "spe": 88,
+  "hp": 179,
+  "priority": []
+ },
+ "makuhita": {
+  "cost": 2,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "thunder-punch"
+   ],
+   [
+    "cross-chop",
+    "seismic-toss",
+    "earthquake",
+    "ice-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.278,
+   0.278,
+   0.278
+  ],
+  "mean_dmg_frac_broad": [
+   0.468,
+   0.473,
+   0.452
+  ],
+  "spe": 45,
+  "hp": 147,
+  "priority": [
+   "bullet-punch",
+   "vacuum-wave"
+  ]
+ },
+ "hariyama": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "brick-break",
+    "thunder-punch"
+   ],
+   [
+    "brick-break",
+    "stone-edge",
+    "earthquake",
+    "ice-punch"
+   ],
+   [
+    "ice-punch",
+    "brick-break",
+    "thunder-punch",
+    "vacuum-wave"
+   ],
+   [
+    "brick-break",
+    "earthquake",
+    "ice-punch",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.768,
+   6.456,
+   6.575,
+   6.456
+  ],
+  "mean_dmg_frac_broad": [
+   0.769,
+   0.79,
+   0.682,
+   0.737
+  ],
+  "spe": 70,
+  "hp": 219,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "nosepass": {
+  "cost": 6,
+  "sets": [
+   [
+    "head-smash",
+    "earthquake",
+    "ice-punch",
+    "double-edge"
+   ],
+   [
+    "head-smash",
+    "thunderbolt",
+    "earth-power",
+    "ice-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.488,
+   0.488
+  ],
+  "mean_dmg_frac_broad": [
+   0.481,
+   0.492
+  ],
+  "spe": 50,
+  "hp": 105,
+  "priority": []
+ },
+ "probopass": {
+  "cost": 9,
+  "sets": [
+   [
+    "earth-power",
+    "ice-punch",
+    "flash-cannon",
+    "thunderbolt"
+   ],
+   [
+    "stone-edge",
+    "flash-cannon",
+    "thunderbolt",
+    "earth-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.609,
+   3.133
+  ],
+  "mean_dmg_frac_broad": [
+   0.491,
+   0.526
+  ],
+  "spe": 60,
+  "hp": 135,
+  "priority": []
+ },
+ "skitty": {
+  "cost": 3,
+  "sets": [
+   [
+    "double-edge",
+    "ice-beam",
+    "blizzard",
+    "mud-bomb"
+   ],
+   [
+    "double-edge",
+    "ice-beam",
+    "thunderbolt",
+    "mud-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.611,
+   0.611
+  ],
+  "mean_dmg_frac_broad": [
+   0.351,
+   0.363
+  ],
+  "spe": 70,
+  "hp": 125,
+  "priority": []
+ },
+ "delcatty": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-beam",
+    "strength",
+    "zen-headbutt",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.625
+  ],
+  "mean_dmg_frac_broad": [
+   0.4
+  ],
+  "spe": 90,
+  "hp": 145,
+  "priority": []
+ },
+ "sableye": {
+  "cost": 6,
+  "sets": [
+   [
+    "night-shade",
+    "ice-punch",
+    "shadow-claw",
+    "fire-punch"
+   ],
+   [
+    "shadow-claw",
+    "ice-punch",
+    "thunder-punch",
+    "brick-break"
+   ],
+   [
+    "night-shade",
+    "ice-punch",
+    "fire-punch",
+    "shadow-sneak"
+   ],
+   [
+    "shadow-claw",
+    "ice-punch",
+    "brick-break",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.679,
+   3.547,
+   4.082,
+   3.746
+  ],
+  "mean_dmg_frac_broad": [
+   0.429,
+   0.459,
+   0.387,
+   0.44
+  ],
+  "spe": 70,
+  "hp": 125,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "mawile": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-punch",
+    "iron-head",
+    "brick-break",
+    "thunder-punch"
+   ],
+   [
+    "iron-head",
+    "ice-punch",
+    "thunder-punch",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.197,
+   3.197
+  ],
+  "mean_dmg_frac_broad": [
+   0.476,
+   0.477
+  ],
+  "spe": 70,
+  "hp": 125,
+  "priority": []
+ },
+ "aron": {
+  "cost": 4,
+  "sets": [
+   [
+    "head-smash",
+    "earthquake",
+    "double-edge",
+    "dragon-rush"
+   ],
+   [
+    "head-smash",
+    "iron-head",
+    "earthquake",
+    "aerial-ace"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.895,
+   0.895
+  ],
+  "mean_dmg_frac_broad": [
+   0.653,
+   0.659
+  ],
+  "spe": 50,
+  "hp": 125,
+  "priority": []
+ },
+ "lairon": {
+  "cost": 7,
+  "sets": [
+   [
+    "earthquake",
+    "stone-edge",
+    "double-edge",
+    "shadow-claw"
+   ],
+   [
+    "stone-edge",
+    "iron-head",
+    "earthquake",
+    "shadow-claw"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.34,
+   2.283
+  ],
+  "mean_dmg_frac_broad": [
+   0.624,
+   0.629
+  ],
+  "spe": 60,
+  "hp": 135,
+  "priority": []
+ },
+ "aggron": {
+  "cost": 10,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "stone-edge",
+    "thunder-punch"
+   ],
+   [
+    "stone-edge",
+    "earthquake",
+    "ice-punch",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.696,
+   2.696
+  ],
+  "mean_dmg_frac_broad": [
+   0.763,
+   0.766
+  ],
+  "spe": 70,
+  "hp": 145,
+  "priority": []
+ },
+ "meditite": {
+  "cost": 3,
+  "sets": [
+   [
+    "psycho-cut",
+    "ice-punch",
+    "focus-blast",
+    "thunder-punch"
+   ],
+   [
+    "focus-blast",
+    "psychic",
+    "ice-punch",
+    "rock-slide"
+   ],
+   [
+    "psycho-cut",
+    "ice-punch",
+    "focus-blast",
+    "vacuum-wave"
+   ],
+   [
+    "focus-blast",
+    "psychic",
+    "ice-punch",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.272,
+   1.185,
+   1.202,
+   1.185
+  ],
+  "mean_dmg_frac_broad": [
+   0.365,
+   0.375,
+   0.353,
+   0.362
+  ],
+  "spe": 80,
+  "hp": 105,
+  "priority": [
+   "bullet-punch",
+   "vacuum-wave"
+  ]
+ },
+ "medicham": {
+  "cost": 6,
+  "sets": [
+   [
+    "zen-headbutt",
+    "ice-punch",
+    "focus-blast",
+    "energy-ball"
+   ],
+   [
+    "focus-blast",
+    "psychic",
+    "ice-punch",
+    "energy-ball"
+   ],
+   [
+    "ice-punch",
+    "focus-blast",
+    "energy-ball",
+    "vacuum-wave"
+   ],
+   [
+    "focus-blast",
+    "psychic",
+    "ice-punch",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.994,
+   3.816,
+   4.009,
+   2.998
+  ],
+  "mean_dmg_frac_broad": [
+   0.488,
+   0.503,
+   0.441,
+   0.479
+  ],
+  "spe": 100,
+  "hp": 135,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "electrike": {
+  "cost": 4,
+  "sets": [
+   [
+    "flamethrower",
+    "thunderbolt",
+    "ice-fang",
+    "crunch"
+   ],
+   [
+    "thunderbolt",
+    "flamethrower",
+    "signal-beam",
+    "ice-fang"
+   ],
+   [
+    "flamethrower",
+    "thunderbolt",
+    "ice-fang",
+    "quick-attack"
+   ],
+   [
+    "thunderbolt",
+    "flamethrower",
+    "signal-beam",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.814,
+   0.819,
+   0.781,
+   0.819
+  ],
+  "mean_dmg_frac_broad": [
+   0.499,
+   0.503,
+   0.493,
+   0.497
+  ],
+  "spe": 85,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "manectric": {
+  "cost": 8,
+  "sets": [
+   [
+    "flamethrower",
+    "thunderbolt",
+    "signal-beam",
+    "bite"
+   ],
+   [
+    "thunderbolt",
+    "flamethrower",
+    "signal-beam",
+    "iron-tail"
+   ],
+   [
+    "flamethrower",
+    "thunderbolt",
+    "signal-beam",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.663,
+   5.587,
+   5.587
+  ],
+  "mean_dmg_frac_broad": [
+   0.726,
+   0.727,
+   0.726
+  ],
+  "spe": 125,
+  "hp": 145,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "plusle": {
+  "cost": 6,
+  "sets": [
+   [
+    "thunderbolt",
+    "thunder",
+    "signal-beam",
+    "iron-tail"
+   ],
+   [
+    "thunderbolt",
+    "signal-beam",
+    "swift",
+    "iron-tail"
+   ],
+   [
+    "thunderbolt",
+    "signal-beam",
+    "iron-tail",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.614,
+   4.614,
+   4.614
+  ],
+  "mean_dmg_frac_broad": [
+   0.558,
+   0.559,
+   0.558
+  ],
+  "spe": 115,
+  "hp": 135,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "minun": {
+  "cost": 6,
+  "sets": [
+   [
+    "thunderbolt",
+    "thunder",
+    "signal-beam",
+    "iron-tail"
+   ],
+   [
+    "thunderbolt",
+    "signal-beam",
+    "swift",
+    "iron-tail"
+   ],
+   [
+    "thunderbolt",
+    "signal-beam",
+    "iron-tail",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.824,
+   3.824,
+   3.988
+  ],
+  "mean_dmg_frac_broad": [
+   0.506,
+   0.507,
+   0.506
+  ],
+  "spe": 115,
+  "hp": 135,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "volbeat": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-punch",
+    "brick-break",
+    "thunder-punch",
+    "giga-drain"
+   ],
+   [
+    "u-turn",
+    "ice-punch",
+    "brick-break",
+    "thunderbolt"
+   ],
+   [
+    "ice-punch",
+    "u-turn",
+    "brick-break",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.402,
+   3.146,
+   3.146
+  ],
+  "mean_dmg_frac_broad": [
+   0.391,
+   0.444,
+   0.418
+  ],
+  "spe": 105,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "illumise": {
+  "cost": 6,
+  "sets": [
+   [
+    "bug-buzz",
+    "ice-punch",
+    "giga-drain",
+    "thunderbolt"
+   ],
+   [
+    "bug-buzz",
+    "thunderbolt",
+    "ice-punch",
+    "water-pulse"
+   ],
+   [
+    "ice-punch",
+    "giga-drain",
+    "thunderbolt",
+    "quick-attack"
+   ],
+   [
+    "bug-buzz",
+    "thunderbolt",
+    "water-pulse",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.107,
+   3.228,
+   4.187,
+   3.392
+  ],
+  "mean_dmg_frac_broad": [
+   0.501,
+   0.501,
+   0.378,
+   0.49
+  ],
+  "spe": 105,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "budew": {
+  "cost": 3,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "extrasensory",
+    "shadow-ball"
+   ],
+   [
+    "energy-ball",
+    "sludge-bomb",
+    "extrasensory",
+    "shadow-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.095,
+   2.076
+  ],
+  "mean_dmg_frac_broad": [
+   0.329,
+   0.386
+  ],
+  "spe": 75,
+  "hp": 115,
+  "priority": []
+ },
+ "roselia": {
+  "cost": 6,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "shadow-ball",
+    "sludge-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.007
+  ],
+  "mean_dmg_frac_broad": [
+   0.634
+  ],
+  "spe": 85,
+  "hp": 125,
+  "priority": []
+ },
+ "roserade": {
+  "cost": 9,
+  "sets": [
+   [
+    "energy-ball",
+    "giga-drain",
+    "shadow-ball",
+    "sludge-bomb"
+   ],
+   [
+    "energy-ball",
+    "sludge-bomb",
+    "seed-bomb",
+    "shadow-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.605,
+   6.605
+  ],
+  "mean_dmg_frac_broad": [
+   0.761,
+   0.762
+  ],
+  "spe": 110,
+  "hp": 135,
+  "priority": []
+ },
+ "gulpin": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "seed-bomb",
+    "fire-punch"
+   ],
+   [
+    "sludge-bomb",
+    "ice-beam",
+    "seed-bomb",
+    "fire-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.091,
+   2.091
+  ],
+  "mean_dmg_frac_broad": [
+   0.29,
+   0.328
+  ],
+  "spe": 60,
+  "hp": 145,
+  "priority": []
+ },
+ "swalot": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "earthquake",
+    "ice-punch",
+    "seed-bomb"
+   ],
+   [
+    "sludge-bomb",
+    "ice-beam",
+    "earthquake",
+    "seed-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.601,
+   4.471
+  ],
+  "mean_dmg_frac_broad": [
+   0.491,
+   0.531
+  ],
+  "spe": 75,
+  "hp": 175,
+  "priority": []
+ },
+ "carvanha": {
+  "cost": 4,
+  "sets": [
+   [
+    "crunch",
+    "ice-beam",
+    "waterfall",
+    "zen-headbutt"
+   ],
+   [
+    "crunch",
+    "waterfall",
+    "hydro-pump",
+    "ice-beam"
+   ],
+   [
+    "crunch",
+    "ice-beam",
+    "waterfall",
+    "aqua-jet"
+   ],
+   [
+    "crunch",
+    "hydro-pump",
+    "ice-beam",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.08,
+   1.08,
+   1.08,
+   1.08
+  ],
+  "mean_dmg_frac_broad": [
+   0.559,
+   0.576,
+   0.547,
+   0.558
+  ],
+  "spe": 85,
+  "hp": 120,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "sharpedo": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "crunch",
+    "ice-beam",
+    "zen-headbutt"
+   ],
+   [
+    "crunch",
+    "surf",
+    "earthquake",
+    "ice-beam"
+   ],
+   [
+    "earthquake",
+    "crunch",
+    "ice-beam",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.0,
+   4.854,
+   5.853
+  ],
+  "mean_dmg_frac_broad": [
+   0.728,
+   0.785,
+   0.718
+  ],
+  "spe": 115,
+  "hp": 145,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "wailmer": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-beam",
+    "earthquake",
+    "hydro-pump",
+    "double-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.543
+  ],
+  "mean_dmg_frac_broad": [
+   0.538
+  ],
+  "spe": 80,
+  "hp": 205,
+  "priority": []
+ },
+ "wailord": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-beam",
+    "earthquake",
+    "hydro-pump",
+    "surf"
+   ],
+   [
+    "hydro-pump",
+    "waterfall",
+    "ice-beam",
+    "earthquake"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.812,
+   5.812
+  ],
+  "mean_dmg_frac_broad": [
+   0.638,
+   0.647
+  ],
+  "spe": 80,
+  "hp": 245,
+  "priority": []
+ },
+ "numel": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "fire-blast",
+    "earth-power",
+    "flamethrower"
+   ],
+   [
+    "fire-blast",
+    "earthquake",
+    "earth-power",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.906,
+   1.906
+  ],
+  "mean_dmg_frac_broad": [
+   0.597,
+   0.606
+  ],
+  "spe": 55,
+  "hp": 135,
+  "priority": []
+ },
+ "camerupt": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "fire-blast",
+    "earth-power",
+    "flamethrower"
+   ],
+   [
+    "fire-blast",
+    "earthquake",
+    "earth-power",
+    "stone-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.714,
+   4.714
+  ],
+  "mean_dmg_frac_broad": [
+   0.879,
+   0.906
+  ],
+  "spe": 60,
+  "hp": 145,
+  "priority": []
+ },
+ "torkoal": {
+  "cost": 8,
+  "sets": [
+   [
+    "fire-blast",
+    "flamethrower",
+    "heat-wave",
+    "earthquake"
+   ],
+   [
+    "fire-blast",
+    "stone-edge",
+    "earthquake",
+    "earth-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.494,
+   3.494
+  ],
+  "mean_dmg_frac_broad": [
+   0.615,
+   0.657
+  ],
+  "spe": 40,
+  "hp": 145,
+  "priority": []
+ },
+ "spoink": {
+  "cost": 4,
+  "sets": [
+   [
+    "psychic",
+    "extrasensory",
+    "psybeam",
+    "shadow-ball"
+   ],
+   [
+    "psychic",
+    "power-gem",
+    "signal-beam",
+    "shock-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.233,
+   2.219
+  ],
+  "mean_dmg_frac_broad": [
+   0.389,
+   0.439
+  ],
+  "spe": 80,
+  "hp": 135,
+  "priority": []
+ },
+ "grumpig": {
+  "cost": 8,
+  "sets": [
+   [
+    "psychic",
+    "energy-ball",
+    "ice-punch",
+    "focus-blast"
+   ],
+   [
+    "psychic",
+    "focus-blast",
+    "energy-ball",
+    "power-gem"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.099,
+   5.018
+  ],
+  "mean_dmg_frac_broad": [
+   0.572,
+   0.59
+  ],
+  "spe": 100,
+  "hp": 155,
+  "priority": []
+ },
+ "spinda": {
+  "cost": 5,
+  "sets": [
+   [
+    "double-edge",
+    "ice-punch",
+    "fire-punch",
+    "shadow-ball"
+   ],
+   [
+    "double-edge",
+    "ice-punch",
+    "fire-punch",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.852,
+   2.804
+  ],
+  "mean_dmg_frac_broad": [
+   0.43,
+   0.433
+  ],
+  "spe": 80,
+  "hp": 135,
+  "priority": []
+ },
+ "trapinch": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "crunch",
+    "bite"
+   ],
+   [
+    "earthquake",
+    "rock-slide",
+    "crunch",
+    "bug-bite"
+   ],
+   [
+    "earthquake",
+    "earth-power",
+    "crunch",
+    "quick-attack"
+   ],
+   [
+    "earthquake",
+    "rock-slide",
+    "bug-bite",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.499,
+   0.499,
+   1.456,
+   1.456
+  ],
+  "mean_dmg_frac_broad": [
+   0.629,
+   0.693,
+   0.629,
+   0.689
+  ],
+  "spe": 30,
+  "hp": 120,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "vibrava": {
+  "cost": 5,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "dragon-pulse",
+    "giga-drain"
+   ],
+   [
+    "earthquake",
+    "rock-slide",
+    "heat-wave",
+    "u-turn"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.737,
+   1.69
+  ],
+  "mean_dmg_frac_broad": [
+   0.504,
+   0.541
+  ],
+  "spe": 90,
+  "hp": 125,
+  "priority": []
+ },
+ "flygon": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "dragon-claw",
+    "dragon-pulse",
+    "giga-drain"
+   ],
+   [
+    "earthquake",
+    "earth-power",
+    "stone-edge",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.589,
+   6.194
+  ],
+  "mean_dmg_frac_broad": [
+   0.684,
+   0.768
+  ],
+  "spe": 120,
+  "hp": 155,
+  "priority": []
+ },
+ "cacnea": {
+  "cost": 5,
+  "sets": [
+   [
+    "seed-bomb",
+    "dark-pulse",
+    "brick-break",
+    "poison-jab"
+   ],
+   [
+    "energy-ball",
+    "thunder-punch",
+    "brick-break",
+    "poison-jab"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.346,
+   0.346
+  ],
+  "mean_dmg_frac_broad": [
+   0.491,
+   0.539
+  ],
+  "spe": 55,
+  "hp": 125,
+  "priority": []
+ },
+ "cacturne": {
+  "cost": 8,
+  "sets": [
+   [
+    "seed-bomb",
+    "dark-pulse",
+    "feint-attack",
+    "focus-blast"
+   ],
+   [
+    "seed-bomb",
+    "dark-pulse",
+    "focus-blast",
+    "thunder-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.135,
+   4.135
+  ],
+  "mean_dmg_frac_broad": [
+   0.705,
+   0.724
+  ],
+  "spe": 75,
+  "hp": 145,
+  "priority": []
+ },
+ "swablu": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "aerial-ace",
+    "heat-wave",
+    "take-down"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.914
+  ],
+  "mean_dmg_frac_broad": [
+   0.299
+  ],
+  "spe": 70,
+  "hp": 120,
+  "priority": []
+ },
+ "altaria": {
+  "cost": 8,
+  "sets": [
+   [
+    "dragon-pulse",
+    "ice-beam",
+    "earthquake",
+    "aerial-ace"
+   ],
+   [
+    "dragon-pulse",
+    "ice-beam",
+    "fire-blast",
+    "earthquake"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.478,
+   4.369
+  ],
+  "mean_dmg_frac_broad": [
+   0.501,
+   0.511
+  ],
+  "spe": 100,
+  "hp": 150,
+  "priority": []
+ },
+ "zangoose": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-punch",
+    "fire-punch",
+    "thunder-punch",
+    "giga-drain"
+   ],
+   [
+    "strength",
+    "ice-punch",
+    "brick-break",
+    "x-scissor"
+   ],
+   [
+    "ice-punch",
+    "fire-punch",
+    "strength",
+    "quick-attack"
+   ],
+   [
+    "strength",
+    "ice-punch",
+    "brick-break",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.323,
+   4.863,
+   5.309,
+   5.309
+  ],
+  "mean_dmg_frac_broad": [
+   0.52,
+   0.595,
+   0.544,
+   0.564
+  ],
+  "spe": 110,
+  "hp": 148,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "seviper": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "crunch",
+    "poison-jab",
+    "giga-drain"
+   ],
+   [
+    "sludge-bomb",
+    "earthquake",
+    "flamethrower",
+    "giga-drain"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.444,
+   3.254
+  ],
+  "mean_dmg_frac_broad": [
+   0.59,
+   0.642
+  ],
+  "spe": 85,
+  "hp": 148,
+  "priority": []
+ },
+ "lunatone": {
+  "cost": 7,
+  "sets": [
+   [
+    "ice-beam",
+    "psychic",
+    "blizzard",
+    "earth-power"
+   ],
+   [
+    "psychic",
+    "ice-beam",
+    "stone-edge",
+    "earth-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.945,
+   1.945
+  ],
+  "mean_dmg_frac_broad": [
+   0.625,
+   0.667
+  ],
+  "spe": 90,
+  "hp": 145,
+  "priority": []
+ },
+ "solrock": {
+  "cost": 7,
+  "sets": [
+   [
+    "earthquake",
+    "zen-headbutt",
+    "stone-edge",
+    "psychic"
+   ],
+   [
+    "stone-edge",
+    "zen-headbutt",
+    "earthquake",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.145,
+   1.145
+  ],
+  "mean_dmg_frac_broad": [
+   0.677,
+   0.688
+  ],
+  "spe": 90,
+  "hp": 145,
+  "priority": []
+ },
+ "barboach": {
+  "cost": 3,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "ice-beam",
+    "blizzard"
+   ],
+   [
+    "earthquake",
+    "hydro-pump",
+    "earth-power",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.41,
+   1.41
+  ],
+  "mean_dmg_frac_broad": [
+   0.444,
+   0.469
+  ],
+  "spe": 80,
+  "hp": 125,
+  "priority": []
+ },
+ "whiscash": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "ice-beam",
+    "blizzard"
+   ],
+   [
+    "earthquake",
+    "surf",
+    "ice-beam",
+    "stone-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.39,
+   5.39
+  ],
+  "mean_dmg_frac_broad": [
+   0.637,
+   0.681
+  ],
+  "spe": 80,
+  "hp": 185,
+  "priority": []
+ },
+ "corphish": {
+  "cost": 4,
+  "sets": [
+   [
+    "crabhammer",
+    "ice-beam",
+    "aerial-ace",
+    "brick-break"
+   ],
+   [
+    "crabhammer",
+    "brick-break",
+    "x-scissor",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.664,
+   1.675
+  ],
+  "mean_dmg_frac_broad": [
+   0.469,
+   0.488
+  ],
+  "spe": 55,
+  "hp": 118,
+  "priority": []
+ },
+ "crawdaunt": {
+  "cost": 8,
+  "sets": [
+   [
+    "crunch",
+    "ice-beam",
+    "crabhammer",
+    "brick-break"
+   ],
+   [
+    "crunch",
+    "surf",
+    "ice-beam",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.298,
+   4.286
+  ],
+  "mean_dmg_frac_broad": [
+   0.737,
+   0.748
+  ],
+  "spe": 75,
+  "hp": 138,
+  "priority": []
+ },
+ "baltoy": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "ice-beam",
+    "zen-headbutt"
+   ],
+   [
+    "earthquake",
+    "earth-power",
+    "psychic",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.118,
+   1.118
+  ],
+  "mean_dmg_frac_broad": [
+   0.411,
+   0.415
+  ],
+  "spe": 75,
+  "hp": 115,
+  "priority": []
+ },
+ "claydol": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "ice-beam",
+    "zen-headbutt"
+   ],
+   [
+    "earthquake",
+    "psychic",
+    "ice-beam",
+    "stone-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.721,
+   4.51
+  ],
+  "mean_dmg_frac_broad": [
+   0.608,
+   0.617
+  ],
+  "spe": 95,
+  "hp": 135,
+  "priority": []
+ },
+ "lileep": {
+  "cost": 5,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "earth-power",
+    "rock-slide"
+   ],
+   [
+    "energy-ball",
+    "ancient-power",
+    "earth-power",
+    "sludge-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.438,
+   2.339
+  ],
+  "mean_dmg_frac_broad": [
+   0.454,
+   0.479
+  ],
+  "spe": 43,
+  "hp": 141,
+  "priority": []
+ },
+ "cradily": {
+  "cost": 9,
+  "sets": [
+   [
+    "seed-bomb",
+    "energy-ball",
+    "earthquake",
+    "stone-edge"
+   ],
+   [
+    "stone-edge",
+    "energy-ball",
+    "earthquake",
+    "sludge-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.701,
+   6.569
+  ],
+  "mean_dmg_frac_broad": [
+   0.69,
+   0.695
+  ],
+  "spe": 63,
+  "hp": 161,
+  "priority": []
+ },
+ "anorith": {
+  "cost": 5,
+  "sets": [
+   [
+    "x-scissor",
+    "rock-slide",
+    "aerial-ace",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.747
+  ],
+  "mean_dmg_frac_broad": [
+   0.627
+  ],
+  "spe": 95,
+  "hp": 120,
+  "priority": []
+ },
+ "armaldo": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "x-scissor",
+    "stone-edge",
+    "rock-slide"
+   ],
+   [
+    "stone-edge",
+    "x-scissor",
+    "earthquake",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.938,
+   4.938
+  ],
+  "mean_dmg_frac_broad": [
+   0.906,
+   0.921
+  ],
+  "spe": 65,
+  "hp": 150,
+  "priority": []
+ },
+ "feebas": {
+  "cost": 1,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "waterfall",
+    "secret-power"
+   ],
+   [
+    "surf",
+    "waterfall",
+    "ice-beam",
+    "secret-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.432,
+   0.432
+  ],
+  "mean_dmg_frac_broad": [
+   0.164,
+   0.177
+  ],
+  "spe": 100,
+  "hp": 95,
+  "priority": []
+ },
+ "milotic": {
+  "cost": 10,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "surf",
+    "dragon-pulse"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "dragon-pulse",
+    "iron-head"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.397,
+   7.397
+  ],
+  "mean_dmg_frac_broad": [
+   0.651,
+   0.653
+  ],
+  "spe": 101,
+  "hp": 170,
+  "priority": []
+ },
+ "castform": {
+  "cost": 7,
+  "sets": [
+   [
+    "ice-beam",
+    "fire-blast",
+    "energy-ball",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.052
+  ],
+  "mean_dmg_frac_broad": [
+   0.478
+  ],
+  "spe": 90,
+  "hp": 145,
+  "priority": []
+ },
+ "kecleon": {
+  "cost": 7,
+  "sets": [
+   [
+    "ice-punch",
+    "fire-punch",
+    "strength",
+    "thunder-punch"
+   ],
+   [
+    "strength",
+    "ice-punch",
+    "brick-break",
+    "fire-blast"
+   ],
+   [
+    "ice-punch",
+    "fire-punch",
+    "strength",
+    "shadow-sneak"
+   ],
+   [
+    "strength",
+    "ice-punch",
+    "brick-break",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.089,
+   4.921,
+   5.153,
+   5.153
+  ],
+  "mean_dmg_frac_broad": [
+   0.473,
+   0.493,
+   0.447,
+   0.465
+  ],
+  "spe": 60,
+  "hp": 135,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "shuppet": {
+  "cost": 4,
+  "sets": [
+   [
+    "night-shade",
+    "shadow-ball",
+    "psychic",
+    "ominous-wind"
+   ],
+   [
+    "night-shade",
+    "thunderbolt",
+    "shadow-ball",
+    "psychic"
+   ],
+   [
+    "night-shade",
+    "shadow-ball",
+    "psychic",
+    "shadow-sneak"
+   ],
+   [
+    "night-shade",
+    "thunderbolt",
+    "shadow-ball",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.669,
+   0.669,
+   1.644,
+   1.243
+  ],
+  "mean_dmg_frac_broad": [
+   0.365,
+   0.415,
+   0.365,
+   0.401
+  ],
+  "spe": 65,
+  "hp": 119,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "banette": {
+  "cost": 8,
+  "sets": [
+   [
+    "shadow-claw",
+    "night-shade",
+    "shadow-ball",
+    "shadow-sneak"
+   ],
+   [
+    "shadow-claw",
+    "thunderbolt",
+    "night-shade",
+    "psychic"
+   ],
+   [
+    "shadow-claw",
+    "thunderbolt",
+    "psychic",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.548,
+   2.945,
+   4.533
+  ],
+  "mean_dmg_frac_broad": [
+   0.439,
+   0.551,
+   0.542
+  ],
+  "spe": 85,
+  "hp": 139,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "duskull": {
+  "cost": 4,
+  "sets": [
+   [
+    "night-shade",
+    "ice-beam",
+    "blizzard",
+    "shadow-ball"
+   ],
+   [
+    "night-shade",
+    "ice-beam",
+    "shadow-ball",
+    "psychic"
+   ],
+   [
+    "night-shade",
+    "ice-beam",
+    "blizzard",
+    "shadow-sneak"
+   ],
+   [
+    "night-shade",
+    "ice-beam",
+    "shadow-ball",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.719,
+   1.719,
+   1.719,
+   1.719
+  ],
+  "mean_dmg_frac_broad": [
+   0.326,
+   0.327,
+   0.323,
+   0.326
+  ],
+  "spe": 45,
+  "hp": 95,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "dusclops": {
+  "cost": 8,
+  "sets": [
+   [
+    "night-shade",
+    "earthquake",
+    "ice-punch",
+    "ice-beam"
+   ],
+   [
+    "earthquake",
+    "ice-beam",
+    "shadow-ball",
+    "brick-break"
+   ],
+   [
+    "night-shade",
+    "earthquake",
+    "ice-punch",
+    "shadow-sneak"
+   ],
+   [
+    "earthquake",
+    "ice-beam",
+    "brick-break",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.984,
+   3.516,
+   4.368,
+   4.839
+  ],
+  "mean_dmg_frac_broad": [
+   0.449,
+   0.474,
+   0.428,
+   0.452
+  ],
+  "spe": 45,
+  "hp": 115,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "dusknoir": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "night-shade",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "brick-break",
+    "shadow-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "shadow-sneak",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "brick-break",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.505,
+   5.043,
+   6.27,
+   6.032
+  ],
+  "mean_dmg_frac_broad": [
+   0.566,
+   0.594,
+   0.566,
+   0.57
+  ],
+  "spe": 65,
+  "hp": 120,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "tropius": {
+  "cost": 8,
+  "sets": [
+   [
+    "leaf-blade",
+    "earthquake",
+    "aerial-ace",
+    "ominous-wind"
+   ],
+   [
+    "leaf-blade",
+    "energy-ball",
+    "air-slash",
+    "earthquake"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.713,
+   5.531
+  ],
+  "mean_dmg_frac_broad": [
+   0.533,
+   0.585
+  ],
+  "spe": 71,
+  "hp": 174,
+  "priority": []
+ },
+ "chingling": {
+  "cost": 3,
+  "sets": [
+   [
+    "psychic",
+    "zen-headbutt",
+    "shadow-ball",
+    "confusion"
+   ],
+   [
+    "psychic",
+    "signal-beam",
+    "shadow-ball",
+    "shock-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.34,
+   1.34
+  ],
+  "mean_dmg_frac_broad": [
+   0.371,
+   0.403
+  ],
+  "spe": 65,
+  "hp": 120,
+  "priority": []
+ },
+ "chimecho": {
+  "cost": 7,
+  "sets": [
+   [
+    "psychic",
+    "extrasensory",
+    "energy-ball",
+    "shadow-ball"
+   ],
+   [
+    "psychic",
+    "energy-ball",
+    "signal-beam",
+    "shock-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.998,
+   3.998
+  ],
+  "mean_dmg_frac_broad": [
+   0.55,
+   0.578
+  ],
+  "spe": 85,
+  "hp": 140,
+  "priority": []
+ },
+ "absol": {
+  "cost": 8,
+  "sets": [
+   [
+    "night-slash",
+    "psycho-cut",
+    "ice-beam",
+    "fire-blast"
+   ],
+   [
+    "stone-edge",
+    "double-edge",
+    "megahorn",
+    "ice-beam"
+   ],
+   [
+    "night-slash",
+    "ice-beam",
+    "fire-blast",
+    "quick-attack"
+   ],
+   [
+    "stone-edge",
+    "double-edge",
+    "megahorn",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.535,
+   4.136,
+   4.728,
+   4.538
+  ],
+  "mean_dmg_frac_broad": [
+   0.648,
+   0.717,
+   0.611,
+   0.689
+  ],
+  "spe": 95,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "snorunt": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "ice-fang",
+    "crunch"
+   ],
+   [
+    "ice-beam",
+    "crunch",
+    "shadow-ball",
+    "water-pulse"
+   ],
+   [
+    "ice-beam",
+    "ice-fang",
+    "ice-shard",
+    "crunch"
+   ],
+   [
+    "ice-beam",
+    "crunch",
+    "ice-shard",
+    "water-pulse"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.732,
+   1.699,
+   2.645,
+   2.611
+  ],
+  "mean_dmg_frac_broad": [
+   0.387,
+   0.396,
+   0.387,
+   0.393
+  ],
+  "spe": 70,
+  "hp": 125,
+  "priority": [
+   "ice-shard"
+  ]
+ },
+ "glalie": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "ice-fang",
+    "earthquake"
+   ],
+   [
+    "ice-beam",
+    "earthquake",
+    "crunch",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.234,
+   5.165
+  ],
+  "mean_dmg_frac_broad": [
+   0.612,
+   0.633
+  ],
+  "spe": 100,
+  "hp": 155,
+  "priority": []
+ },
+ "froslass": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "blizzard",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "thunderbolt",
+    "shadow-ball",
+    "psychic"
+   ],
+   [
+    "ice-beam",
+    "ice-punch",
+    "ice-shard",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "thunderbolt",
+    "shadow-ball",
+    "ice-shard"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.064,
+   6.064,
+   6.064,
+   6.064
+  ],
+  "mean_dmg_frac_broad": [
+   0.607,
+   0.643,
+   0.607,
+   0.631
+  ],
+  "spe": 130,
+  "hp": 145,
+  "priority": [
+   "ice-shard"
+  ]
+ },
+ "spheal": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "aurora-beam",
+    "earthquake"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "earthquake",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.172,
+   1.172
+  ],
+  "mean_dmg_frac_broad": [
+   0.434,
+   0.49
+  ],
+  "spe": 45,
+  "hp": 145,
+  "priority": []
+ },
+ "sealeo": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "aurora-beam",
+    "earthquake"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "earthquake",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.41,
+   4.41
+  ],
+  "mean_dmg_frac_broad": [
+   0.553,
+   0.62
+  ],
+  "spe": 65,
+  "hp": 165,
+  "priority": []
+ },
+ "walrein": {
+  "cost": 10,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "aurora-beam",
+    "earthquake"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "earthquake",
+    "crunch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.709,
+   7.709
+  ],
+  "mean_dmg_frac_broad": [
+   0.673,
+   0.753
+  ],
+  "spe": 85,
+  "hp": 185,
+  "priority": []
+ },
+ "clamperl": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "surf",
+    "body-slam"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "waterfall",
+    "body-slam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.41,
+   2.41
+  ],
+  "mean_dmg_frac_broad": [
+   0.507,
+   0.513
+  ],
+  "spe": 52,
+  "hp": 110,
+  "priority": []
+ },
+ "huntail": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "ice-fang",
+    "crunch"
+   ],
+   [
+    "hydro-pump",
+    "aqua-tail",
+    "ice-beam",
+    "crunch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.576,
+   4.576
+  ],
+  "mean_dmg_frac_broad": [
+   0.643,
+   0.658
+  ],
+  "spe": 72,
+  "hp": 130,
+  "priority": []
+ },
+ "gorebyss": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "hydro-pump",
+    "psychic"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "psychic",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.511,
+   5.511
+  ],
+  "mean_dmg_frac_broad": [
+   0.739,
+   0.761
+  ],
+  "spe": 72,
+  "hp": 130,
+  "priority": []
+ },
+ "relicanth": {
+  "cost": 8,
+  "sets": [
+   [
+    "head-smash",
+    "earthquake",
+    "waterfall",
+    "ice-beam"
+   ],
+   [
+    "head-smash",
+    "aqua-tail",
+    "earthquake",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.681,
+   3.677
+  ],
+  "mean_dmg_frac_broad": [
+   0.827,
+   0.828
+  ],
+  "spe": 75,
+  "hp": 175,
+  "priority": []
+ },
+ "luvdisc": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "surf",
+    "take-down"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "waterfall",
+    "take-down"
+   ],
+   [
+    "ice-beam",
+    "surf",
+    "take-down",
+    "aqua-jet"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "waterfall",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.251,
+   2.251,
+   2.251,
+   2.167
+  ],
+  "mean_dmg_frac_broad": [
+   0.325,
+   0.327,
+   0.325,
+   0.327
+  ],
+  "spe": 117,
+  "hp": 118,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "bagon": {
+  "cost": 4,
+  "sets": [
+   [
+    "dragon-claw",
+    "dragon-rush",
+    "zen-headbutt",
+    "brick-break"
+   ],
+   [
+    "dragon-claw",
+    "rock-slide",
+    "brick-break",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.959,
+   0.959
+  ],
+  "mean_dmg_frac_broad": [
+   0.391,
+   0.422
+  ],
+  "spe": 70,
+  "hp": 120,
+  "priority": []
+ },
+ "shelgon": {
+  "cost": 7,
+  "sets": [
+   [
+    "dragon-claw",
+    "double-edge",
+    "zen-headbutt",
+    "brick-break"
+   ],
+   [
+    "dragon-claw",
+    "rock-slide",
+    "brick-break",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.203,
+   3.082
+  ],
+  "mean_dmg_frac_broad": [
+   0.471,
+   0.515
+  ],
+  "spe": 70,
+  "hp": 140,
+  "priority": []
+ },
+ "salamence": {
+  "cost": 11,
+  "sets": [
+   [
+    "dragon-claw",
+    "earthquake",
+    "aerial-ace",
+    "dragon-pulse"
+   ],
+   [
+    "dragon-claw",
+    "stone-edge",
+    "earthquake",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   8.698,
+   8.165
+  ],
+  "mean_dmg_frac_broad": [
+   0.761,
+   0.805
+  ],
+  "spe": 120,
+  "hp": 170,
+  "priority": []
+ },
+ "beldum": {
+  "cost": 4,
+  "sets": [
+   [
+    "zen-headbutt",
+    "iron-head",
+    "take-down",
+    "headbutt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.458
+  ],
+  "mean_dmg_frac_broad": [
+   0.316
+  ],
+  "spe": 50,
+  "hp": 115,
+  "priority": []
+ },
+ "metang": {
+  "cost": 7,
+  "sets": [
+   [
+    "earthquake",
+    "zen-headbutt",
+    "ice-punch",
+    "thunder-punch"
+   ],
+   [
+    "meteor-mash",
+    "earthquake",
+    "ice-punch",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "zen-headbutt",
+    "ice-punch",
+    "bullet-punch"
+   ],
+   [
+    "meteor-mash",
+    "earthquake",
+    "thunder-punch",
+    "bullet-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.815,
+   3.977,
+   4.088,
+   3.941
+  ],
+  "mean_dmg_frac_broad": [
+   0.479,
+   0.494,
+   0.456,
+   0.466
+  ],
+  "spe": 70,
+  "hp": 135,
+  "priority": [
+   "bullet-punch"
+  ]
+ },
+ "metagross": {
+  "cost": 11,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "meteor-mash",
+    "thunder-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "thunder-punch",
+    "bullet-punch"
+   ],
+   [
+    "meteor-mash",
+    "earthquake",
+    "thunder-punch",
+    "bullet-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   8.129,
+   8.269,
+   7.925
+  ],
+  "mean_dmg_frac_broad": [
+   0.797,
+   0.724,
+   0.753
+  ],
+  "spe": 90,
+  "hp": 155,
+  "priority": [
+   "bullet-punch"
+  ]
+ },
+ "turtwig": {
+  "cost": 4,
+  "sets": [
+   [
+    "seed-bomb",
+    "double-edge",
+    "crunch",
+    "earth-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.168
+  ],
+  "mean_dmg_frac_broad": [
+   0.429
+  ],
+  "spe": 51,
+  "hp": 130,
+  "priority": []
+ },
+ "grotle": {
+  "cost": 6,
+  "sets": [
+   [
+    "seed-bomb",
+    "razor-leaf",
+    "crunch",
+    "earth-power"
+   ],
+   [
+    "seed-bomb",
+    "energy-ball",
+    "crunch",
+    "earth-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.004,
+   4.004
+  ],
+  "mean_dmg_frac_broad": [
+   0.489,
+   0.499
+  ],
+  "spe": 56,
+  "hp": 150,
+  "priority": []
+ },
+ "torterra": {
+  "cost": 9,
+  "sets": [
+   [
+    "wood-hammer",
+    "earthquake",
+    "seed-bomb",
+    "crunch"
+   ],
+   [
+    "wood-hammer",
+    "earthquake",
+    "earth-power",
+    "stone-edge"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.809,
+   7.767
+  ],
+  "mean_dmg_frac_broad": [
+   0.905,
+   0.982
+  ],
+  "spe": 76,
+  "hp": 170,
+  "priority": []
+ },
+ "chimchar": {
+  "cost": 4,
+  "sets": [
+   [
+    "fire-blast",
+    "blaze-kick",
+    "shadow-claw",
+    "thunder-punch"
+   ],
+   [
+    "fire-blast",
+    "thunder-punch",
+    "brick-break",
+    "shadow-claw"
+   ],
+   [
+    "fire-blast",
+    "blaze-kick",
+    "thunder-punch",
+    "vacuum-wave"
+   ],
+   [
+    "fire-blast",
+    "thunder-punch",
+    "brick-break",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.826,
+   0.828,
+   1.26,
+   1.283
+  ],
+  "mean_dmg_frac_broad": [
+   0.449,
+   0.454,
+   0.445,
+   0.446
+  ],
+  "spe": 81,
+  "hp": 119,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "monferno": {
+  "cost": 6,
+  "sets": [
+   [
+    "flare-blitz",
+    "focus-blast",
+    "shadow-claw",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "fire-blast",
+    "focus-blast",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "focus-blast",
+    "thunder-punch",
+    "mach-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.669,
+   2.582,
+   2.582
+  ],
+  "mean_dmg_frac_broad": [
+   0.713,
+   0.731,
+   0.712
+  ],
+  "spe": 101,
+  "hp": 139,
+  "priority": [
+   "mach-punch",
+   "vacuum-wave"
+  ]
+ },
+ "infernape": {
+  "cost": 10,
+  "sets": [
+   [
+    "flare-blitz",
+    "focus-blast",
+    "shadow-claw",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "focus-blast",
+    "earthquake",
+    "thunder-punch"
+   ],
+   [
+    "flare-blitz",
+    "focus-blast",
+    "thunder-punch",
+    "mach-punch"
+   ],
+   [
+    "flare-blitz",
+    "focus-blast",
+    "earthquake",
+    "mach-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.092,
+   6.911,
+   6.873,
+   6.747
+  ],
+  "mean_dmg_frac_broad": [
+   0.9,
+   0.931,
+   0.899,
+   0.907
+  ],
+  "spe": 128,
+  "hp": 151,
+  "priority": [
+   "mach-punch",
+   "vacuum-wave"
+  ]
+ },
+ "piplup": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "surf",
+    "hydro-pump",
+    "drill-peck"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "drill-peck",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.893,
+   1.885
+  ],
+  "mean_dmg_frac_broad": [
+   0.449,
+   0.461
+  ],
+  "spe": 60,
+  "hp": 128,
+  "priority": []
+ },
+ "prinplup": {
+  "cost": 6,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "hydro-pump",
+    "drill-peck"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "drill-peck",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.803,
+   3.803
+  ],
+  "mean_dmg_frac_broad": [
+   0.555,
+   0.57
+  ],
+  "spe": 70,
+  "hp": 139,
+  "priority": []
+ },
+ "empoleon": {
+  "cost": 10,
+  "sets": [
+   [
+    "ice-beam",
+    "hydro-pump",
+    "earthquake",
+    "drill-peck"
+   ],
+   [
+    "hydro-pump",
+    "ice-beam",
+    "flash-cannon",
+    "earthquake"
+   ],
+   [
+    "ice-beam",
+    "hydro-pump",
+    "earthquake",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.191,
+   6.191,
+   6.191
+  ],
+  "mean_dmg_frac_broad": [
+   0.74,
+   0.743,
+   0.727
+  ],
+  "spe": 80,
+  "hp": 159,
+  "priority": [
+   "aqua-jet"
+  ]
+ },
+ "starly": {
+  "cost": 2,
+  "sets": [
+   [
+    "brave-bird",
+    "double-edge",
+    "aerial-ace",
+    "pluck"
+   ],
+   [
+    "brave-bird",
+    "double-edge",
+    "heat-wave",
+    "steel-wing"
+   ],
+   [
+    "brave-bird",
+    "double-edge",
+    "aerial-ace",
+    "quick-attack"
+   ],
+   [
+    "brave-bird",
+    "double-edge",
+    "heat-wave",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.738,
+   0.738,
+   0.738,
+   0.738
+  ],
+  "mean_dmg_frac_broad": [
+   0.487,
+   0.498,
+   0.487,
+   0.495
+  ],
+  "spe": 80,
+  "hp": 115,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "staravia": {
+  "cost": 5,
+  "sets": [
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "wing-attack"
+   ],
+   [
+    "brave-bird",
+    "take-down",
+    "heat-wave",
+    "steel-wing"
+   ],
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "quick-attack"
+   ],
+   [
+    "brave-bird",
+    "take-down",
+    "heat-wave",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.653,
+   1.653,
+   2.098,
+   2.098
+  ],
+  "mean_dmg_frac_broad": [
+   0.601,
+   0.618,
+   0.601,
+   0.614
+  ],
+  "spe": 100,
+  "hp": 130,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "staraptor": {
+  "cost": 8,
+  "sets": [
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "wing-attack"
+   ],
+   [
+    "brave-bird",
+    "take-down",
+    "steel-wing",
+    "heat-wave"
+   ],
+   [
+    "brave-bird",
+    "aerial-ace",
+    "pluck",
+    "quick-attack"
+   ],
+   [
+    "brave-bird",
+    "steel-wing",
+    "quick-attack",
+    "heat-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   8.693,
+   8.693,
+   8.693,
+   8.693
+  ],
+  "mean_dmg_frac_broad": [
+   0.881,
+   0.9,
+   0.881,
+   0.895
+  ],
+  "spe": 120,
+  "hp": 160,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "bidoof": {
+  "cost": 2,
+  "sets": [
+   [
+    "double-edge",
+    "ice-beam",
+    "blizzard",
+    "aqua-tail"
+   ],
+   [
+    "double-edge",
+    "ice-beam",
+    "thunderbolt",
+    "aqua-tail"
+   ],
+   [
+    "double-edge",
+    "ice-beam",
+    "aqua-tail",
+    "quick-attack"
+   ],
+   [
+    "double-edge",
+    "ice-beam",
+    "thunderbolt",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.779,
+   0.779,
+   1.889,
+   1.883
+  ],
+  "mean_dmg_frac_broad": [
+   0.352,
+   0.366,
+   0.352,
+   0.358
+  ],
+  "spe": 51,
+  "hp": 134,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "bibarel": {
+  "cost": 6,
+  "sets": [
+   [
+    "aqua-tail",
+    "waterfall",
+    "ice-beam",
+    "strength"
+   ],
+   [
+    "aqua-tail",
+    "surf",
+    "ice-beam",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.257,
+   3.113
+  ],
+  "mean_dmg_frac_broad": [
+   0.477,
+   0.51
+  ],
+  "spe": 91,
+  "hp": 154,
+  "priority": []
+ },
+ "kricketune": {
+  "cost": 6,
+  "sets": [
+   [
+    "x-scissor",
+    "bug-bite",
+    "night-slash",
+    "brick-break"
+   ],
+   [
+    "x-scissor",
+    "brick-break",
+    "night-slash",
+    "aerial-ace"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.026,
+   3.026
+  ],
+  "mean_dmg_frac_broad": [
+   0.453,
+   0.473
+  ],
+  "spe": 85,
+  "hp": 152,
+  "priority": []
+ },
+ "shinx": {
+  "cost": 3,
+  "sets": [
+   [
+    "ice-fang",
+    "crunch",
+    "fire-fang",
+    "spark"
+   ],
+   [
+    "thunderbolt",
+    "spark",
+    "crunch",
+    "ice-fang"
+   ],
+   [
+    "ice-fang",
+    "crunch",
+    "spark",
+    "quick-attack"
+   ],
+   [
+    "thunderbolt",
+    "crunch",
+    "ice-fang",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.645,
+   0.668,
+   1.108,
+   1.449
+  ],
+  "mean_dmg_frac_broad": [
+   0.377,
+   0.393,
+   0.365,
+   0.376
+  ],
+  "spe": 65,
+  "hp": 120,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "luxio": {
+  "cost": 5,
+  "sets": [
+   [
+    "crunch",
+    "spark",
+    "thunder-fang",
+    "thunderbolt"
+   ],
+   [
+    "thunderbolt",
+    "spark",
+    "crunch",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.177,
+   2.177
+  ],
+  "mean_dmg_frac_broad": [
+   0.462,
+   0.479
+  ],
+  "spe": 80,
+  "hp": 135,
+  "priority": []
+ },
+ "luxray": {
+  "cost": 9,
+  "sets": [
+   [
+    "crunch",
+    "spark",
+    "thunderbolt",
+    "thunder-fang"
+   ],
+   [
+    "thunderbolt",
+    "spark",
+    "crunch",
+    "signal-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.198,
+   4.198
+  ],
+  "mean_dmg_frac_broad": [
+   0.64,
+   0.666
+  ],
+  "spe": 90,
+  "hp": 155,
+  "priority": []
+ },
+ "cranidos": {
+  "cost": 5,
+  "sets": [
+   [
+    "head-smash",
+    "earthquake",
+    "double-edge",
+    "ice-beam"
+   ],
+   [
+    "head-smash",
+    "double-edge",
+    "earthquake",
+    "fire-punch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.643,
+   1.643
+  ],
+  "mean_dmg_frac_broad": [
+   1.045,
+   1.048
+  ],
+  "spe": 78,
+  "hp": 142,
+  "priority": []
+ },
+ "rampardos": {
+  "cost": 9,
+  "sets": [
+   [
+    "head-smash",
+    "earthquake",
+    "stone-edge",
+    "ice-beam"
+   ],
+   [
+    "head-smash",
+    "earthquake",
+    "zen-headbutt",
+    "ice-beam"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.466,
+   2.466
+  ],
+  "mean_dmg_frac_broad": [
+   1.329,
+   1.341
+  ],
+  "spe": 78,
+  "hp": 172,
+  "priority": []
+ },
+ "shieldon": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "fire-blast",
+    "stone-edge",
+    "double-edge"
+   ],
+   [
+    "stone-edge",
+    "ice-beam",
+    "thunderbolt",
+    "earthquake"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.018,
+   1.018
+  ],
+  "mean_dmg_frac_broad": [
+   0.373,
+   0.406
+  ],
+  "spe": 50,
+  "hp": 105,
+  "priority": []
+ },
+ "bastiodon": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "ice-beam",
+    "blizzard",
+    "stone-edge"
+   ],
+   [
+    "stone-edge",
+    "ice-beam",
+    "earthquake",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.689,
+   2.689
+  ],
+  "mean_dmg_frac_broad": [
+   0.439,
+   0.461
+  ],
+  "spe": 50,
+  "hp": 135,
+  "priority": []
+ },
+ "wormadam-plant": {
+  "cost": 7,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "psychic",
+    "shadow-ball"
+   ],
+   [
+    "energy-ball",
+    "signal-beam",
+    "psychic",
+    "shadow-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.334,
+   4.265
+  ],
+  "mean_dmg_frac_broad": [
+   0.479,
+   0.537
+  ],
+  "spe": 56,
+  "hp": 135,
+  "priority": []
+ },
+ "mothim": {
+  "cost": 7,
+  "sets": [
+   [
+    "aerial-ace",
+    "bug-buzz",
+    "energy-ball",
+    "shadow-ball"
+   ],
+   [
+    "bug-buzz",
+    "air-slash",
+    "psychic",
+    "energy-ball"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.782,
+   3.502
+  ],
+  "mean_dmg_frac_broad": [
+   0.608,
+   0.631
+  ],
+  "spe": 86,
+  "hp": 145,
+  "priority": []
+ },
+ "combee": {
+  "cost": 2,
+  "sets": [
+   [
+    "air-cutter",
+    "bug-bite",
+    "gust",
+    "ominous-wind"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.397
+  ],
+  "mean_dmg_frac_broad": [
+   0.194
+  ],
+  "spe": 90,
+  "hp": 105,
+  "priority": []
+ },
+ "vespiquen": {
+  "cost": 8,
+  "sets": [
+   [
+    "attack-order",
+    "aerial-ace",
+    "x-scissor",
+    "ominous-wind"
+   ],
+   [
+    "attack-order",
+    "signal-beam",
+    "aerial-ace",
+    "power-gem"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.285,
+   4.241
+  ],
+  "mean_dmg_frac_broad": [
+   0.511,
+   0.554
+  ],
+  "spe": 60,
+  "hp": 145,
+  "priority": []
+ },
+ "pachirisu": {
+  "cost": 6,
+  "sets": [
+   [
+    "seed-bomb",
+    "thunderbolt",
+    "bite",
+    "gunk-shot"
+   ],
+   [
+    "thunderbolt",
+    "thunder-punch",
+    "seed-bomb",
+    "u-turn"
+   ],
+   [
+    "seed-bomb",
+    "thunderbolt",
+    "gunk-shot",
+    "quick-attack"
+   ],
+   [
+    "thunderbolt",
+    "seed-bomb",
+    "u-turn",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.396,
+   3.321,
+   3.401,
+   3.328
+  ],
+  "mean_dmg_frac_broad": [
+   0.367,
+   0.374,
+   0.363,
+   0.368
+  ],
+  "spe": 115,
+  "hp": 135,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "buizel": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "ice-punch",
+    "surf",
+    "brick-break"
+   ],
+   [
+    "surf",
+    "waterfall",
+    "ice-beam",
+    "brick-break"
+   ],
+   [
+    "ice-beam",
+    "ice-punch",
+    "surf",
+    "aqua-jet"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "brick-break",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.515,
+   1.548,
+   1.382,
+   1.515
+  ],
+  "mean_dmg_frac_broad": [
+   0.454,
+   0.464,
+   0.431,
+   0.452
+  ],
+  "spe": 105,
+  "hp": 130,
+  "priority": [
+   "aqua-jet",
+   "quick-attack"
+  ]
+ },
+ "floatzel": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-punch",
+    "ice-beam",
+    "aqua-tail",
+    "brick-break"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "brick-break",
+    "crunch"
+   ],
+   [
+    "ice-punch",
+    "aqua-tail",
+    "brick-break",
+    "aqua-jet"
+   ],
+   [
+    "aqua-tail",
+    "ice-beam",
+    "focus-blast",
+    "aqua-jet"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.25,
+   5.893,
+   6.213,
+   5.818
+  ],
+  "mean_dmg_frac_broad": [
+   0.605,
+   0.633,
+   0.586,
+   0.602
+  ],
+  "spe": 135,
+  "hp": 160,
+  "priority": [
+   "aqua-jet",
+   "quick-attack"
+  ]
+ },
+ "cherubi": {
+  "cost": 3,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "giga-drain",
+    "take-down"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.443
+  ],
+  "mean_dmg_frac_broad": [
+   0.336
+  ],
+  "spe": 55,
+  "hp": 120,
+  "priority": []
+ },
+ "cherrim": {
+  "cost": 8,
+  "sets": [
+   [
+    "energy-ball",
+    "seed-bomb",
+    "giga-drain",
+    "take-down"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.027
+  ],
+  "mean_dmg_frac_broad": [
+   0.441
+  ],
+  "spe": 105,
+  "hp": 145,
+  "priority": []
+ },
+ "shellos": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "surf",
+    "earth-power",
+    "body-slam"
+   ],
+   [
+    "surf",
+    "ice-beam",
+    "earth-power",
+    "ancient-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.537,
+   2.491
+  ],
+  "mean_dmg_frac_broad": [
+   0.437,
+   0.443
+  ],
+  "spe": 54,
+  "hp": 151,
+  "priority": []
+ },
+ "gastrodon": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "ice-beam",
+    "surf"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.035
+  ],
+  "mean_dmg_frac_broad": [
+   0.749
+  ],
+  "spe": 59,
+  "hp": 186,
+  "priority": []
+ },
+ "drifloon": {
+  "cost": 5,
+  "sets": [
+   [
+    "shadow-ball",
+    "air-cutter",
+    "psychic",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.657
+  ],
+  "mean_dmg_frac_broad": [
+   0.395
+  ],
+  "spe": 90,
+  "hp": 165,
+  "priority": []
+ },
+ "drifblim": {
+  "cost": 9,
+  "sets": [
+   [
+    "shadow-ball",
+    "air-cutter",
+    "psychic",
+    "thunderbolt"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.256
+  ],
+  "mean_dmg_frac_broad": [
+   0.537
+  ],
+  "spe": 100,
+  "hp": 225,
+  "priority": []
+ },
+ "buneary": {
+  "cost": 5,
+  "sets": [
+   [
+    "ice-beam",
+    "fire-punch",
+    "dizzy-punch",
+    "thunder-punch"
+   ],
+   [
+    "dizzy-punch",
+    "ice-punch",
+    "sky-uppercut",
+    "thunderbolt"
+   ],
+   [
+    "ice-punch",
+    "sky-uppercut",
+    "thunder-punch",
+    "quick-attack"
+   ],
+   [
+    "ice-punch",
+    "sky-uppercut",
+    "thunderbolt",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.292,
+   2.092,
+   2.16,
+   1.93
+  ],
+  "mean_dmg_frac_broad": [
+   0.365,
+   0.376,
+   0.351,
+   0.356
+  ],
+  "spe": 105,
+  "hp": 130,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "lopunny": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "fire-punch",
+    "strength",
+    "thunder-punch"
+   ],
+   [
+    "strength",
+    "ice-beam",
+    "fire-punch",
+    "thunderbolt"
+   ],
+   [
+    "ice-beam",
+    "fire-punch",
+    "strength",
+    "quick-attack"
+   ],
+   [
+    "strength",
+    "ice-beam",
+    "focus-blast",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.795,
+   6.65,
+   6.65,
+   6.505
+  ],
+  "mean_dmg_frac_broad": [
+   0.425,
+   0.428,
+   0.399,
+   0.404
+  ],
+  "spe": 125,
+  "hp": 140,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "glameow": {
+  "cost": 4,
+  "sets": [
+   [
+    "slash",
+    "aerial-ace",
+    "shadow-claw",
+    "thunderbolt"
+   ],
+   [
+    "slash",
+    "thunderbolt",
+    "u-turn",
+    "water-pulse"
+   ],
+   [
+    "slash",
+    "shadow-claw",
+    "thunderbolt",
+    "quick-attack"
+   ],
+   [
+    "slash",
+    "thunderbolt",
+    "u-turn",
+    "quick-attack"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.023,
+   1.023,
+   1.206,
+   1.206
+  ],
+  "mean_dmg_frac_broad": [
+   0.307,
+   0.312,
+   0.298,
+   0.302
+  ],
+  "spe": 105,
+  "hp": 124,
+  "priority": [
+   "quick-attack"
+  ]
+ },
+ "purugly": {
+  "cost": 8,
+  "sets": [
+   [
+    "body-slam",
+    "slash",
+    "shadow-claw",
+    "thunderbolt"
+   ],
+   [
+    "body-slam",
+    "thunderbolt",
+    "shadow-claw",
+    "water-pulse"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.36,
+   4.36
+  ],
+  "mean_dmg_frac_broad": [
+   0.428,
+   0.44
+  ],
+  "spe": 132,
+  "hp": 146,
+  "priority": []
+ },
+ "stunky": {
+  "cost": 4,
+  "sets": [
+   [
+    "crunch",
+    "night-slash",
+    "double-edge",
+    "fire-blast"
+   ],
+   [
+    "crunch",
+    "double-edge",
+    "sludge-bomb",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   2.217,
+   2.217
+  ],
+  "mean_dmg_frac_broad": [
+   0.366,
+   0.378
+  ],
+  "spe": 94,
+  "hp": 138,
+  "priority": []
+ },
+ "skuntank": {
+  "cost": 8,
+  "sets": [
+   [
+    "night-slash",
+    "fire-blast",
+    "dark-pulse",
+    "poison-jab"
+   ],
+   [
+    "night-slash",
+    "poison-jab",
+    "sludge-bomb",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.373,
+   5.373
+  ],
+  "mean_dmg_frac_broad": [
+   0.522,
+   0.524
+  ],
+  "spe": 104,
+  "hp": 178,
+  "priority": []
+ },
+ "bronzor": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "psychic",
+    "flash-cannon",
+    "shadow-ball"
+   ],
+   [
+    "psychic",
+    "flash-cannon",
+    "earthquake",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.62,
+   1.599
+  ],
+  "mean_dmg_frac_broad": [
+   0.237,
+   0.244
+  ],
+  "spe": 43,
+  "hp": 132,
+  "priority": []
+ },
+ "bronzong": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "zen-headbutt",
+    "psychic",
+    "iron-head"
+   ],
+   [
+    "psychic",
+    "iron-head",
+    "earthquake",
+    "rock-slide"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.299,
+   4.987
+  ],
+  "mean_dmg_frac_broad": [
+   0.552,
+   0.568
+  ],
+  "spe": 53,
+  "hp": 142,
+  "priority": []
+ },
+ "chatot": {
+  "cost": 7,
+  "sets": [
+   [
+    "night-shade",
+    "heat-wave",
+    "aerial-ace",
+    "hyper-voice"
+   ],
+   [
+    "hyper-voice",
+    "chatter",
+    "heat-wave",
+    "night-shade"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.478,
+   4.478
+  ],
+  "mean_dmg_frac_broad": [
+   0.493,
+   0.499
+  ],
+  "spe": 111,
+  "hp": 151,
+  "priority": []
+ },
+ "spiritomb": {
+  "cost": 8,
+  "sets": [
+   [
+    "shadow-ball",
+    "dark-pulse",
+    "feint-attack",
+    "psychic"
+   ],
+   [
+    "dark-pulse",
+    "psychic",
+    "water-pulse",
+    "silver-wind"
+   ],
+   [
+    "shadow-ball",
+    "feint-attack",
+    "psychic",
+    "shadow-sneak"
+   ],
+   [
+    "dark-pulse",
+    "psychic",
+    "silver-wind",
+    "shadow-sneak"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.577,
+   4.542,
+   5.199,
+   5.409
+  ],
+  "mean_dmg_frac_broad": [
+   0.456,
+   0.475,
+   0.443,
+   0.464
+  ],
+  "spe": 55,
+  "hp": 125,
+  "priority": [
+   "shadow-sneak"
+  ]
+ },
+ "gible": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "dragon-claw",
+    "dragon-rush",
+    "dragon-rage"
+   ],
+   [
+    "earthquake",
+    "dragon-claw",
+    "stone-edge",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.69,
+   1.69
+  ],
+  "mean_dmg_frac_broad": [
+   0.505,
+   0.559
+  ],
+  "spe": 62,
+  "hp": 133,
+  "priority": []
+ },
+ "gabite": {
+  "cost": 6,
+  "sets": [
+   [
+    "earthquake",
+    "dragon-claw",
+    "dragon-rush",
+    "earth-power"
+   ],
+   [
+    "earthquake",
+    "dragon-claw",
+    "stone-edge",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.5,
+   3.5
+  ],
+  "mean_dmg_frac_broad": [
+   0.615,
+   0.676
+  ],
+  "spe": 102,
+  "hp": 143,
+  "priority": []
+ },
+ "garchomp": {
+  "cost": 11,
+  "sets": [
+   [
+    "earthquake",
+    "dragon-claw",
+    "dragon-rush",
+    "earth-power"
+   ],
+   [
+    "earthquake",
+    "dragon-claw",
+    "stone-edge",
+    "fire-blast"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   9.294,
+   9.294
+  ],
+  "mean_dmg_frac_broad": [
+   0.838,
+   0.923
+  ],
+  "spe": 122,
+  "hp": 183,
+  "priority": []
+ },
+ "riolu": {
+  "cost": 3,
+  "sets": [
+   [
+    "ice-punch",
+    "cross-chop",
+    "blaze-kick",
+    "thunder-punch"
+   ],
+   [
+    "cross-chop",
+    "earthquake",
+    "ice-punch",
+    "thunder-punch"
+   ],
+   [
+    "ice-punch",
+    "cross-chop",
+    "thunder-punch",
+    "vacuum-wave"
+   ],
+   [
+    "cross-chop",
+    "earthquake",
+    "ice-punch",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   0.518,
+   0.56,
+   0.505,
+   0.56
+  ],
+  "mean_dmg_frac_broad": [
+   0.493,
+   0.523,
+   0.472,
+   0.505
+  ],
+  "spe": 80,
+  "hp": 115,
+  "priority": [
+   "bullet-punch",
+   "quick-attack",
+   "vacuum-wave"
+  ]
+ },
+ "lucario": {
+  "cost": 9,
+  "sets": [
+   [
+    "ice-punch",
+    "aura-sphere",
+    "flash-cannon",
+    "thunder-punch"
+   ],
+   [
+    "aura-sphere",
+    "stone-edge",
+    "earthquake",
+    "ice-punch"
+   ],
+   [
+    "ice-punch",
+    "brick-break",
+    "flash-cannon",
+    "vacuum-wave"
+   ],
+   [
+    "aura-sphere",
+    "earthquake",
+    "ice-punch",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.656,
+   4.913,
+   4.804,
+   5.741
+  ],
+  "mean_dmg_frac_broad": [
+   0.777,
+   0.842,
+   0.654,
+   0.795
+  ],
+  "spe": 110,
+  "hp": 145,
+  "priority": [
+   "extreme-speed",
+   "quick-attack",
+   "vacuum-wave"
+  ]
+ },
+ "hippopotas": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "double-edge",
+    "crunch"
+   ],
+   [
+    "earthquake",
+    "double-edge",
+    "rock-slide",
+    "crunch"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.815,
+   1.815
+  ],
+  "mean_dmg_frac_broad": [
+   0.511,
+   0.528
+  ],
+  "spe": 52,
+  "hp": 143,
+  "priority": []
+ },
+ "hippowdon": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "earth-power",
+    "ice-fang",
+    "crunch"
+   ],
+   [
+    "earthquake",
+    "stone-edge",
+    "ice-fang",
+    "fire-fang"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   7.537,
+   7.489
+  ],
+  "mean_dmg_frac_broad": [
+   0.749,
+   0.804
+  ],
+  "spe": 67,
+  "hp": 183,
+  "priority": []
+ },
+ "skorupi": {
+  "cost": 4,
+  "sets": [
+   [
+    "x-scissor",
+    "crunch",
+    "aerial-ace",
+    "brick-break"
+   ],
+   [
+    "x-scissor",
+    "poison-jab",
+    "brick-break",
+    "aqua-tail"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.627,
+   1.524
+  ],
+  "mean_dmg_frac_broad": [
+   0.321,
+   0.339
+  ],
+  "spe": 85,
+  "hp": 115,
+  "priority": []
+ },
+ "drapion": {
+  "cost": 9,
+  "sets": [
+   [
+    "earthquake",
+    "crunch",
+    "ice-fang",
+    "thunder-fang"
+   ],
+   [
+    "crunch",
+    "poison-jab",
+    "earthquake",
+    "brick-break"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   6.844,
+   6.826
+  ],
+  "mean_dmg_frac_broad": [
+   0.537,
+   0.57
+  ],
+  "spe": 115,
+  "hp": 145,
+  "priority": []
+ },
+ "croagunk": {
+  "cost": 4,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "thunder-punch"
+   ],
+   [
+    "focus-blast",
+    "sludge-bomb",
+    "earthquake",
+    "ice-punch"
+   ],
+   [
+    "earthquake",
+    "ice-punch",
+    "cross-chop",
+    "vacuum-wave"
+   ],
+   [
+    "focus-blast",
+    "sludge-bomb",
+    "earthquake",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.197,
+   1.149,
+   1.197,
+   1.382
+  ],
+  "mean_dmg_frac_broad": [
+   0.471,
+   0.499,
+   0.456,
+   0.475
+  ],
+  "spe": 70,
+  "hp": 123,
+  "priority": [
+   "bullet-punch",
+   "vacuum-wave"
+  ]
+ },
+ "toxicroak": {
+  "cost": 8,
+  "sets": [
+   [
+    "earthquake",
+    "ice-punch",
+    "brick-break",
+    "thunder-punch"
+   ],
+   [
+    "focus-blast",
+    "gunk-shot",
+    "stone-edge",
+    "earthquake"
+   ],
+   [
+    "ice-punch",
+    "brick-break",
+    "thunder-punch",
+    "vacuum-wave"
+   ],
+   [
+    "focus-blast",
+    "gunk-shot",
+    "earthquake",
+    "vacuum-wave"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   3.403,
+   2.602,
+   3.315,
+   2.908
+  ],
+  "mean_dmg_frac_broad": [
+   0.691,
+   0.738,
+   0.615,
+   0.679
+  ],
+  "spe": 105,
+  "hp": 158,
+  "priority": [
+   "vacuum-wave"
+  ]
+ },
+ "carnivine": {
+  "cost": 8,
+  "sets": [
+   [
+    "power-whip",
+    "seed-bomb",
+    "energy-ball",
+    "crunch"
+   ],
+   [
+    "power-whip",
+    "energy-ball",
+    "crunch",
+    "sludge-bomb"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.494,
+   5.494
+  ],
+  "mean_dmg_frac_broad": [
+   0.618,
+   0.648
+  ],
+  "spe": 66,
+  "hp": 149,
+  "priority": []
+ },
+ "finneon": {
+  "cost": 4,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "surf",
+    "u-turn"
+   ],
+   [
+    "surf",
+    "aqua-tail",
+    "ice-beam",
+    "u-turn"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   1.615,
+   1.615
+  ],
+  "mean_dmg_frac_broad": [
+   0.388,
+   0.394
+  ],
+  "spe": 86,
+  "hp": 124,
+  "priority": []
+ },
+ "lumineon": {
+  "cost": 8,
+  "sets": [
+   [
+    "ice-beam",
+    "blizzard",
+    "surf",
+    "u-turn"
+   ],
+   [
+    "surf",
+    "aqua-tail",
+    "ice-beam",
+    "u-turn"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.332,
+   5.332
+  ],
+  "mean_dmg_frac_broad": [
+   0.496,
+   0.504
+  ],
+  "spe": 111,
+  "hp": 144,
+  "priority": []
+ },
+ "snover": {
+  "cost": 5,
+  "sets": [
+   [
+    "wood-hammer",
+    "ice-beam",
+    "ice-punch",
+    "blizzard"
+   ],
+   [
+    "wood-hammer",
+    "ice-beam",
+    "energy-ball",
+    "double-edge"
+   ],
+   [
+    "wood-hammer",
+    "ice-beam",
+    "ice-punch",
+    "ice-shard"
+   ],
+   [
+    "wood-hammer",
+    "ice-beam",
+    "energy-ball",
+    "ice-shard"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   4.217,
+   4.217,
+   5.365,
+   5.168
+  ],
+  "mean_dmg_frac_broad": [
+   0.638,
+   0.649,
+   0.638,
+   0.644
+  ],
+  "spe": 60,
+  "hp": 135,
+  "priority": [
+   "ice-shard"
+  ]
+ },
+ "abomasnow": {
+  "cost": 9,
+  "sets": [
+   [
+    "wood-hammer",
+    "ice-beam",
+    "ice-punch",
+    "earthquake"
+   ],
+   [
+    "wood-hammer",
+    "ice-beam",
+    "earthquake",
+    "focus-blast"
+   ],
+   [
+    "wood-hammer",
+    "ice-punch",
+    "earthquake",
+    "ice-shard"
+   ],
+   [
+    "wood-hammer",
+    "ice-beam",
+    "earthquake",
+    "ice-shard"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   8.859,
+   8.685,
+   8.768,
+   9.308
+  ],
+  "mean_dmg_frac_broad": [
+   0.915,
+   0.923,
+   0.842,
+   0.912
+  ],
+  "spe": 80,
+  "hp": 165,
+  "priority": [
+   "ice-shard"
+  ]
+ },
+ "rotom": {
+  "cost": 7,
+  "sets": [
+   [
+    "shadow-ball",
+    "thunderbolt",
+    "ominous-wind",
+    "thunder"
+   ],
+   [
+    "thunderbolt",
+    "shadow-ball",
+    "signal-beam",
+    "secret-power"
+   ]
+  ],
+  "duel_vs_cynthia": [
+   5.265,
+   5.265
+  ],
+  "mean_dmg_frac_broad": [
+   0.646,
+   0.665
+  ],
+  "spe": 111,
+  "hp": 125,
+  "priority": []
+ }
+}

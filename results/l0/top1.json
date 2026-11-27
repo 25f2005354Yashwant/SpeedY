@@ -1,0 +1,538 @@
+[
+ {
+  "l0": 0.863,
+  "d": {
+   "policy": 0.69,
+   "t_aggr": 0.999,
+   "t_patient": 0.976,
+   "t_sinnoh": 0.993,
+   "t_mixed": 0.762,
+   "t_altmoves": 0.999
+  },
+  "search_obj": 0.8627,
+  "team": [
+   {
+    "species": "marill",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "double-edge",
+     "aqua-jet"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "signal-beam",
+     "shadow-sneak"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "night-slash",
+     "headbutt",
+     "brick-break",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "slaking",
+    "moves": [
+     "brick-break",
+     "ice-punch",
+     "thunder-punch",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "sneasel",
+    "moves": [
+     "ice-punch",
+     "bite",
+     "brick-break",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "ambipom",
+    "moves": [
+     "ice-punch",
+     "seed-bomb",
+     "shadow-claw",
+     "fire-punch"
+    ]
+   }
+  ]
+ },
+ {
+  "l0": 0.8601,
+  "d": {
+   "policy": 0.682,
+   "t_aggr": 0.999,
+   "t_patient": 0.976,
+   "t_sinnoh": 0.993,
+   "t_mixed": 0.76,
+   "t_altmoves": 0.999
+  },
+  "search_obj": 0.8603,
+  "team": [
+   {
+    "species": "marill",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "body-slam",
+     "aqua-jet"
+    ]
+   },
+   {
+    "species": "feebas",
+    "moves": [
+     "ice-beam",
+     "blizzard",
+     "waterfall",
+     "secret-power"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "headbutt",
+     "night-slash",
+     "brick-break",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "slaking",
+    "moves": [
+     "brick-break",
+     "ice-punch",
+     "thunder-punch",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "ambipom",
+    "moves": [
+     "ice-punch",
+     "seed-bomb",
+     "shadow-claw",
+     "fire-punch"
+    ]
+   },
+   {
+    "species": "sneasel",
+    "moves": [
+     "ice-punch",
+     "bite",
+     "brick-break",
+     "aerial-ace"
+    ]
+   }
+  ]
+ },
+ {
+  "l0": 0.8128,
+  "d": {
+   "policy": 0.594,
+   "t_aggr": 0.974,
+   "t_patient": 0.948,
+   "t_sinnoh": 0.996,
+   "t_mixed": 0.697,
+   "t_altmoves": 0.988
+  },
+  "search_obj": 0.8143,
+  "team": [
+   {
+    "species": "feebas",
+    "moves": [
+     "surf",
+     "waterfall",
+     "ice-beam",
+     "secret-power"
+    ]
+   },
+   {
+    "species": "slaking",
+    "moves": [
+     "feint-attack",
+     "ice-punch",
+     "thunder-punch",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "swinub",
+    "moves": [
+     "body-slam",
+     "rock-smash",
+     "mud-bomb",
+     "ice-shard"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "night-slash",
+     "ice-beam",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "sneasel",
+    "moves": [
+     "ice-punch",
+     "iron-tail",
+     "brick-break",
+     "bite"
+    ]
+   },
+   {
+    "species": "lopunny",
+    "moves": [
+     "ice-punch",
+     "fire-punch",
+     "headbutt",
+     "thunder-punch"
+    ]
+   }
+  ]
+ },
+ {
+  "l0": 0.8093,
+  "d": {
+   "policy": 0.598,
+   "t_aggr": 0.968,
+   "t_patient": 0.93,
+   "t_sinnoh": 0.992,
+   "t_mixed": 0.7,
+   "t_altmoves": 0.978
+  },
+  "search_obj": 0.8119,
+  "team": [
+   {
+    "species": "sunkern",
+    "moves": [
+     "seed-bomb",
+     "earth-power",
+     "energy-ball",
+     "secret-power"
+    ]
+   },
+   {
+    "species": "slaking",
+    "moves": [
+     "feint-attack",
+     "ice-punch",
+     "thunder-punch",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "swinub",
+    "moves": [
+     "earthquake",
+     "bite",
+     "mud-bomb",
+     "ice-shard"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "night-slash",
+     "ice-beam",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "sneasel",
+    "moves": [
+     "ice-punch",
+     "bite",
+     "brick-break",
+     "crush-claw"
+    ]
+   },
+   {
+    "species": "lopunny",
+    "moves": [
+     "ice-punch",
+     "fire-punch",
+     "headbutt",
+     "thunder-punch"
+    ]
+   }
+  ]
+ },
+ {
+  "l0": 0.8092,
+  "d": {
+   "policy": 0.6,
+   "t_aggr": 0.977,
+   "t_patient": 0.939,
+   "t_sinnoh": 0.994,
+   "t_mixed": 0.65,
+   "t_altmoves": 0.989
+  },
+  "search_obj": 0.8139,
+  "team": [
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "ice-punch",
+     "magical-leaf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "slaking",
+    "moves": [
+     "feint-attack",
+     "ice-punch",
+     "thunder-punch",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "swinub",
+    "moves": [
+     "headbutt",
+     "bite",
+     "mud-bomb",
+     "ice-shard"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "night-slash",
+     "ice-beam",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "sneasel",
+    "moves": [
+     "ice-punch",
+     "bite",
+     "brick-break",
+     "crush-claw"
+    ]
+   },
+   {
+    "species": "lopunny",
+    "moves": [
+     "ice-punch",
+     "fire-punch",
+     "headbutt",
+     "thunder-punch"
+    ]
+   }
+  ]
+ },
+ {
+  "l0": 0.7975,
+  "d": {
+   "policy": 0.587,
+   "t_aggr": 0.928,
+   "t_patient": 0.894,
+   "t_sinnoh": 0.854,
+   "t_mixed": 0.899,
+   "t_altmoves": 0.97
+  },
+  "search_obj": 0.7956,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "strength",
+     "ice-punch",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "tauros",
+    "moves": [
+     "earthquake",
+     "strength",
+     "zen-headbutt",
+     "ice-beam"
+    ]
+   },
+   {
+    "species": "primeape",
+    "moves": [
+     "ice-punch",
+     "cross-chop",
+     "seed-bomb",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "magical-leaf",
+     "thunderbolt",
+     "shadow-sneak"
+    ]
+   },
+   {
+    "species": "hoppip",
+    "moves": [
+     "energy-ball",
+     "aerial-ace",
+     "double-edge",
+     "u-turn"
+    ]
+   },
+   {
+    "species": "alakazam",
+    "moves": [
+     "shadow-ball",
+     "focus-blast",
+     "psychic",
+     "energy-ball"
+    ]
+   }
+  ]
+ },
+ {
+  "l0": 0.7944,
+  "d": {
+   "policy": 0.585,
+   "t_aggr": 0.928,
+   "t_patient": 0.883,
+   "t_sinnoh": 0.861,
+   "t_mixed": 0.873,
+   "t_altmoves": 0.983
+  },
+  "search_obj": 0.7944,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "strength",
+     "ice-punch",
+     "rock-climb"
+    ]
+   },
+   {
+    "species": "alakazam",
+    "moves": [
+     "energy-ball",
+     "shadow-ball",
+     "psychic",
+     "focus-blast"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "double-edge",
+     "brave-bird",
+     "aerial-ace",
+     "quick-attack"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "magical-leaf",
+     "thunderbolt",
+     "shock-wave"
+    ]
+   },
+   {
+    "species": "tauros",
+    "moves": [
+     "earthquake",
+     "strength",
+     "zen-headbutt",
+     "ice-beam"
+    ]
+   },
+   {
+    "species": "primeape",
+    "moves": [
+     "cross-chop",
+     "ice-punch",
+     "seed-bomb",
+     "earthquake"
+    ]
+   }
+  ]
+ },
+ {
+  "l0": null,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "strength",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "zigzagoon",
+    "moves": [
+     "ice-beam",
+     "blizzard",
+     "seed-bomb",
+     "surf"
+    ]
+   },
+   {
+    "species": "delibird",
+    "moves": [
+     "ice-beam",
+     "aerial-ace",
+     "signal-beam",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "shinx",
+    "moves": [
+     "ice-fang",
+     "crunch",
+     "spark",
+     "quick-attack"
+    ]
+   },
+   {
+    "species": "scizor",
+    "moves": [
+     "double-hit",
+     "iron-head",
+     "brick-break",
+     "bullet-punch"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "night-slash",
+     "ice-beam",
+     "brick-break"
+    ]
+   }
+  ],
+  "name": "team_v2"
+ }
+]

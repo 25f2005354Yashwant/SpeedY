@@ -1,0 +1,58 @@
+{
+ "pokemon": [
+  {
+   "species": "slaking",
+   "moves": [
+    "earthquake",
+    "ice-punch",
+    "strength",
+    "thunder-punch"
+   ]
+  },
+  {
+   "species": "zigzagoon",
+   "moves": [
+    "ice-beam",
+    "blizzard",
+    "seed-bomb",
+    "surf"
+   ]
+  },
+  {
+   "species": "delibird",
+   "moves": [
+    "ice-beam",
+    "aerial-ace",
+    "signal-beam",
+    "brick-break"
+   ]
+  },
+  {
+   "species": "shinx",
+   "moves": [
+    "ice-fang",
+    "crunch",
+    "spark",
+    "quick-attack"
+   ]
+  },
+  {
+   "species": "scizor",
+   "moves": [
+    "double-hit",
+    "iron-head",
+    "brick-break",
+    "bullet-punch"
+   ]
+  },
+  {
+   "species": "weavile",
+   "moves": [
+    "ice-punch",
+    "night-slash",
+    "ice-beam",
+    "brick-break"
+   ]
+  }
+ ]
+}

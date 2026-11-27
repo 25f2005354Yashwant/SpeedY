@@ -1,0 +1,58 @@
+{
+ "pokemon": [
+  {
+   "species": "marill",
+   "moves": [
+    "ice-beam",
+    "surf",
+    "double-edge",
+    "aqua-jet"
+   ]
+  },
+  {
+   "species": "ralts",
+   "moves": [
+    "psychic",
+    "thunderbolt",
+    "signal-beam",
+    "shadow-sneak"
+   ]
+  },
+  {
+   "species": "weavile",
+   "moves": [
+    "night-slash",
+    "headbutt",
+    "brick-break",
+    "ice-punch"
+   ]
+  },
+  {
+   "species": "slaking",
+   "moves": [
+    "brick-break",
+    "ice-punch",
+    "thunder-punch",
+    "earthquake"
+   ]
+  },
+  {
+   "species": "sneasel",
+   "moves": [
+    "ice-punch",
+    "bite",
+    "brick-break",
+    "aerial-ace"
+   ]
+  },
+  {
+   "species": "ambipom",
+   "moves": [
+    "ice-punch",
+    "seed-bomb",
+    "shadow-claw",
+    "fire-punch"
+   ]
+  }
+ ]
+}

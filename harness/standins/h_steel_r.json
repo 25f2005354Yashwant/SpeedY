@@ -1,0 +1,84 @@
+{
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "balanced",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 2.0,
+ "switch_cooldown": 3,
+ "danger_threshold": 0.6,
+ "weak_offense_threshold": 0.4,
+ "aggression": 1.0,
+ "status_weight": 1.0,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "bronzong",
+ "stall_penalty": 0.5,
+ "variant": "h_steel_r",
+ "team": [
+  {
+   "species": "metagross",
+   "moves": [
+    "psychic",
+    "signal-beam",
+    "headbutt",
+    "swift"
+   ]
+  },
+  {
+   "species": "lucario",
+   "moves": [
+    "zen-headbutt",
+    "rock-climb",
+    "earthquake",
+    "drain-punch"
+   ]
+  },
+  {
+   "species": "scizor",
+   "moves": [
+    "strength",
+    "aerial-ace",
+    "u-turn",
+    "headbutt"
+   ]
+  },
+  {
+   "species": "magnezone",
+   "moves": [
+    "thunder",
+    "iron-head",
+    "spark",
+    "thunderbolt"
+   ]
+  },
+  {
+   "species": "empoleon",
+   "moves": [
+    "pluck",
+    "drill-peck",
+    "strength",
+    "brick-break"
+   ]
+  },
+  {
+   "species": "bronzong",
+   "moves": [
+    "strength",
+    "psychic",
+    "earthquake",
+    "flash-cannon"
+   ]
+  }
+ ],
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}

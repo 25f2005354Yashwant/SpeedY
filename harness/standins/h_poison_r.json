@@ -1,0 +1,84 @@
+{
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "balanced",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 2.0,
+ "switch_cooldown": 3,
+ "danger_threshold": 0.6,
+ "weak_offense_threshold": 0.4,
+ "aggression": 1.0,
+ "status_weight": 1.0,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "tentacruel",
+ "stall_penalty": 0.5,
+ "variant": "h_poison_r",
+ "team": [
+  {
+   "species": "roserade",
+   "moves": [
+    "sludge-bomb",
+    "energy-ball",
+    "seed-bomb",
+    "giga-drain"
+   ]
+  },
+  {
+   "species": "venusaur",
+   "moves": [
+    "giga-drain",
+    "headbutt",
+    "secret-power",
+    "earthquake"
+   ]
+  },
+  {
+   "species": "toxicroak",
+   "moves": [
+    "rock-climb",
+    "gunk-shot",
+    "mud-bomb",
+    "focus-blast"
+   ]
+  },
+  {
+   "species": "drapion",
+   "moves": [
+    "secret-power",
+    "sludge-bomb",
+    "shadow-ball",
+    "fire-fang"
+   ]
+  },
+  {
+   "species": "crobat",
+   "moves": [
+    "giga-drain",
+    "air-slash",
+    "pluck",
+    "u-turn"
+   ]
+  },
+  {
+   "species": "tentacruel",
+   "moves": [
+    "sludge-bomb",
+    "secret-power",
+    "ice-beam",
+    "blizzard"
+   ]
+  }
+ ],
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}

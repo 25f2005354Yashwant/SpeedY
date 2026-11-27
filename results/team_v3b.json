@@ -1,0 +1,58 @@
+{
+ "pokemon": [
+  {
+   "species": "slaking",
+   "moves": [
+    "earthquake",
+    "strength",
+    "ice-punch",
+    "rock-climb"
+   ]
+  },
+  {
+   "species": "alakazam",
+   "moves": [
+    "energy-ball",
+    "shadow-ball",
+    "psychic",
+    "focus-blast"
+   ]
+  },
+  {
+   "species": "starly",
+   "moves": [
+    "double-edge",
+    "brave-bird",
+    "aerial-ace",
+    "quick-attack"
+   ]
+  },
+  {
+   "species": "ralts",
+   "moves": [
+    "psychic",
+    "magical-leaf",
+    "thunderbolt",
+    "shock-wave"
+   ]
+  },
+  {
+   "species": "tauros",
+   "moves": [
+    "earthquake",
+    "strength",
+    "zen-headbutt",
+    "ice-beam"
+   ]
+  },
+  {
+   "species": "primeape",
+   "moves": [
+    "cross-chop",
+    "ice-punch",
+    "seed-bomb",
+    "earthquake"
+   ]
+  }
+ ]
+}

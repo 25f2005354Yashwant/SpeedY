@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local tooling / scratch
+*.log
+tmp_*
+policy_src/build/tmp_*
+
+# Organiser package (not ours; never commit) and hidden variants
+engine/
+cynthia_data/
+config/
+variants/
+variants_private/
+ui/
+pokemon/
+examples/
+tests/

@@ -1,0 +1,59 @@
+{
+  "team_name": "Doom Warriors",
+  "pokemon": [
+    {
+      "species": "snover",
+      "moves": [
+        "wood-hammer",
+        "stomp",
+        "shadow-ball",
+        "ice-shard"
+      ]
+    },
+    {
+      "species": "ambipom",
+      "moves": [
+        "thunder-punch",
+        "ice-punch",
+        "seed-bomb",
+        "brick-break"
+      ]
+    },
+    {
+      "species": "slaking",
+      "moves": [
+        "ice-punch",
+        "strength",
+        "rock-slide",
+        "earthquake"
+      ]
+    },
+    {
+      "species": "weavile",
+      "moves": [
+        "night-slash",
+        "ice-punch",
+        "brick-break",
+        "quick-attack"
+      ]
+    },
+    {
+      "species": "zubat",
+      "moves": [
+        "brave-bird",
+        "sludge-bomb",
+        "heat-wave",
+        "giga-drain"
+      ]
+    },
+    {
+      "species": "diglett",
+      "moves": [
+        "earthquake",
+        "earth-power",
+        "aerial-ace",
+        "shadow-claw"
+      ]
+    }
+  ]
+}

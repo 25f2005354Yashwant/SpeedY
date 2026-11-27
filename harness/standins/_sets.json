@@ -1,0 +1,42 @@
+{
+ "tune": [
+  "t_aggr",
+  "t_altmoves",
+  "t_altmoves_aggr",
+  "t_boss",
+  "t_boss_r",
+  "t_bulky",
+  "t_bulky_r",
+  "t_fastphys",
+  "t_fastphys_r",
+  "t_icerock",
+  "t_icerock_r",
+  "t_mixed",
+  "t_mixed_r",
+  "t_patient",
+  "t_sinnoh",
+  "t_sinnoh_r",
+  "t_water",
+  "t_water_r"
+ ],
+ "heldout": [
+  "h_aggr2",
+  "h_altmoves",
+  "h_altmoves_patient",
+  "h_dragons",
+  "h_dragons_r",
+  "h_elecpsy",
+  "h_elecpsy_r",
+  "h_fire",
+  "h_fire_r",
+  "h_legends",
+  "h_legends_r",
+  "h_patient2",
+  "h_poison",
+  "h_poison_r",
+  "h_special",
+  "h_special_r",
+  "h_steel",
+  "h_steel_r"
+ ]
+}

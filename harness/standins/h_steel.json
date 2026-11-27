@@ -1,0 +1,84 @@
+{
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "patient",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 1.5,
+ "switch_cooldown": 2,
+ "danger_threshold": 0.6,
+ "weak_offense_threshold": 0.7,
+ "aggression": 0.8,
+ "status_weight": 1.5,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "bronzong",
+ "stall_penalty": 0.5,
+ "variant": "h_steel",
+ "team": [
+  {
+   "species": "metagross",
+   "moves": [
+    "meteor-mash",
+    "zen-headbutt",
+    "earthquake",
+    "strength"
+   ]
+  },
+  {
+   "species": "lucario",
+   "moves": [
+    "aura-sphere",
+    "flash-cannon",
+    "earthquake",
+    "psychic"
+   ]
+  },
+  {
+   "species": "scizor",
+   "moves": [
+    "x-scissor",
+    "iron-head",
+    "strength",
+    "brick-break"
+   ]
+  },
+  {
+   "species": "magnezone",
+   "moves": [
+    "thunderbolt",
+    "flash-cannon",
+    "signal-beam",
+    "swift"
+   ]
+  },
+  {
+   "species": "empoleon",
+   "moves": [
+    "hydro-pump",
+    "flash-cannon",
+    "ice-beam",
+    "earthquake"
+   ]
+  },
+  {
+   "species": "bronzong",
+   "moves": [
+    "iron-head",
+    "psychic",
+    "earthquake",
+    "strength"
+   ]
+  }
+ ],
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}

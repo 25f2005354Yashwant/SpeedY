@@ -1,0 +1,84 @@
+{
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "balanced",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 2.0,
+ "switch_cooldown": 3,
+ "danger_threshold": 0.6,
+ "weak_offense_threshold": 0.4,
+ "aggression": 1.0,
+ "status_weight": 1.0,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "starmie",
+ "stall_penalty": 0.5,
+ "variant": "h_special_r",
+ "team": [
+  {
+   "species": "alakazam",
+   "moves": [
+    "thunder-punch",
+    "energy-ball",
+    "zen-headbutt",
+    "secret-power"
+   ]
+  },
+  {
+   "species": "gengar",
+   "moves": [
+    "giga-drain",
+    "ominous-wind",
+    "strength",
+    "sludge-bomb"
+   ]
+  },
+  {
+   "species": "porygon-z",
+   "moves": [
+    "thunder",
+    "signal-beam",
+    "thunderbolt",
+    "dark-pulse"
+   ]
+  },
+  {
+   "species": "togekiss",
+   "moves": [
+    "fire-blast",
+    "aura-sphere",
+    "swift",
+    "psychic"
+   ]
+  },
+  {
+   "species": "magnezone",
+   "moves": [
+    "zap-cannon",
+    "iron-head",
+    "spark",
+    "signal-beam"
+   ]
+  },
+  {
+   "species": "starmie",
+   "moves": [
+    "surf",
+    "water-pulse",
+    "flash-cannon",
+    "waterfall"
+   ]
+  }
+ ],
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}
