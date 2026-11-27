@@ -115,8 +115,8 @@ variant with a completely different team is our main risk.
 
 | Role | Name | Contribution |
 |---|---|---|
-| Lead | _Name_ | _e.g. strategy, team search, policy, evaluation_ |
-| Member | _Name_ | _e.g. testing, analysis, documentation_ |
+| Lead | _Yashwant_ | _testing, analysis, documentation_ |
+| Member | _Rahul Arya_ | _strategy, team search, policy, evaluation_ |
 
 ## Credits
 
